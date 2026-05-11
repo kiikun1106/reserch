@@ -1,0 +1,32 @@
+EDU/WKP(2024)11  67 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+easiness of measurement, subtle cultural and intellectual biases of interest from researchers, 
+or contrasting social perceptions of the relevance of these skills, is difficult to judge. 
+ 
+6.2. The (limited) potential of transversal technological approaches to assess SES 
+Transversal technologies which can transversally be implemented in the context of task- 
+and game-based assessments, for greater richness and quality of SES assessment, were also 
+explored in this paper. Table 6.2 contrasts and summarises the strengths and challenges 
+associated with the different technological approaches which can be used to assess SES. 
+The use of biophysiological measures offer, by principle, less biased data compared to self-
+reports or even behavioural tests, since our heartrate, hormone levels or spontaneous gaze 
+are not under our direct control (Ketonen et al., 2023[212]; Richardson et al., 2020[213]). 
+Technologies such as VR and AR can potentiate immersiveness and ecological validity, 
+when compared to playing digitalised tasks or games in front of a 2D screen (Giglioli et al., 
+2017[214]). AI technologies are widely regarded as a hallmark of the future and its 
+permeation into education appears indisputable  (Chiu et al., 2023[215]; Cope, Kalantzis and 
+Searsmith, 2021[216]). Therefore, their use in educational assessment cannot be ignored, as 
+AI manifests its potential in different dimensions, from assessment design to a more 
+efficient and sophisticated analysis of various types of data. 
+Even though all these technologies offer complementary benefits to SES assessment, each 
+of them also introduces additional challenges and limitations. From the non-linear 
+relationship between biodata and skills or behaviours, to the need for specialised staff and 
+equipment for its collection, which limits the large-scale application of biophysiological 
+measures for assessment. Although VR and AR potentially offer more immersive and 
+realistic experiences, they lack the upper hand when contrasted with tasks and digital games 
+that, even though come in classical 2D format, have been subject to much more validation 
+scrutiny. Moreover, even though AI for assessment analytics and for skills inferencing hold 
+many promises and their incorporation into education and assessment is realistically 
+unavoidable, at this point their unconsolidated state, limited validation studies and ethical 
+concerns form sufficient obstacles to limit their clear recommendation. 

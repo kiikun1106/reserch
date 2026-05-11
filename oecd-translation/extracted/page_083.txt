@@ -1,0 +1,58 @@
+82  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Siegling, A., D. Saklofske and K. Petrides (2015), “Measures of Ability and Trait Emotional 
+Intelligence.”, in Measures of Personality and Social Psychological Constructs, Elsevier Inc., 
+https://doi.org/10.1016/B978-0-12-386915-9.00014-0. 
+[109] 
+Snow, E. et al. (2016), “Taking Control: Stealth Assessment of Deterministic Behaviors Within a Game-
+Based System”, International Journal of Artificial Intelligence in Education, Vol. 26/4, pp. 1011-1032, 
+https://doi.org/10.1007/s40593-015-0085-5. 
+[14] 
+Špiljak, B. et al. (2022), “A Review of Psychological Stress among Students and Its Assessment Using 
+Salivary Biomarkers”, Behavioral Sciences, Vol. 12/10, pp. 1-15, https://doi.org/10.3390/bs12100400. 
+[168] 
+Steponavičius, M., C. Gress-Wright and A. Linzarini (2023), “Social and emotional skills: Latest evidence 
+on teachability and impact on life outcomes”, OECD Education Working Papers, No. 304, OECD 
+Publishing, Paris, https://doi.org/10.1787/ba34f086-en. 
+[2] 
+Stoeffler, K. et al. (2020), “Gamified performance assessment of collaborative problem solving skills”, 
+Computers in Human Behavior, Vol. 104, https://doi.org/10.1016/j.chb.2019.05.033. 
+[135] 
+Suman, C. et al. (2022), “A multi-modal personality prediction system”, Knowledge-Based Systems, 
+Vol. 236, https://doi.org/10.1016/j.knosys.2021.107715. 
+[205] 
+Sun, C. et al. (2022), “The relationship between collaborative problem solving behaviors and solution 
+outcomes in a game-based learning environment”, Computers in Human Behavior, Vol. 128, 
+https://doi.org/10.1016/j.chb.2021.107120. 
+[133] 
+Sutter, M., A. Untertrifaller and C. Zoller (2022), “Grit increases strongly in early childhood and is related 
+to parental background”, Scientific Reports, Vol. 12/1, https://doi.org/10.1038/s41598-022-07542-4. 
+[51] 
+Taub, M. et al. (2017), “Using multi-channel data with multi-level modeling to assess in-game 
+performance during gameplay with CRYSTAL ISLAND”, Computers in Human Behavior, Vol. 76, 
+pp. 641-655, https://doi.org/10.1016/j.chb.2017.01.038. 
+[161] 
+Terhürne, P. et al. (2022), “Validation and application of the Non-Verbal Behavior Analyzer: An 
+automated tool to assess non-verbal emotional expressions in psychotherapy”, Frontiers in Psychiatry, 
+Vol. 13, https://doi.org/10.3389/fpsyt.2022.1026015. 
+[197] 
+Thielmann, I. et al. (2021), “Economic Games: An Introduction and Guide for Research”, Collabra: 
+Psychology, Vol. 7/1, https://doi.org/10.1525/collabra.19004. 
+[89] 
+Thielmann, I., B. Hilbig and I. Niedtfeld (2014), “Willing To Give But Not To Forgive: Borderline 
+Personality Features And Cooperative Behavior”, Journal of Personality Disorders, Vol. 28/6, pp. 778-
+795, https://doi.org/10.1521/pedi_2014_28_135. 
+[88] 
+Thompson, N., C. van Reekum and B. Chakrabarti (2022), “Cognitive and Affective Empathy Relate 
+Differentially to Emotion Regulation”, Affective Science, Vol. 3/1, pp. 118-134, 
+https://doi.org/10.1007/s42761-021-00062-w. 
+[68] 
+Timmons, A. et al. (2023), “A Call to Action on Assessing and Mitigating Bias in Artificial Intelligence 
+Applications for Mental Health”, Perspectives on Psychological Science, Vol. 18/5, pp. 1062-1096, 
+https://doi.org/10.1177/17456916221134490. 
+[204] 
+Tor, N. and G. Gordon (2020), “Digital interactive quantitative curiosity assessment tool: Questions 
+worlds”, International Journal of Information and Education Technology, Vol. 10/8, pp. 614-621, 
+https://doi.org/10.18178/ijiet.2020.10.8.1433. 
+[137] 

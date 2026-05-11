@@ -1,0 +1,52 @@
+EDU/WKP(2024)11  15 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Given the focus on innovative assessments underlying this paper, a filter was applied to 
+locate articles published in 2015 or afterwards. Of note, tools developed before 2015 were 
+included and reviewed only when more recent scientific publications used, and sometimes 
+even adapted, those same tools. The 2015 cutoff is a way to ensure that the tools included 
+in this review have still been used in relatively recent years and, therefore, still relevant. 
+Titles and abstracts were screened in order to assure that the papers introduced and tested 
+a new behavioural assessment tool, rather than relying solely on indirect questionnaire-
+based reports. Articles that included assessment tools specifically designed for clinical 
+purposes, targeting neurodivergent populations or populations that suffer from 
+neuropsychiatric conditions, such as autism, depression or attention deficit hyperactivity 
+disorder, were excluded, unless the tool was also validated on a neurotypical control 
+population. Articles that included assessment tools only applicable to preschoolers (< 6 
+years old) were excluded. Also, we focused primarily on original research papers, although 
+review articles that included references to original assessment tools were also initially kept 
+for further extraction. Finally, given that the purpose of this work was to map new 
+assessment tools in the literature, we excluded task- or game-based behavioural 
+assessments already developed and validated by the OECD. They include the Xandar Task, 
+on Collaborative problem solving, used in PISA1 2015 (OECD, 2017[31]), or the Creative 
+Thinking Assessment, applied in PISA 2022 (OECD, 2022[32]). 
+The final selection of skills and keywords was driven by the need to cover the literature on 
+direct assessment tools of SES as thoroughly as possible. The objective is to provide a 
+broad mapping of the state of the art on a large number of skills. This work does not aim to 
+impose a taxonomy of SES. Debates regarding the classification of certain constructs, such 
+as whether they should be classified as skills or traits, or whether they fall under the 
+category of SES, are briefly mentioned in the relevant sections. However, a detailed 
+analysis of these debates is beyond the scope of this work. To ensure that the constructs 
+reviewed were consistent with the broad OECD definition of SES (see Glossary), we 
+defined each skill by incorporating contributions from the OECD framework 
+(Steponavičius, Gress-Wright and Linzarini, 2023[2]), along with other definitions from the 
+literature. Additionally, we included the operational definitions of each skill used by the 
+developers of the assessment tools. For this reason, we established an equivalence between 
+the construct evaluated by the tool and our terminology, based on the content of their 
+respective definitions. For example, if the purpose of a tool is to assess “Impulsivity 
+Control”, we code that skill as “Self-control”, after verifying the definition provided in the 
+publication and the construct being assessed by the tool effectively align the OECD 
+framework. 
+We identified and reviewed 57 behavioural assessment tools and paradigms, including, 34 
+task-based assessments and 20 game-based assessments. We also identified and included 
+information from several articles that more extensively tested existing assessment tools, 
+developed either by the same research group or other groups. These articles expanded the 
+applicability of the respective tools, by modifying or modernising their design or by further 
+validating them with different populations. The full list of assessment tools reviewed can 
+be consulted in Annex B: Full list of identified behavioural assessment tools, where DOIs 
+links for the respective articles are provided.  
+3.2. Criteria for review 
+The tools were described and reviewed according to a set of criteria. While these criteria 
+and their associated ratings were originally defined to allow an informed comparison of 
+ 
+1 OECD’s PISA: Programme for International Student Assessment 

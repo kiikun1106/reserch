@@ -1,0 +1,52 @@
+42  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+and a personal evaluation one makes about oneself”. While both Self-efficacy and Self-
+esteem reflect self-evaluation, self-efficacy is more task-specific and malleable and self-
+esteem is more general and stable (Chen, Gully and Eden, 2004[110]). No tasks assessing 
+neither Self-efficacy nor Self-esteem were identified, although literature exists on 
+assessments of task-specific Self-efficacy, such as in mathematics (Siefer, Leuders and 
+Obersteiner, 2021[111]). It is worth noting that the nature of Self-esteem and Self-efficacy 
+makes it questionable whether it can be considered a skill according to the OECD 
+definition. 
+4.2. Mixed batteries 
+Mixed batteries are a collection of assessment tools that includes two or more measurement 
+types, namely tasks, SJTs and indirect reports (self-reports from students, but also teacher, 
+parent and peer reports). For this reason, usually mixed batteries have a larger scope of 
+skills being assessed, covering multiple skills simultaneously with the potential benefit of 
+offering complimentary validation for the same skill by different measurement tools. In 
+other instances, although several skills are assessed through the battery, each individual 
+skill is only assessed by one type of assessment tool. A clear advantage for the use of this 
+collective tool lies with its scope and overlapping validation, which makes it an efficient 
+method for assessing multiple SES (Walton et al., 2022[112]). 
+SELweb is a well-validated mixed battery assessment tool, which includes different tasks 
+and SJTs. Covering various skills, two versions have been developed, one for early 
+elementary school pupils (EE), from ages 4 to 9 (McKown, 2019[113]), and one for late 
+elementary school students (LE), ages 9 to 12 (McKown, Russo-Ponsaran and Karls, 
+2023[114]). The EE SELweb version tests the skill Emotion recognition, through a task 
+displaying facial emotion expressions which requires pupils to directly identify those 
+emotions. Additionally, EE SELweb separately tests Perspective-taking and Social 
+problem-solving skills, through the use of SJTs. In these, illustrated written vignettes are 
+presented to the pupils and they are asked questions about the words and actions, as well 
+as the true intentions of the characters in the story. They are also asked how they want the 
+situation to turn out and which actions they would choose. Finally, EE pupils are tested for 
+Self-control skills using a simple computerised task involving frustration and gratification 
+delay, with the use of digital rockets and geometrical shapes. 
+The design is slightly different for LE students, under a principle of increasing difficulty 
+according to their respective age. In LE SELweb students are tested for complex Emotion 
+recognition, being presented with illustrated and narrated stories of complex scenarios 
+which elicit mixed or complex emotions, such as pride, embarrassment or guilt. This is in 
+clear contrast with the identification of simpler facial expressions of happiness or sadness 
+that characterise the EE version, so we consider the assessment of complex Emotion 
+recognition as, in fact, an assessment of Perspective-taking skills. Then, like the version 
+for younger students, LE SELweb also tests for Perspective-taking and Social problem-
+solving skills using situational judgement tests. Using written vignettes that this time 
+present students with more ambiguous and socially challenging situations, they are asked 
+to make accurate inferences about the story characters’ mental state, choose a preferred 
+course of action and how would they deal with the consequences of those choices. Finally, 
+LE students were tested for Emotional control skills, by written vignettes asking them to 
+imagine undesirable emotions and which strategy would they use to deal with those 
+emotional states effectively. While infective strategies were presented, such as “punching 
+a pillow”, effective emotion regulation strategies included actions such as “taking a few 
+deep breaths”, “walking away from a situation”, or “thinking about the situation in a way 
+that is not upsetting”.  

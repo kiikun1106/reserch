@@ -1,0 +1,35 @@
+24  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Figure 4.1. The OECD framework and supplementary skills reviewed 
+ 
+4.1.1. Task performance 
+Self-control  
+Self-control, defined as the ability “to avoid distractions and sudden impulses and focus 
+attention on the current task in order to achieve personal goal” (Chernyshenko, Kankaraš 
+and Drasgow, 2018[40]; Kankaraš and Suarez-Alvarez, 2019[39]), is closely linked to 
+Attention control and Inhibitory control, representing the cognitive aspects of Self-
+regulation (http://exploresel.gse.harvard.edu/compare-terms/, accessed 10 January 2024). 
+In cognitive psychology and neuropsychology, Inhibitory control is an executive function 
+described as the ability to control our behaviour, emotions, and cognitions in order to adapt 
+to our natural and social environment (Musek, 2017[41]). However, the relationship between 
+Self-control, Self-regulation, Inhibitory control, and other executive functions is not 
+uniformly defined, with some disagreement in the literature (Steponavičius, Gress-Wright 
+and Linzarini, 2023[2]). Inhibitory control encompasses a broader range of cognitive 
+processes, not limited to SES. To distinguish SES from foundational cognitive processes 
+(see the OECD definition of SES in see Glossary), tasks reviewed for evaluating Self-
+control include emotional or social aspects, ensuring they assess more than just cognitive 
+abilities. 
+Most of the "emotional" tasks for Self-control identified in this review are modified 
+versions of traditional neuropsychological tests that evaluate Inhibitory control (Bland 
+et al., 2016[42]). Standard neuropsychological tests measuring Inhibitory control through 
+motor or response inhibition include the Stroop Task, Go/No-Go Task, Simon Task, 
+Flanker Task, Antisaccade Tasks and Stop-Signal Tasks. These tasks focus on the 
+individual's ability to override natural responses for goal-oriented behaviours. In these 
+foundational paradigms, Inhibitory control is gauged by comparing the response time or 
+quality of response to relevant stimuli versus the reaction time to irrelevant stimuli, 
+essentially measuring the delay in automatic response to a stimulus containing both relevant 
+and irrelevant information. To infuse an emotional dimension, these seminal paradigms are 
+modified by substituting neutral stimuli with emotionally charged ones, like words 
+signifying emotions or emotionally charged terms, such as 'war' or 'holidays', or visual 
+stimuli like expressive faces or images eliciting strong emotions, like disgust or sadness 

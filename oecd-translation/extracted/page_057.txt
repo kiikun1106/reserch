@@ -1,0 +1,52 @@
+56  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+curious showed different eye movement patterns when engaging with reading materials, 
+namely by displaying different gaze dynamics when anticipating new knowledge (Baranes, 
+Oudeyer and Gottlieb, 2015[158]). Similar findings were observed for the relationship 
+between Creativity and eye movements, by having one hundred adult participants solving 
+a figural creativity test while wearing eye tracking devices. The researchers found that the 
+more fixations recorded on particular areas of interest, and the longer those fixations, the 
+higher the participants’ scores on the creativity test were. Thus, simple information on eye 
+movements and fixations was able to predict the scores obtained by participants in a 
+creative task (Jankowska et al., 2018[159]). 
+Eye tracking technologies have been incorporated into game-based assessments to provide 
+additional information on players’ internal states and behaviours, including specific skills. 
+An example is Crystal Island, a game initially designed to teach middle school students 
+about varied science content, as well as scientific reasoning and problem-solving abilities 
+in an engaging way (Lester et al., 2014[160]). Since its initial development, research efforts 
+have multiplied the number of variations around the game and of experiments to understand 
+the learning process underlying the exploration of this world, with studies mostly in young 
+adult populations. In one of these variations, researchers created a complex narrative 
+regarding a mysterious disease which has spread throughout this fictional island (Taub 
+et al., 2017[161]). In this exploratory 3D game, the player is tasked to collect clues in order 
+to uncover the source of the disease, by exploring the island, visiting different buildings, 
+talking to people and interacting with objects. Critically, these objects include papers and 
+posters, sometimes with complex texts, and food items which can be tested in the 
+laboratory, all to understand the microbiological source of the disease. After collecting the 
+information they had to fill out matrices with questions to reach a conclusion. To assess the 
+Metacognition skill of the players, the game tracked the players’ choices regarding the 
+number and the specific virtual books they choose to interact and read before giving their 
+answers. Importantly, they complement this data by incorporating eye tracking 
+mechanisms to collect data on specific fixation points and fixation durations associated 
+with the reading material necessary to solve the mystery. This way, the exact information 
+players look for when reading the books and papers and portions they choose to reflect on 
+could be verified.  
+Researchers found that participants who have higher fixation periods both when reading 
+the books for information and when filling out the matrices with questions show poorer 
+performance. In turn, lower proportions of fixations and going back to each book more 
+frequently was associated with better performance, when having to conclude about the 
+origins of the disease. The researchers’ interpretation of these results was that participants 
+who decided to spend less time reading the entire book, and instead strategically opted to 
+scoop for the relevant information needed to complete the matrices, show better 
+metacognitive abilities. So, going back and forth between the questions and the source of 
+information needed to answer them, quickly identifying the more relevant pieces of text, 
+reflects a prioritising of quality over quantity, and is framed as a more efficient 
+metacognitive ability. The advantage of this game in combining the assessment of 
+metacognition skills in a challenging and immersive learning context has led to various 
+other papers exploring additional dimensions of metacognition and agency, by employing 
+both eye tracking and facial expression analysis (Dever and Azevedo, 2019[162]; Dever 
+et al., 2020[163]; Emerson et al., 2020[164]) 
+5.1.3. Cortisol 
+Cortisol is a hormone physiologically associated with stress and stress responses, usually 
+rising in reaction to various psychological and physical stressors. It can thus be used a 

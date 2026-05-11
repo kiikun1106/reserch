@@ -1,0 +1,52 @@
+58  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+5.2. Virtual reality and augmented reality  
+The technologies sustaining Virtual Reality (VR) and Augmented Reality (AR) have 
+greatly expanded over the last decade and the increasingly affordable costs associated with 
+these tools have paved way for higher accessibility and more diverse applications, both for 
+entertaining and learning purposes. In educational contexts, for instance, the immersive and 
+interactive worlds these technologies offer to users allow them to explore virtual field trips 
+or visually manipulate 3D scientific concepts like human cells or the solar system. These 
+interactive learning experiences, otherwise unattainable in the real world or limited to two-
+dimensional representations on paper or screen, leverage the engagement and motivation 
+in students (AlGerafi et al., 2023[175]; Papanastasiou et al., 2019[176]). 
+VR is a technology which immerses people in a completely virtual and digital 3D 
+environment, whereas AR fuses digital information with the physical environment 
+individuals see, allowing for a fluid interaction between real and digital elements, hence 
+augmenting the real-world experience. In education contexts, AR allows students to 
+interact with observable objects in their classroom which are blended with digital 
+annotations or animations, amplifying real-world visualisation with contextual 
+information. VR, on the other hand, fully immerses people in environments in which 
+variables are fully controlled to display a very precise experience. Together, these two 
+technologies contribute to diversify learning opportunities for students, in more engaging, 
+immersive and creative ways (AlGerafi et al., 2023[175]; Papanastasiou et al., 2019[176]). 
+The literature review has shown the educational research on VR and AR is much more 
+prolific regarding the use of these technologies for learning rather than for assessment. 
+However, these two dimensions are not mutually exclusive, as the learning interventions 
+implemented in VR often also comprise an assessment component, often formative 
+assessment, suggesting the possibility of a relatively easy adaption. Therefore, the use of 
+VR and AR in learning interventions will be briefly discussed here. A recent metanalysis 
+has demonstrated the use of VR in education results in better learning outcomes for both 
+knowledge and skill development, when compared with the impact of non-immersive 
+digital technologies or even with typical school lectures. Importantly, the authors found 
+this technology particularly benefits primary and lower secondary students, when 
+compared to post-secondary school learners (Wu, Yu and Gu, 2020[177]). Other work has 
+corroborated the advantage of immersive VR for learning outcomes, especially for highly 
+complex scientific content and problems demanding more visual-spatial cognitive demands 
+(Hamilton et al., 2021[178]). Similarly, a large body of research has validated that the 
+inclusion of AR in pedagogical practices, across different countries and school levels, also 
+leads to improved learning outcomes and high levels of student engagement 
+(Lampropoulos et al., 2022[179]). On the other hand, a metanalysis looking in particular at 
+the use of VR for social skills development found that, even though VR shows 
+effectiveness, it is not necessarily better than non-immersive digital technologies (Howard 
+and Gutworth, 2020[180]). Such finding, however, might only reflect that existing games and 
+programmes do not yet fully explore the potential of VR. Since this technology is under 
+constant development, both from graphical and interactive perspectives, future virtual 
+training programs will perhaps prove more effective in developing social skills. 
+One of the main advantages of the immersiveness of VR is precisely to foster a greater 
+“sense of presence”, as it is often described, which better mimics real-world experiences 
+(Wilkinson, Brantley and Feng, 2021[181]). For example, research has shown immersive 
+environments can more effectively stimulate cognitive function, resulting in improved 
+memory performance when performing tasks in VR rather using classical digital tools 
+(Ventura et al., 2019[182]). In the context of this work, it is particularly useful to understand 

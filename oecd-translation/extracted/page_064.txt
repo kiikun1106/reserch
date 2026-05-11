@@ -1,0 +1,50 @@
+EDU/WKP(2024)11  63 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+to education (Tuomi, 2022[19]). These challenges highlight the need for AI systems that are 
+both adaptable and nuanced, capable of accommodating cultural and contextual differences 
+in emotional and social expressions. Another challenge is the limitation of the field's 
+advancement by proprietary data constraints, making it difficult to compare methodologies 
+or validate data against rigorous psychological standards through peer-reviewed 
+publication processes (Suman et al., 2022[205]). Finally, the collection and handling of 
+sensitive personal data requires strict privacy and security measures to protect individuals' 
+rights and confidentiality, especially when AI tools are applied to data collected from 
+sensitive populations (such as students and children) or in sensitive contexts (such as 
+schools). 
+5.3.3. Conclusion 
+AI's integration into the assessment of SES may open a new era of insight, offering great 
+opportunities to support individuals' development more effectively. However, addressing 
+challenges in accuracy, cultural sensitivity, and privacy is essential for harnessing AI's full 
+potential. As AI technologies continue to evolve, constant dialogue between ongoing 
+research in academia and the private sector, as well as strong policies to regulate AI use, 
+will be essential in harnessing their full potential for the betterment of educational, 
+workplace, and healthcare outcomes. 
+5.4. Digital footprints and behavioural measures from videogames 
+In today's digital landscape, individuals leave behind a vast richness of data through their 
+interactions on social media and within videogames. This data has the advantage of being 
+readily available, saving the cost of creating an assessment tool, and of being collected over 
+a longer period of time and in a broader context than what a specific assessment would 
+allow. 
+Digital footprints encompass the traces individuals leave across various digital 
+environments, including social networks, learning platforms, massive online courses, and 
+digital information systems, such as forums and blogs (Buitrago-Ropero, Ramírez-
+Montoya and Laverde, 2023[206]). These footprints can be passive, comprising data 
+accessible online without deliberate action, or active, created intentionally often for specific 
+audiences. While some digital footprints are generated involuntarily, others result from 
+deliberate actions such as publishing messages or exchanging information. Recent 
+approaches have used digital footprints for psychometric modelling, to infer personality 
+traits (Li et al., 2022[207]) or social-related skills such as leadership (Buitrago-Ropero, 
+Ramírez-Montoya and Laverde, 2023[206]), for example. 
+Another source of data comes from behavioural measures extracted from commercial off-
+the-shelf videogames, not initially developed for assessment nor educational purposes. In 
+recent years, the recreational videogame industry has embraced a more narrative-driven, 
+choice-based format (Burrus, Rikoon and Brenneman, 2022[208]). Videogames such as Life 
+Is Strange (2015), Detroit: Become Human (2019), or Baldur’s Gate 3 (2023) exemplify 
+this shift, presenting players with intricate social interactions and dilemmas that directly 
+impact gameplay and characters well-being. Players are empowered to make consequential 
+choices that change the narrative of the game. Some videogames even allow players to 
+revisit choices, encouraging reflection and exploration of alternative paths. This format has 
+the potential to enhance immersive, contextualised and realistic SES assessment 
+experiences within gaming environments. These existing commercial games have been 
+used in scientific research to assess SES in a stealthy and engaging way, by extracting 
+selective data on players’ performance and decisions. Their level of complexity allows for 

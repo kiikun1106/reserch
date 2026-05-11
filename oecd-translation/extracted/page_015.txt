@@ -1,0 +1,65 @@
+14  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+list of tools reviewed is presented in an online table (Behavioural Assessment Tools for 
+SES), and a large part of these instruments are described in section 4 and section 5. 
+Since the purpose of this work is to identify and map new tools and assessment approaches, 
+self-report or other-report questionnaires were not reviewed, and SJTs were not reviewed 
+consistently (see section 2.2). The review focuses extensively on Behaviour-based 
+assessment tools, but also covers transversal technological approaches for innovative 
+assessments, including Biophysiological measurements, VR and AR, AI applications, and 
+analysis of Digital footprints and behavioural measures from videogames. 
+These broad categories have been chosen for practical reasons/readability, and we 
+acknowledge that some tools and approaches contain elements that would fit in several of 
+them. Indeed, the categorisation presented here should not be considered as a formal 
+taxonomy regarding the organisation of assessment types. Also, a vast literature was 
+identified for each of these assessment approaches, along with significant differences 
+regarding their current scientific reliability and validity and practical applicability. 
+Therefore, in section 4, we opted to present in detail a number of tools within the 
+behavioural-based assessments, while section 5 gives a larger overview of the state of the 
+art for the remaining technological approaches.  
+3.1. Review methodology 
+Firstly, to map the state of the art of the field and identify research trends, we conducted a 
+general search, using Google Scholar (https://scholar.google.com/) as our primary 
+academic search engine. We looked for combinations of the terms “social and emotional 
+skills” OR “life skills” OR “social-emotional competencies” with general types of 
+assessment or approach, such as “behaviour-based assessments”, “biophysiological data” 
+(including “heart activity”, “cortisol”, “eye tracking”), “virtual reality”, “augmented 
+reality”, “artificial intelligence”, “digital footprint” and “behavioural residue”. Initially, we 
+looked for these combinations in the articles' titles and abstracts. We identified and 
+reviewed relevant articles relating SES to each assessment tool type and each approach. 
+Given the large number of results in favour of behaviour-based assessments, we conducted 
+a second round of search, more refined and systematic, to identify behaviour-based 
+assessments of all individual SES, using Google Scholar. The search strings were designed 
+by combining two components, the names of the individual SES followed by iterations of 
+the different subtypes of assessments. The first string component, the search terms for the 
+individual SES, derived primarily from the framework of the OECD Survey on Social and 
+Emotional Skills (Steponavičius, Gress-Wright and Linzarini, 2023[2]), to which synonyms 
+were added from the Concept notes of Future of Education and Skills 2030 (OECD, 
+Forthcoming[30]) 
+and 
+from 
+Harvard’s 
+ExploreSEL 
+online 
+comparative 
+tool 
+(http://exploresel.gse.harvard.edu/compare-terms/) (for the full list of search keywords, see 
+Annex A: Search terms for SES). The second search string component, the assessment type, 
+started with a first search round involving a general reference to “behavioural assessment” 
+or “behaviour-based assessment”, after which searching iterations were run for specific 
+behavioural approaches using “game”, “game-based assessment”, “task” and “task-based 
+assessment”. As an example, the search strings for “Self-control” were all possible 
+combinations of: Self-control / self-discipline + behavioural assessment / behaviour-based 
+assessment / game / game-based assessment / task / task-based assessment.  
+Aside from Google Scholar, additional behaviour-based assessments were identified 
+through 
+the 
+SEL 
+assessment 
+compendia 
+RAND 
+Assessment 
+Finder 
+(https://www.rand.org/education-and-labor/projects/assessments/tool.html) and using a 
+snowballing approach. 

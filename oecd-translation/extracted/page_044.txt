@@ -1,0 +1,50 @@
+EDU/WKP(2024)11  43 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Both these mixed batteries have been validated in thousands of children, contemplating 
+gender and ethnicity comparisons, with high reliability, including internal consistency and 
+test-retest metrics, for all different tests used. Moreover, construct validity has been found 
+for both versions and, in particular, EE SELweb results has also been positively tested for 
+criterion validity by correlating with academic outcomes (McKown, 2019[113]; McKown 
+et al., 2023[115]; McKown, Russo-Ponsaran and Karls, 2023[114]). 
+The MSCEIT [Mayer, Salovey, & Caruso, 2002] and the MSCEIT-YV (Rivers et al., 
+2012[116]) are batteries developed to assess Emotional Intelligence (EI) in adults, and in 
+children and adolescents, respectively. The conceptualisation of EI is a highly debated topic 
+in the scientific literature and the exact scope of abilities it captures is not consensual 
+(Anglim et al., 2020[117]; Vaida and Opre, 2014[118]). The authors of this seminal battery 
+have defined it as “the ability to monitor one's own and others' feelings and emotions, to 
+discriminate among them and to use this information to guide one's thinking and actions” 
+(Salovey and Mayer, 1990[119]). According to this definition, EI can be framed as complex 
+psychological construct which encompasses multiple dimensions and skills that can be 
+dispatched across the OECD framework of SES. In that sense, it is possible to decompose 
+EI into Metacognition, Emotion recognition, Perspective-taking, Emotional control, and 
+Social problem-solving skills.  
+The overall scale of EI is divided in four branches of abilities grouped in two EI areas 
+(Experiential EI includes Perceiving emotions and Facilitating thought; Strategic EI 
+includes Understanding emotions and Managing emotions). Each branch score, in turn, is 
+made up of two individual tasks. MSCEIT-YV is slightly different from the adult version. 
+One of its tasks involves identifying emotions in photographed faces of youth, covering 
+Emotion recognition abilities. A different task complexifies what is requested from 
+participants, by presenting definitions of emotions or describing social situations. Then, 
+through a multiple-choice method, test-takers are asked to interpret the definitions, the 
+social context, or the causes of emotional states in others, in order to identify the correct 
+emotion term that fits the situation, which aligns both with Metacognition and 
+Perspective-taking. Another task asks test-takers to imagine which physical sensations 
+they associate with certain emotions, for example by describing a scenario and then asking 
+how much the corresponding feeling of anger corresponds with each of these words: “hot, 
+red, relaxed, or heavy”. Such a task requires the ability to understand own’s thoughts and 
+emotions and create connections with subjective appreciation of other concepts, requiring 
+Metacognition skills. Lastly, test-takers are asked to rank the effectiveness of alternative 
+actions to address social and emotional situations involving other people, which taps into 
+Social problem-solving. 
+The MSCEIT batteries remain the flagship test of EI in adults. Even if most research has 
+focused on the adult version of MSCEIT, literature also supports that the MSCEIT-YV is 
+both objectively scoreable and reliably measurable. Additionally, EI scores show 
+convergent validity with similar measures  and divergent validity with assessments 
+measuring  similar but distinct constructs (Peters, Kranzler and Rossen, 2009[120]; Rivers 
+et al., 2012[116]). However, convergence between MSCEIT scores and other measurements 
+of EI is still affected by the differences in the conceptualisation of EI and the subsequent 
+mismatch between scales of different instruments (Windingstad et al., 2011[121]). Moreover, 
+criterion validity has also been confirmed by correlations of between EI scores with 
+positive outcomes, such as academic achievement, prosocial behaviour and well-
+being/health (Rivers et al., 2012[116]). 

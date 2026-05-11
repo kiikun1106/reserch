@@ -1,0 +1,53 @@
+60  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+virtual characters, who have pre-established personality traits and competences occupying 
+explicit roles in the ship. The game has multiple situations, each composed of several 
+episodes and corresponding tasks. Crucially, at the end of each situation, the players are 
+asked to assess how they feel about themselves, by also observing how the other virtual 
+members of the team report about their emotional state, as to assess Self-esteem. Self-
+efficacy, on the other hand, is assessed by asking players to evaluate their perception of 
+efficacy regarding their own game performance, contrasting this data with actual 
+performance indicators, such as reaction times or number of completed tasks. Researchers 
+found the in-game responses were strong predictors of the self-reported Self-efficacy but 
+low predictors of self-reported Self-esteem. 
+In conclusion, VR and AR technologies increase engagement, can improve learning 
+outcomes and enhance cognitive and emotional engagement by presenting audiovisual 
+stimuli in contextualised environments where higher immersion contributes to greater 
+ecological validity. However, although affordability has increased, challenges with costly 
+equipment that guarantee equitable access are still relevant. The issue with costs and 
+feasibility is especially pertinent when considering VR and AR implementation for 
+thousands of students in school settings, in order to enforce large-scale assessments. 
+Moreover, structural problems of using these technologies, such as cybersickness or the 
+high cognitive load required to familiarise oneself with the equipment and the immersive 
+digital stimuli, still require attention (AlGerafi et al., 2023[175]; Rappa et al., 2022[154]). Also, 
+specifically regarding the assessment of SES, no clear studies seem to compare the 
+difference of a game-based assessment, in its VR and non-VR forms. 
+Therefore, it is at this point difficult to conclude whether behaviours in immersive virtual 
+environments constitute better representations of daily real-life actions and choices, when 
+compared to the behaviours in simpler game-based assessments, which can be played on a 
+two-dimensional screen. Benefiting from an intense technological advancement, VR and 
+AR technologies hold great promise for the coming years, however current limitations and 
+less consolidated scientific validity still condition their use to assess SES. 
+5.3. Artificial intelligence applications 
+The integration of AI into the assessment of SES could represent a significant leap forward 
+from traditional methods. Many major recent breakthroughs in data-driven AI technologies 
+were enabled by advances in Deep Learning. These breakthroughs in various AI fields, 
+including machine learning, natural language processing, computer vision, robotics and 
+knowledge representation and reasoning offer innovative ways to analyse personal 
+characteristics (Tuomi, 2022[19]). These technologies analyse complex verbal and written 
+communication, facial expressions, and body language to identify social cues and emotions, 
+and attempt to infer emotional states, personality traits, or SES (Beyan et al., 2021[17]). In 
+the context of assessments, three main AI use cases can be distinguished: 
+• 
+In assessment design, generative AI technologies can assist in creating interactive 
+and immersive tasks and games, by producing text, audio, images, or even video. 
+This can make assessments more responsive to user input and more realistic, for 
+example, through chatbots and avatars, but also to reduce costs and time related to 
+the assessment development. 
+• 
+In assessment analytics, predictive AI can be used to infer emotional states, skills, 
+or personality traits, from data collected in dedicated assessments. 
+• 
+AI can be used for skills inferencing, which involves inferring skills from vast and 
+unstructured data sources that may not have been initially designed for that purpose. 

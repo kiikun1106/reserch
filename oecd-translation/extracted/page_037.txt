@@ -1,0 +1,45 @@
+36  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+As discussed in the previous section (see Trust and Co-operation), the Intergroup 
+Prisoner's dilemma is used in Economics research to evaluate intergroup behaviours 
+(Thielmann et al., 2021[89]). Players are divided into two groups. Each player receives a set 
+number of tokens and decides privately how many to contribute to their group's pool. These 
+contributions are multiplied and redistributed equally among in-group members but also 
+negatively impact the out-group's payoff. The collective optimum (highest sum of points 
+of all players) is achieved when no one contributes. However, contributing maximizes the 
+in-group's welfare relative to the out-group. This dilemma creates a conflict between 
+individual, in-group, and collective interests, thus creating a conflict between helping their 
+group and the overall good of all players (Thielmann et al., 2021[89]). 
+In recent decades, research on social cognition, particularly attitudes and beliefs about 
+social groups, has shifted from traditional self-report measures to indirect measures of 
+mental content, such as reaction times and unconscious responses (Kurdi et al., 2019[91]). 
+Applications of these methods (adapted from cognitive psychology) examined semantic 
+associations, showing faster responses to mentally related word pairs. This approach was 
+extended to uncover representations of social categories, revealing biases in responses to 
+racially or stereotypically related stimuli (Kurdi et al., 2019[91]). The Implicit Association 
+Test (IAT) (Greenwald, McGhee and Schwartz, 1998[92]) exemplifies this shift, using 
+response speed and accuracy to infer implicit evaluations, or spontaneous likes and dislikes, 
+by measuring how quickly participants associate categories (e.g., local vs foreigner) with 
+attributes (e.g., good vs bad). While implicit measures were initially assumed to assess 
+stable individual differences, a large chunk of literature posit that they reflect context-
+dependent processes, which raises the question of the link between IAT-like test results and 
+real-life behaviours – see for example (Elder, Wilson and Calanchini, 2023[93]).  
+However, several other tools have been developed, inspired by this approach, and use a 
+proxy to infer implicit/unconscious prejudice biases, especially towards outer groups. For 
+example, Degner and Wentura (2008[36]) used an adaptation of the Extrinsic Affective 
+Simon Task to assess behaviour towards groups of people perceived as ingroups or 
+outgroups (De Houwer, 2003[94]). In this type of reaction time task (see Figure 4.3. Image 
+representing an Extrinsic Affective Simon Task), participants are presented with white 
+words to classify on the basis of stimulus valence (for example, positive words to blue 
+button and negative words to yellow button) and coloured words to classify on the basis of 
+colour (blue words to blue button, yellow words to yellow button). On trials where the word 
+refers to a positive target concept (in this case, stereotypical names of the participant’s 
+culturally similar in-group), performance is superior when the words are in the colour 
+associated with the positive button colour. The opposite is true for trials in which the word 
+represents a negative target concept (in this case, stereotypical names of the participant’s 
+culturally distinct out-group). Their results showed that stereotypical names of a culturally 
+distinct out-group were judged more negatively than stereotypical names of a culturally 
+similar in-group, and that several measures of task performance significantly correlated 
+with measures of explicit prejudice. However, this correlation was moderated by 
+participants' motivation to control their expression of prejudice (Kurdi et al., 2019[91]). 

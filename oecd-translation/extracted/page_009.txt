@@ -1,0 +1,52 @@
+8  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+1. Introduction 
+Social and emotional skills (SES) play a critical role in education and society, and there is 
+widespread agreement regarding their importance for so many dimensions of our individual 
+and collective lives (Jones and Kahn, 2017[1]). Defined as characteristics that manifest in 
+maximal behaviours rather than typical ones (see Box 1.1), research shows SES are 
+predictive of a wide range of key life outcomes, such as academic achievement and mental 
+health, but also job performance and civic engagement. Critically, SES are also proven 
+teachable through specific educational interventions, which grants schools a pivotal role in 
+their development (Steponavičius, Gress-Wright and Linzarini, 2023[2]). These findings 
+justify an increasing incorporation of SES into the curricula of many education systems 
+around the world, targeting students from kindergarten through the end of secondary school 
+(Cipriano et al., 2023[3]; OECD, 2020[4]). 
+Box 1.1. Definition of social and emotional skills, as defined by the OECD 
+Social and emotional skills: Individual characteristics that are:  
+• 
+expressed in repeatable patterns of thoughts, feelings and behaviours;  
+• 
+manifested in maximal behaviour, or maximal capabilities, more than typical 
+behaviour (and therefore distinct from personality traits);  
+• 
+dependent on situational factors (e.g. motivation, task context, fatigue);  
+• 
+subject to developmental change and genetic predispositions; 
+• 
+teachable/responsive to intervention;  
+• 
+predictive of key life outcomes;  
+• 
+conceptually distinct from foundational cognitive processes (e.g. visual 
+processing, attention, memory retrieval) and academic skills (e.g. literacy, 
+numeracy) 
+Source: (Steponavičius, Gress-Wright and Linzarini, 2023[2]), “Social and emotional skills: Latest evidence 
+on teachability and impact on life outcome”, OECD Education Working Papers, No. 304, OECD 
+Publishing, Paris, http://dx.doi.org/10.1787/ba34f086-en   
+However, many social and emotional learning (SEL) programmes and interventions are 
+implemented without any associated robust assessment methods that measure their 
+effectiveness and their impact on specific SES. A seminal meta-analysis reviewed more 
+than 200 SEL programmes and identified that a significant proportion lacked reliable and 
+valid outcome measurements (Durlak et al., 2011[5]). Even after more than a decade later, 
+a recent survey shows that implementers of SEL programmes state the absence of adequate 
+evaluation methods as the second most relevant challenge (OECD, 2023[6]). Identifying and 
+designing scientifically solid assessment methods for measuring SES and, thus, the impact 
+of SEL interventions is therefore an urgent necessity. Current methods to assess SEL 
+programmes or to measure these skills at an individual level rely heavily on the use of self-
+reports or teacher-reports (Cipriano et al., 2023[3]). Although offering insightful 
+information, these indirect measurements carry multiple biases and are limited in providing 
+comparable and objective information (Abrahams et al., 2019[7]). Consequently, there is a 
+need to expand and diversify the portfolio of available assessment measures, to include 
+direct measurements for assessing SES, namely looking at behavioural and performance 

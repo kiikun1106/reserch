@@ -1,0 +1,35 @@
+48  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+4.3.3. Circuit Runner – Co-operation 
+As detailed above, Physics Playground assessed Co-operation by relying on the interaction 
+between three students, playing different roles in turns, to achieve a common goal. Other 
+games, such as Circuit Runner (Stoeffler et al., 2020[135]), have attempted to assess Co-
+operation by designing a narrative-driven world, where the player interacts and 
+collaborates with virtual characters. In Circuit Runner, a game tested in middle school 
+students (Polyak, von Davier and Peterschmidt, 2017[136]) and in adults (Stoeffler et al., 
+2020[135]), the interface is a 3D virtual world, where the player must enter a maze and the 
+virtual agent narratively stays a base location, in possession of key information and 
+resources for the game to proceed. This interdependence is crucial to navigate the map and 
+overcome the challenges and, thus, requires Co-operation skills, or collaborative problem-
+solving skills, as the authors frame it. While navigating the maze, the players face problems, 
+such as barriers or doors, that requires specific dialogue interactions or strategic transfers 
+of power with the virtual agent, via a chatbox, for the solutions to be obtained (see 
+Figure 4.6).  
+Figure 4.6. Screenshot from Circuit Runner 
+ 
+Note: In Circuit Runner, players interact with virtual agents and are prompted to collaborate with them via a 
+chatbox in order to navigate a maze and solve challenges. These virtual agents are in possession of key 
+information and resources which are indispensable to the game progression, requiring specific dialogue choices 
+and transfers of power so that solutions are effective. The players’ actions and dialogue choices can be extracted 
+and analysed to inform about their collaborative skills. 
+Source: Adapted from (Stoeffler et al., 2020[135]), “Gamified performance assessment of collaborative problem 
+solving skills”, Computers in Human Behavior, Vol. 104, http://dx.doi.org/110.1016/j.chb.2019.05.033   
+It is the dialogue choices and the pattern of actions the player chooses to do based on the 
+information provided by the virtual agent, that data can be collected on sub-skills, such as 
+perspective-taking, goal-oriented behaviour or strategy, which collectively form a score on 
+the co-operation skill of the player. Regarding validation metrics, the game shows high 
+internal consistency and some relevant convergent validity with external measurements. 
+This includes statistically significant positive correlations, even if low level, between the 
+player’s behaviours in the game and both their self-reports and performance in SJTs, 
+assessing their co-operative behaviours (Stoeffler et al., 2020[135]). 

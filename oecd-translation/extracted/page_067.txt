@@ -1,0 +1,54 @@
+66  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+tasks, assessments usually measure Self-control by expecting participants to focus on 
+certain tasks, by dealing with internal impulses and avoiding distractors, with non-complex 
+playable interfaces. 
+These two skills exemplify how games can offer a socially contextualised assessment of 
+SES, with improved ecological validity and higher complexity, whereas tasks offer more 
+time-efficient measurements, with reduced variables and noise, for a quicker and cleaner 
+extraction of data. These two dimensions are not an automatic advantage or disadvantage, 
+as each individual skill might in fact be better assessed by one method or the other. There 
+is indeed a trade-off between control/standardisation and complexity/realism, as the more 
+realistic and complex the context and stimuli in the assessment, the less controlled the 
+assessment becomes, and the harder it might be to isolate individual skills from those 
+assessments (Clauser, Margolis and Clauser, 2015[127]). Skills which are usually employed 
+in social contexts, such as Empathy, Collaboration, Perspective-taking or Social problem-
+solving, are perhaps more robustly assessed in their different subtilties when measured 
+through games, which offer higher levels of complexity and immersive social stimuli, 
+mimicking real-life situations. On the other hand, skills less dependent on interpersonal 
+interactions, such as Self-control, Creativity or Curiosity, might be more efficiently 
+assessed with directed tasks which offer more focus and have fewer confounding variables 
+by eliminating unnecessary social elements. However, the great majority of the reviewed 
+tasks and games have been validated individually, so a direct contrast between them is not 
+available for us to firmly conclude which method is the most effective for each skill. What 
+is clear is that tasks and games can be framed in a spectrum of simple to complex ecological 
+validity, presenting different advantages and disadvantages, which are differently relevant 
+for the distinct skills we consider. 
+Another critical aspect is the strength of the scientific reliability and validity, which 
+constitute the safeguard that assessments are effectively and consistently testing the 
+respective skill, while also relating to relevant outcomes. Several tasks, on one hand, have 
+been used for a long time, sometimes decades, meaning they have been polished and 
+validated in multiple circumstances and populations. Such robustness is reflected on the 
+high scores for the various validation criteria we considered (Behavioural Assessment 
+Tools for SES). However, even highly validated task-based assessments are usually tested 
+in relatively small samples and would benefit from having a large-scale deployment in an 
+international context for a wider validation. Game-based assessments, on the other hand, 
+tend to be more recent and often experimental. Although promising in their innovative 
+design and gameplay, many of them have merely been tested in small populations with 
+limited representativeness. Only a few exceptions have simultaneously been validated for 
+convergence with other more established measurements, for a relation with academic 
+outcomes and prosocial behaviours, for international contexts, and for diverse populations, 
+from ethnical and socioeconomic perspectives. 
+A notable finding from the research work is that assessments, considering both games and 
+tasks, are not evenly distributed across all skills. Skills present in our framework, such as 
+Responsibility, Stress Resistance, Tolerance, Assertiveness or Curiosity have none, or only 
+one, associated behavioural assessment. In contrast, skills such as Self-control, Emotional 
+control, Empathy, Co-operation, Creativity, Perspective-taking and Social problem-solving 
+benefit from having a significant number of different tasks and games to assess them. A 
+first-order explanation could be that all skills are not easily measurable and, thus, it is 
+difficult to rigorously design behavioural assessments for them, resulting in this observed 
+discrepancy. However, it could also be the case that different skills have different levels of 
+perceived relevance to society, to research and to education, which leads to a differential 
+attraction of researchers and funding towards them. The unevenness in the distribution of 
+available assessment tools per skill is evident. Whether this finding reflects differential 

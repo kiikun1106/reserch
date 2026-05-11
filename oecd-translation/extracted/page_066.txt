@@ -1,0 +1,70 @@
+EDU/WKP(2024)11  65 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Within behavioural assessments, however, tests and digital games have different benefits 
+and, naturally, not all tasks nor all games present the same assessment quality. A fine-
+grained analysis is, therefore, needed. Table 6.1. Comparisons of strengths and challenges 
+for tasks and digital games presents summarised information regarding the distinct 
+strengths and challenges associated with tasks and with digital games, in the context of SES 
+assessment. It includes aspects of ecological validity and immersiveness, reliability and 
+validity psychometrics, scope of skills assessed and considerations on feasibility and costs. 
+Table 6.1. Comparisons of strengths and challenges for tasks and digital games 
+ 
+Strengths 
+Challenges 
+Tasks 
+• Wide variety of assessment designs 
+• Collectively offer a comprehensive coverage of SES 
+• Offer more time-efficient measurements, with reduced 
+variables and noise, for a quicker and cleaner extraction 
+of data 
+• Many tasks provide robust reliability and validity 
+psychometrics to constitute an assessment alternative to 
+self-reports, although they have often not been scaled up 
+to international implementation 
+• The focus on direct instructions and simple interfaces 
+reduces subtilties of social stimuli, narratives and 
+contexts, which compromises ecological validity 
+• Reliance on a single task to represent complex and 
+multifaceted constructs can lead to oversimplification, 
+reducing its validity  
+• Can overlook the richness of students' SES as 
+manifested in different contexts, moments and situations. 
+• Cognitive load might create more noise in the data, 
+making it harder to isolate variables and measure clearly 
+defined SES 
+Digital 
+Games 
+• Wide variety of assessment designs 
+• Some can assess multiple SES simultaneously 
+• Tend to have higher levels of ecological validity, with 
+contextualised storytelling, richer audiovisual elements, 
+and greater immersiveness and interactivity 
+• Data can be extracted through multiple ways, including 
+implicit behaviours under stealth assessment paradigms 
+• Often require a significant time to be administered 
+• Most games have merely been tested in small 
+populations with limited representativeness. 
+• Complexity of stimuli and cognitive load might create 
+more noise in the data, making it harder to isolate 
+variables and measure clearly defined SES 
+• Game development is more complex and costly 
+ 
+In this paper, games are distinguished from tasks for having a conducting narrative usually 
+anchored in role-playing, or for their non-linear gameplay, whereas tasks present players 
+with more direct instructions not contextually embedded in interactive storytelling. This 
+distinction allows for the same skills to be assessed in different ways, that reflect their 
+complementary facets, as the next examples can demonstrate. Empathy, when assessed 
+through the game ZooU (DeRosier, Craig and Sanchez, 2012[128]), is measured as 
+Empathetic concern, through actionable choices, for example when choosing to attend to a 
+colleague who appears sad instead of engaging in a fun activity during recess. These actions 
+occur in an interactive environment with observable impacts in the other characters. On the 
+other hand, tasks give straightforward instructions which allow for a direct extraction of 
+data on decisions and behaviours, although in a non-interactive environment where the 
+social and emotional stimuli are static. For example, when using the MET task (Dziobek 
+et al., 2008[83]), Empathy is assessed in its Cognitive and Emotional empathy facets, by 
+presenting participants with emotional facial expressions and asking them to identify the 
+emotion and then whether they share the same feeling. Similarly, Self-control in the same 
+game, ZooU, is assessed as a response to social, external stimuli, through multiple 
+actionable choices related to controlling aggressive behaviours, or to do responsible actions 
+instead of giving in to distracting impulses, all in contextualised social environments. In 

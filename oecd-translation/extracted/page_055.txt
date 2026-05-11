@@ -1,0 +1,54 @@
+54  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Some authors have directly associated HRV with the concept of resilience, defining 
+resilience a multidimensional construct and a dynamic mental process where an individual 
+displays a functional adaptation to stressful stimuli in order to preserve its integrity and 
+stability. Indeed, these authors report diverse evidence that an ample HRV is consistently 
+associated with a better capability to regulate and adapt psychophysiological responses. In 
+particular, higher HRV was associated with better abilities in reappraisal and emotional 
+regulation strategies when people were confronted with stress-inducing tasks. Additionally, 
+a dynamic HRV was also related to more functional neurocognitive strategies when dealing 
+with self-control tasks involving stressful stimuli. HRV could, thus, be considered a reliable 
+biomarker for mental resilience, stress resistance and emotional regulation (Perna et al., 
+2020[151]). HRV data can also be used in a more advanced way in order to assess and 
+improve stress resistance abilities, with the application of biofeedback (Dormal, Vermeulen 
+and Mejias, 2020[150]). Through biofeedback, a non-invasive technique, individuals can be 
+informed about their physiological state and, by making a dynamic use of that immediate 
+information, they can exert voluntary control over their own autonomic activity. This way, 
+they can regulate their breathing and enhance heart-brain synchronisation, which leads to 
+a more efficient mental health state and an improvement in performance. 
+Some games have thoroughly integrated such biofeedback mechanisms into their gameplay 
+and, despite not being appropriate, in their current design and/or mechanics, to assess SES 
+in children, they offer inventive ideas which can also be adapted for future assessments. 
+Such is the case of Nevermind, a game with horror elements designed to test Emotion 
+regulation in adults, using a principle of heart rate biofeedback (Lobel et al., 2016[152]). In 
+this game, using first-person perspective, players embody a therapist from the future, who 
+enters the minds of patients suffering from psychological distress and the goal is to travel 
+through the mind of the patient and complete the level by finding the cause of the trauma 
+or anxiety. The distinct element of this game lies with its biofeedback mechanism, since 
+the horror-themed visual setting of the game is designed to be disturbing to players, causing 
+their heart rate to increase, which is used as a physiology input in the game itself. Therefore, 
+as players get stressed and their heart rate increases, the game system reacts by becoming 
+more hostile and difficult, namely by matching the player’s stress level with a screen 
+increasingly obscured by static or having elements in the environment attacking the 
+player’s character. The way to overcome this hostility and proceed with solving the puzzles 
+in the game is to actively exercise emotional regulation, remaining calm in the face of these 
+horror-themed stimuli, so the player’s own heart rate is lowered which, in turn, forces the 
+game to readjust and become less hostile to the player. In fact, beyond a simple 
+measurement of HRV, researchers considered more subtle indicators of emotional 
+regulation, by considering the speed of recovery from high to lower cardiac frequencies or 
+the frequency of strong drops in heart rate variability. These can be more informative about 
+each individual’s reactions to the stimuli and their own strategies to overcome the hostility 
+in the game. The researchers also found a correlation between an in-game emotion 
+regulation strategy of reappraisal and real-life behaviours, where players who actively 
+employ this emotional strategy in their daily lives were more able to counteract the game’s 
+hostile environments (Lobel et al., 2016[152]). Such finding offers an important hint for 
+construct validity. For other strategies, such as seeking active resolution, rumination or 
+suppression, no behavioural correlations were found.  
+As it is self-evident, this game is not appropriate for children nor is it enough developed to 
+constitute a solid assessment tool for emotional regulation, as other psychometric 
+validations are missing (for these reasons, it is not part of our main review). However, the 
+principle of biofeedback, having the game incorporating and actively reacting to the 
+player’s internal states, prompting the player to readjust in turn, is an immersive feature 
+that contributes to a sense of realism where emotional skills can be maximally measured. 

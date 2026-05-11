@@ -1,0 +1,54 @@
+EDU/WKP(2024)11  25 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+(see for example Figure 4.2). As in the original tasks, in these emotionally adapted tasks, 
+Inhibitory motor control is gauged by measuring the reaction time difference in responding 
+to relevant versus irrelevant stimuli (Bland et al., 2016[42]). While these paradigms are 
+relatively simple, and have been thoroughly tested, validated and used to assess very 
+diverse populations, it is debatable whether these tests actually measure SES, or rather more 
+basic, fundamental cognitive processes that may be constituents/components of the SES 
+but not the full SES themselves. 
+Another aspect of Self-control relates to the ability to delay gratification, which is measured 
+in neuropsychology by another set of Inhibitory control paradigms, the Delay of 
+Gratification Tasks. In these tasks, participants have to choose between small but short-
+term rewards or larger rewards to be received later. 
+Reflecting these two aspects of Self-control, the EMOTICOM battery, made of 16 
+neuropsychological tasks destined to assess various facets of four core domains of affective 
+cognition (Emotion processing, Motivation and reward, Impulsivity, and Social cognition) 
+(Bland et al., 2016[42]), distinguishes between two types of Impulsivity measures 
+(Impulsivity being very similar to Self-control as defined by the OECD). It proposes to 
+measure Waiting Impulsivity, described as a measure of action inhibition or motor 
+inhibitory control, and Delay and Probability Discounting, a measure of preference for 
+immediate gratification or ability to delay gratification. Waiting Impulsivity is measured 
+through the Four-Choice Serial Reaction Time Task. This task assesses visual attention, 
+and the ability to respond to unpredictable targets while inhibiting automatic motor 
+response. Participants have to indicate as fast as possible, from four choices, the box in 
+which a target symbol has briefly appeared but withhold their answer for other non-target 
+symbols. Delay and Probability Discounting is measured through a Discounting task. In 
+such task, participants choose between smaller immediate rewards and larger delayed ones, 
+such as deciding between $5 now or $10 in a week. These choices help measure the 
+discount rate, which reflects how much a person devalues future rewards based on the wait 
+time. High discount rates show a preference for immediate gratification, suggesting 
+impulsivity, while lower rates indicate patience and a tendency towards future-oriented 
+decisions. Finally, the EMOTICOM battery also comprises an emotional version of the 
+Go/No-Go Task. While the Go/No-Go Task is traditionally a seminal task for assessing 
+Inhibitory control, it is used to assess Emotion recognition in the EMOTICOM battery. The 
+Face Affective Go/No-Go Task involves presenting participants with a series of faces 
+displaying different emotions (e.g., happy, sad, angry) and instructing them to respond 
+(typically by pressing a button) only to faces showing a specific target emotion (the "Go" 
+condition) while refraining from responding to faces showing non-target emotions (the 
+"No-Go" condition). Importantly, although the EMOTICOM battery has the advantage of 
+exploring different facets of skills using different tasks, it currently lacks robust validation 
+of internal consistency and construct and criterion validity. It has been however tested with 
+a sample of participants with ethnic characteristics representative of the UK demographics. 
+Another neuropsychological test adapted into an emotional variant is the Emotional Stroop 
+task (Aïte et al., 2018[43]; Bouhours et al., 2021[44]). This test exists in various adaptations 
+and explores how emotional content affects a person's reaction time. In the simplest, colour-
+naming version of the task, participants are shown words in different colours and asked to 
+name the writing colour, rather than reading the word itself (see Figure 4.2). Some of these 
+words are emotionally charged (e.g., "anger", "joy"), while others are neutral. Participants 
+take longer to name the colour of the ink for words with emotional content compared to 
+neutral words. This delay is thought to occur because the emotional significance of the 
+word captures the participant's attention, interfering with the task of colour naming. Other 
+versions of this paradigm include for example pictures of expressive faces. The Emotional 
+Stroop Task is used to study attentional biases towards emotional information, which can 

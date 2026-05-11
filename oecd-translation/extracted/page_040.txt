@@ -1,0 +1,49 @@
+EDU/WKP(2024)11  39 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+individuals to hypothesise about unlikely scenarios, testing their tolerance for and 
+playfulness with unusual situations. This battery assesses fluency, flexibility and 
+originality within a 45-minute timeframe. The Figural battery of the TTCT consists of three 
+tasks that require very little writing (Alabbasi et al., 2022[104]). The Picture construction 
+task requires the subject to draw a picture based on a given stimulus. The Picture 
+completion task requires the subject to draw a picture using incomplete figures and to title 
+each drawing. The Repeated line (or circle) task requires the subject to draw a picture using 
+pairs of lines or circles given as stimuli. The Figural Battery assesses students' fluency, 
+originality, abstractness of titles, elaboration, resistance to premature closure, and the 
+Checklists of Creativity Strengths in 30 minutes. While the evidence for the reliability of 
+the TTCT and similar tests is fairly strong, the predictive and discriminant validity (i.e., the 
+lack of correlation with irrelevant measures) of divergent thinking tests is still debated in 
+the literature (Rafner et al., 2023[99]). 
+The CREA suite is a more recent and more holistic approach to the direct assessment of 
+creative skills (Rafner et al., 2023[99]). Still under development, this digital assessment 
+portfolio consists of a series of tests designed to assess divergent and convergent thinking 
+in a variety of ways to capture different aspects of Creativity. While divergent thinking is 
+defined as the ability to come up with many different solutions to a prompt, convergent 
+thinking is defined as the ability to find the single best (or correct) option within a space 
+of solutions. The CREA suite includes Crea.tiles and Crea.blender – non-verbal tests of 
+both divergent and convergent thinking, and Crea.ideas – an adaptation of the Alternative 
+Uses Task, a standard test of divergent thinking. The CREA suite includes another tool, 
+Crea.logic, a non-verbal test designed to test general abstract reasoning, thus ensuring that 
+the creative abilities being measured are distinct from general reasoning (controlling for 
+divergent validity). 
+Crea.tiles is an adaptation of the Creative Foraging Game. In this non-verbal assessment, 
+participants create shapes on a grid of ten squares, aiming to design aesthetically pleasing 
+forms within a set time (see Figure 4.4). The game features two modes: Divergent thinking 
+and Convergent thinking. In the divergent thinking mode, players form various shapes 
+across different categories within a limited time, while the convergent thinking mode 
+challenges them to transform a starting shape into a target figure in the fewest steps and 
+shortest time, with challenges of increasing difficulty. 
+In contrast to Crea.tiles, Crea.blender is a co-creative (human-machine) task that allows 
+players to blend or merge existing images into new ones using AI (Rafner et al., 2020[105]). 
+It works on the principle of constraint-based combinational creativity, visually allowing 
+for creative outcomes. When mixing images in Crea.blender, participants use sliders to 
+indicate how much each image should contribute to the resulting image. Apart from the 
+underlying differences in the game mechanics, the task and prompt design have been 
+retained as much as possible to maintain contextual homogeneity between the two sub-
+challenges. The game has three modes: Creatures Mode, where players have five minutes 
+to create as many “animal-like” creatures as possible from six images; Challenge Mode, 
+where players have three minutes to identify and recreate a target image from a set of 
+source images; and Open Play Mode, which asks the players to create and save during five 
+minutes any image they find interesting from the same image sources as in Creatures Mode. 
+This versatile platform is designed to provide a playful, engaging environment for 
+assessing creativity, facilitating both divergent and convergent thinking studies. 

@@ -1,0 +1,54 @@
+EDU/WKP(2024)11  59 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+the potential benefit of these technologies in relation to SES, although evidence is not as 
+abundant as the one that can be found for the digital tasks and games, discussed in previous 
+sections. Many studies have also taken advantage of VR immersiveness to improve the 
+ecological validity of tasks in research contexts. VR allows the presentation of 360-degree 
+realistic audio-visual stimuli, that can be shown to participants in dynamic ways, allowing 
+them to react to these in an interactive way rather than being passive responders to static 
+stimuli. Moreover, the realistic all-around world that VR can evoke allows for the complex 
+stimuli to be contextually embedded in an environment designed to provide extra social 
+information, which conditions the players’ actions and interpretations, as it happens in real 
+life (Parsons, 2015[183]). 
+Some research has focused on enhancing audiovisual stimuli in VR in search of a more 
+ecologically relevant emotion elicitation paradigm, for a better understanding of human 
+affection. A recent literature review has identified a major increase in publications relating 
+VR and emotion since 2015 and has pointed to the use of VR to heighten the emotional 
+salience of emotions such as anxiety, fear, stress or arousal (Marín-Morales et al., 
+2020[184]). The effect of these emotions is assessed through individual or combined 
+biophysiological techniques integrated into the VR experience, such as HRV, 
+electrodermal activity or eye tracking. However, this literature review shows that even 
+though there are dozens of studies studying emotion in VR contexts, as of now very few 
+attempted to find validation by contrasting results between in VR and in non-immersive 
+environments. When validation was attempted, results point toward immersive VR eliciting 
+more authentic emotional states, confirmed through self-reports and physiological 
+biomarkers correlations (Higuera-Trujillo, López-Tarruella Maldonado and Llinares 
+Millán, 2017[185]; Marín-Morales et al., 2018[186]). Two recent studies also showed 
+differential brain activity when emotions are elicited in VR, using EEG techniques. People 
+who were immersed in VR showed significantly stronger neural activations to both positive 
+and negative emotions, than when those emotions were elicited by observing 2D screens, 
+especially in brain areas related to emotional and sensory information processing 
+(Schubring et al., 2020[187]; Xie et al., 2023[188]). 
+A few tasks and games have made use of VR technologies to assess SES. A group (Geraets 
+et al., 2021[189]) has used Emotion Recognition tasks, coupled with eye tracking, to assess 
+the ability to identify specific emotions, contrasting photos, videos with real actors, and 
+immersive VR environments with virtual characters, as the sources of the stimuli. Of note, 
+Emotion recognition success rates were similar for the three variants, with VR 
+environments leading to better recognition of emotions such as anger and surprise, when 
+compared to the videos. To assess Perspective-taking and Empathy, another research 
+group (Parra Vargas et al., 2022[190]) immersed adult participants in a VR environment 
+mimicking social workplace contexts, where players embodied the role of a new worker in 
+a company. Integrating different technologies, the researchers used VR for immersiveness, 
+while employing complex eye-tracking analysis embedded into the VR headset and using 
+machine learning to analyse behavioural data derived from decisions taken in the game. 
+This physiological and behavioural data was then contrasted with self-reports for both 
+skills, and eye-tracking data revealed to be the strongest predictor of both Perspective-
+taking and Empathy levels, allowing for a stronger discriminant power when compared 
+with the decision-making behavioural data. Gaze is, thus, a spontaneous and reliable way 
+to infer about people’s abilities to identify, distinguish and interpret the intentions and 
+emotions of others. 
+Another example is Athenea, a VR-based game which attempts to assess Self-esteem and 
+Self-efficacy, amongst other psychological dimensions (Giglioli et al., 2021[191]). It 
+immerses players in narrative-driven story arc where they embody an astronaut in a 
+spaceship, trying to find new habitable planets. In this setting, players interact with other 

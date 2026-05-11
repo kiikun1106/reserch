@@ -1,0 +1,51 @@
+30  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Emotional control 
+Emotional control is defined in the OECD framework as the ability to implement effective 
+strategies to regulate temper, anger and irritation, in the face of frustrations (Chernyshenko, 
+Kankaraš and Drasgow, 2018[40]; Kankaraš and Suarez-Alvarez, 2019[39]). Interestingly, 
+while Emotional control could also be understood as the ability to upregulate positive 
+emotions (focusing on happy memories when feeling a bit depressed, for example), or 
+downregulate positive emotions in inappropriate social contexts (do not overtly show pride 
+for a successful school test in front of a friend who failed, for example), most task-based 
+assessments focus on downregulation of negative emotions. Another important element to 
+take into consideration when assessing Emotional control is emotional intensity, which is 
+a measure of a person's emotional response force. Studies show that lower emotional 
+intensities often lead to adaptive regulation strategies, aiding in emotion processing, 
+whereas higher intensities can result in maladaptive strategies, causing disengagement from 
+emotions (Watanabe, Motomura and Saeki, 2022[61]). 
+The Beach Balls Task measures frustration tolerance (Jiménez-Soto et al., 2022[62]) .Aimed 
+at children aged 6-10, the task measures Frustration tolerance by requiring participants to 
+select the smallest of four beach balls on screen within five seconds. The test comprises 
+three sets, with Sets 1 and 3 identical to gauge baseline performance. Set 2, designed to 
+induce frustration, features minimal size differences between balls, thus challenging the 
+children's ability to perform under increased difficulty. Frustration tolerance is measured 
+as the performance difference between Set 3 (after the “frustrating” phase) and Set 1. A 
+limited drop in performance is considered a hallmark of higher Frustration tolerance. In the 
+publication, Frustration is defined as the subjective emotion of dislike associated with high 
+levels of effort and low levels of success in a task, and while Frustration tolerance is 
+described as a “process dependent on emotional regulation” (Jiménez-Soto et al., 2022[62]), 
+the task is very similar to Persistence tasks. Moreover, this task does not seem to allow for 
+disentangling Emotional control of irritation from boredom. 
+The Laboratory Coping And Emotion Regulation Task assesses Emotion regulation in 
+children and adolescents defined as a set of conscious, controlled processes that aim to 
+regulate emotions, thoughts, behaviours, and physiological responses in the face of 
+stressors (Bettis et al., 2019[63]). Participants are assessed on secondary control coping 
+strategies like acceptance, cognitive reappraisal, and distraction, through a task involving 
+viewing images depicting parental sadness and irritability. The task, designed to reflect 
+real-life family stress, included images of negative parental emotions and neutral images. 
+Participants were instructed to either reappraise these images positively, distract 
+themselves, or simply react, to gauge their coping and emotion regulation in response to 
+familiar stressors (Bettis et al., 2019[63]). This test has been controlled for internal 
+consistency (but not test-retest reliability), construct validity and criterion validity. 
+Optimism 
+Optimism is the ability to have positive and optimistic expectations for self and life 
+(Kankaraš and Suarez-Alvarez, 2019[39]). Optimism can be defined as a bias characterised 
+by positive assessments of self-risk relative to the average other (Hennefield and Markson, 
+2022[64]). In adults, this manifests as overestimating positive outcomes and underestimating 
+negative events, even when only known probabilities should guide predictions. 
+Both of the identified task-based assessments of Optimism, the Future Expectations Task 
+(Bamford and Lagattuta, 2020[65]) and the Story Task (Hennefield and Markson, 2022[64]), 
+use a similar approach. Participants are usually presented with scenarios (written and 
+sometimes illustrated) and asked to choose between optimistic and pessimistic outcomes 

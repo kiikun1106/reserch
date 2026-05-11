@@ -1,0 +1,39 @@
+EDU/WKP(2024)11  37 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Figure 4.3. Image representing an Extrinsic Affective Simon Task 
+ 
+Note: Participants are (A) faster to respond to implicitly positive-coloured words when the answer button is 
+associated to the positive words in the white condition, and (B) faster to respond to implicitly positive-coloured 
+words when the answer button is associated to the negative words in the white condition. 
+Curiosity 
+Only one task-based assessment was found to assess the skill of Curiosity. Defined simply 
+as “the desire to know” (Schutte and Malouff, 2020[95]), this ability is better tested in game 
+contexts, where the free decision of the players are informative of their preferences and of 
+their unsolicited and genuine tendency to look for knowledge. 
+In a study aimed to explore how Curiosity can be initiated, supported, and assessed in a 
+digital environment, Sher, Levi-Keren and Gordon (2019[96]) designed a novel app destined 
+to university applicants. The Faculty Game allows users to freely explore and learn about 
+various topics without predefined tasks, capturing their exploration patterns and the depth 
+and breadth of their interests. Through detailed behavioural measures extracted from the 
+app's usage data – such as the start time of interaction, the number of facts explored, and 
+the users' exploration patterns – the study proposed a way to quantify curiosity. These 
+measures provided insights into the participants' specific and diverse interests, as well as 
+their exploratory behaviour, offering a comprehensive view of Curiosity. Additionally, the 
+study looked into how providing users with the autonomy to cease their exploration at will 
+affected their behaviour and learning. This setup aimed to mirror natural curiosity-driven 
+learning environments closely. 
+Creativity 
+In past OECD work, Creativity as the ability to generate novel ways to do or think about 
+things through tinkering, learning from failure, insight, and vision (Chernyshenko, 
+Kankaraš and Drasgow, 2018[40]). In the direct assessment literature, Creativity is defined 
+as the ability to produce tangible objects and ideas that are (1) novel, original, unexpected 
+and (2) appropriate, useful and adaptive concerning task constraints (Perry and Karpova, 
+2017[97]). These two components of Creativity, novelty and usefulness, should be taken 
+into consideration for its assessment (Shaw, 2022[98]). 
+The direct assessments of Creativity primarily revolve around two main approaches: 
+process-oriented assessments and product-oriented assessments (Rafner et al., 2023[99]). 
+Process-oriented assessments typically involve standardised tests that focus on creative 
+processes like idea generation and refinement. This approach is valued for its scalability, 
+allowing for widespread application across various contexts. However, they often face 
+criticism for their lack of real-world applicability and motivational elements. On the other 

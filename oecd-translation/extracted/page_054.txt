@@ -1,0 +1,51 @@
+EDU/WKP(2024)11  53 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+have shown that physiological reactions in laboratory settings greatly differ from those 
+occurring in real-life contexts, namely in situations dealing with stress and emotional 
+stimuli. Therefore, a systematic application of these technologies outside the laboratory 
+requires solid validation before conclusions regarding psychological states can be firmly 
+taken. Moreover, a practical concern associated with the use of biophysical technologies is 
+their inherent noise in the data, which then requires a significant number of trials so that a 
+strong signal can be extracted. Such need for repeated measurements implicates additional 
+time requirements and tests the ability and patience of young children to remain engaged 
+with the experimental tasks. Finally, the need to obtain the appropriate consent for health 
+data collection from children might constitute an additional practical difficulty. All these 
+issues further limit the feasibility of an at-scale collection of biophysiological data, 
+particularly in young populations (Dahlstrom-Hakki, Asbell-Clarke and Rowe, 2019[144]; 
+Larradet et al., 2020[145]).  
+We recognise There exists of biodata relying on electrodermal activity, galvanic skin 
+response and facial expressions, as well as various methods to directly test brain activity, 
+such as functional near-infrared spectroscopy (fNIRS), functional magnetic resonance 
+imaging (fMRI) or electroencephalography (EEG) (Nebel and Ninaus, 2019[146]). 
+Moreover, the use of wearable smart devices should also be noted, which introduces 
+practicality and portability to the same techniques mentioned above, collecting 
+measurements on heart rate or brain activity, for example. These electronics are equipped 
+with wireless sensors and can be integrated into clothes or accessories, such as smart 
+glasses, smartwatches and necklaces, but also head bands, arm bands or chest bands. They 
+are particularly applicable to the assessment of anxiety, stress responses and stress 
+recovery, thus related to skills like Stress Resistance or Emotional control (González 
+Ramírez et al., 2023[147]; Hickey et al., 2021[148]). However, given the multitude of available 
+technologies, some yet exploratory or with limited practical applicability outside the 
+laboratory, the next paragraphs will focus only on a few examples. Thus, three methods for 
+measuring biophysiological data will be introduced and discussed, namely using heart 
+activity, eye tracking and cortisol levels, with examples of games which have integrated 
+them to assess SES. 
+5.1.1. Heart activity 
+Data on heart activity is one of the ways biophysiological measures can inform us about 
+the internal states of individuals. Even though studies have found blood pressure variations 
+to be good predictors of behavioural perseverance measurements (Chauntry, Williams and 
+Whittaker, 2019[149]), heart rate variability (HRV) is usually singled out as the most reliable 
+indicator (Dormal, Vermeulen and Mejias, 2020[150]). The concept of heart rate relates to 
+the number of heart beats per minute, whereas HRV, on the other hand, is a more dynamic 
+measure of the time interval variations occurring between consecutive heart beats. The 
+heart pumping mechanisms are complex and in constant change, in order to allow for rapid 
+cardiovascular adjustments to any internal or external stimuli. HRV can thus be considered 
+a valid indicator for assessing internal states and, in particular, the workings of the 
+autonomic nervous system. Critically, a dynamic HRV with a wide amplitude has been 
+correlated with more efficient emotional regulation mechanisms, stress coping and 
+resilience. In practice, this means a cardiovascular system which can efficiently reduce or 
+accelerate heart rate in response to changing environments. In contrast, those with limited 
+variations in HRV have been associated with stress vulnerability and even with more severe 
+psychiatric disorders, such as depression or generalised anxiety (Dormal, Vermeulen and 
+Mejias, 2020[150]).  

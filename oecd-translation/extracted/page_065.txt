@@ -1,0 +1,50 @@
+64  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+the collection of a wide range of measures, such as game behaviour (choices and strategies), 
+cognitive performance, motor performance, social behaviour and derived affect relevant to 
+SES such as Creativity, Social problem-solving, Co-operation, Assertiveness or Empathy, 
+among others (Mandryk and Birk, 2019[209]). 
+Games like Poptropica (Dicerbo, 2013[210]), for example, rely on the difficulty of tasks in 
+order to assess the skill Persistence. While playing this game, elementary- and middle 
+school children (6- to 14-year-olds) visit “islands” with various themes and are expected to 
+persevere through overarching quests, with multiple challenging tasks, in order to reach 
+completion. Using data logs covering the time spent on quest events, the number of quest 
+events completed or, more specifically, the maximum time spent on an individual quest 
+event successfully completed, researchers can infer about the persistence levels of each 
+player. However, unlike with other games discussed in previous sections, researchers have 
+not used external measurements to assert the validity of the assessment. This weakens 
+firmer conclusions about whether Persistence is exactly the skill being measured, as 
+differences in individual performance could be due to cognitive abilities or differential 
+motivation to play this particular game. 
+Overall, digital footprints and behavioural data from videogames offer an interesting 
+opportunity to assess SES, providing insights into authentic behaviours and interactions in 
+digital environments. However, while promising, these approaches face similar challenges 
+to the use of AI (see section 5.3 Artificial intelligence applications). In addition to obvious 
+privacy concerns, particularly with passive footprint data mining, they face challenges 
+related to representation bias and interpretation, as well as the challenges of accurately 
+interpreting these digital behaviours, which require a careful approach. Given that not all 
+demographic groups are equally represented, and that individuals' online personas may not 
+fully reflect their real-world selves, it is critical for researchers to implement strategies that 
+mitigate these biases and contextualise their findings within the limitations of the data. 
+Furthermore, the complexity of deciphering this data without oversimplifying or 
+misinterpreting it highlights the importance of interdisciplinary collaboration. Drawing on 
+diverse expertise can enhance the analytical process, ensuring that interpretations are 
+nuanced and deeply informed by an understanding of the intricacies of digital interactions. 
+While these current limitations need to be carefully addressed, analysing digital footprints 
+and behavioural residues from videogames holds significant potential for advancing our 
+understanding of SES in the digital age. 
+6. Review discussion 
+6.1. What different benefits tasks and games have to offer? 
+The lasts two sections presented a large number of direct assessment tools as well as several 
+technological approaches to measure SES, moving beyond self-reports and other-reports, 
+to collect more objective data on the authentic behaviours and skills of individuals. The 
+diversity of innovative assessment tools mapped and reviewed greatly amplifies the 
+portfolio of available assessment methods, which can supplement current, more traditional 
+practices. The instruments mapped for this paper also facilitate the exploration of promising 
+avenues for assessing SES in the context of an international, summative assessment of 
+school-age children. Collectively, task- and game-based assessments combine a wide 
+variety of designs with a significant level of immersiveness and interactivity, covering 
+almost the full panoply of SES contemplated in the OECD framework. Moreover, they 
+allow stealth assessment paradigms that are able to counter various biases and contribute 
+to flesh out more authentic behaviours (Shute et al., 2016[211]).  

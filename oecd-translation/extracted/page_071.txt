@@ -1,0 +1,53 @@
+70  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+References 
+ 
+Abrahams, L. et al. (2019), “Social-Emotional Skill Assessment in Children and Adolescents: Advances 
+and Challenges in Personality, Clinical, and Educational Contexts”, Psychological Assessment, 
+Vol. 31/4, pp. 460-473, https://doi.org/10.1037/pas0000591. 
+[7] 
+Achim, A. et al. (2012), “Mentalizing in first-episode psychosis”, Psychiatry Research, Vol. 196/2-3, 
+pp. 207-213, https://doi.org/10.1016/j.psychres.2011.10.011. 
+[77] 
+Aïte, A. et al. (2018), “Adolescents’ inhibitory control: Keep it cool or lose control”, Developmental 
+Science, Vol. 21/1, https://doi.org/10.1111/desc.12491. 
+[43] 
+Alabbasi, A. et al. (2022), “What do educators need to know about the Torrance Tests of Creative 
+Thinking: A comprehensive review”, Frontiers in Psychology, Vol. 13, 
+https://doi.org/10.3389/fpsyg.2022.1000385. 
+[104] 
+AlGerafi, M. et al. (2023), Unlocking the Potential: A Comprehensive Evaluation of Augmented Reality 
+and Virtual Reality in Education, Multidisciplinary Digital Publishing Institute (MDPI), 
+https://doi.org/10.3390/electronics12183953. 
+[175] 
+Allen, K. et al. (2023), Using Games to Understand the Mind, https://doi.org/10.31234/osf.io/hbsvj. 
+[217] 
+An, D., Y. Song and M. Carr (2016), “A comparison of two models of creativity: Divergent thinking and 
+creative expert performance”, Personality and Individual Differences, Vol. 90, pp. 78-84, 
+https://doi.org/10.1016/j.paid.2015.10.040. 
+[101] 
+Anglim, J. et al. (2020), “Predicting trait emotional intelligence from HEXACO personality: Domains, 
+facets, and the general factor of personality”, Journal of Personality, Vol. 88/2, pp. 324-338, 
+https://doi.org/10.1111/jopy.12493. 
+[117] 
+Aranha, R., C. Correa and F. Nunes (2021), “Adapting Software with Affective Computing: A Systematic 
+Review”, IEEE Transactions on Affective Computing, Vol. 12/4, pp. 883-899, 
+https://doi.org/10.1109/taffc.2019.2902379. 
+[192] 
+Bajgar, J. et al. (2005), Development of the Levels of Emotional Awareness Scale for Children (LEAS-C), 
+https://doi.org/10.1348/026151005X35417. 
+[108] 
+Bamford, C. and K. Lagattuta (2020), “Optimism and Wishful Thinking: Consistency Across Populations 
+in Children’s Expectations for the Future”, Child Development, Vol. 91/4, pp. 1116-1134, 
+https://doi.org/10.1111/cdev.13293. 
+[65] 
+Baranes, A., P. Oudeyer and J. Gottlieb (2015), “Eye movements reveal epistemic curiosity in human 
+observers”, Vision Research, Vol. 117, pp. 81-90, https://doi.org/10.1016/j.visres.2015.10.009. 
+[158] 
+Baron-Cohen, S. et al. (1999), Recognition of Faux Pas by Normally Developing Children and Children 
+with Asperger Syndrome or High-Functioning Autism. 
+[78] 
+Berkovsky, S. et al. (2019), Detecting personality traits using eye-tracking data, Association for 
+Computing Machinery, https://doi.org/10.1145/3290605.3300451. 
+[155] 

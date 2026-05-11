@@ -1,0 +1,53 @@
+38  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+hand, product-oriented assessments involve evaluating actual creative products, 
+particularly in fields that hold significant relevance and complexity, such as music and 
+design. This approach is lauded for providing data with high ecological validity because 
+the combination of expert assessment and relevant, complex scenarios is regarded as highly 
+effective. However, it is also considered much more costly in time and resources, and less 
+suited for scalability. For this reason, we believe that exploring methods that integrate the 
+scalability of process-oriented assessments with the ecological validity of product-oriented 
+assessments, such as game-based assessments, could significantly improve the overall 
+construct validity of creativity assessment tools (see Digital games). 
+The majority of Creativity assessment tasks are process-oriented. Sometimes known as 
+divergent thinking tests, most of them ask participants to generate different ideas in 
+response to specific stimuli, often pictorial or verbal (Clapham, 2011[100]). Common 
+response formats in these tasks include creating drawings from incomplete figures, writing 
+questions for hypothetical scenarios, or listing potential uses for objects. Typically, 
+divergent thinking tests evaluate several features of these responses, such as fluency (the 
+ability to develop large numbers of ideas), flexibility (the ability to produce ideas in 
+numerous categories), originality (the ability to produce unusual or unique ideas) and 
+elaboration (the ability to adapt abstract ideas into realistic solutions). 
+The Divergent Thinking Task developed by An, Song and Carr (2016[101]) and tested on a 
+population of Korean students is a paradigmatic example of a divergent thinking test, 
+where participants are asked to produce as many of their own creative hypotheses as 
+possible to account for a real-world problem. Experts then score the divergent thinking task 
+using three criteria: fluency, flexibility, and originality. This task has been controlled for 
+internal consistency (but not test-retest reliability) and tested for construct and criterion 
+validity. However divergent thinking scores did not correlate with self-reported measures 
+of creativity, and divergent thinking scores were predicted significantly by external 
+measures of creative personality. 
+A seminal test of divergent thinking is the Torrance Test for Creative Thinking (TTCT) 
+(Torrance, 1966[102]). The TTCT has been widely used and extensively tested in different 
+populations, age groups and cultures, and has reached its current form through repeated 
+revisions since its first publication in 1966 (Yoon, 2017[103]). The revisions have mainly 
+concerned the scoring system, while the content and form have remained unchanged. What 
+distinguished the TTCT from other creativity or divergent thinking tests was not only how 
+Ellis Paul Torrance defined creativity, but also how he made the test fun, easy to use, and 
+applicable to different populations and cultures (Alabbasi et al., 2022[104]). Another 
+important difference from other divergent thinking tests was that Torrance added measures 
+of other creative expressions to the list of creative strengths, such as humour, storytelling 
+and boundary breaking.  
+This expanded the scope of the TTCT beyond divergent thinking (Alabbasi et al., 2022[104]). 
+The TTCT consists of two subtests, the Verbal battery and the Figural battery, which both 
+have two parallel forms, A and B. The Figural battery is generally known to be less 
+influenced by cultural biases or the subject's linguistic ability than the Verbal battery 
+(Yoon, 2017[103]). The Verbal battery of the TTCT consists of six tasks relying heavily on 
+writing (Alabbasi et al., 2022[104]). Each task of the Verbal battery presents participants 
+with a picture as a stimulus for verbal exercises to which they respond in writing. The first 
+three tasks, Asking, Guessing causes and Guessing consequences (collectively known as 
+Ask-and-Guess), explore the link between curiosity and creativity. The fourth task, Product 
+improvement, focuses on improving existing products as opposed to creating entirely new 
+ones. In the fifth task, named the Unusual uses task, participants think of alternative uses 
+for common objects, such as wheels. Finally, the sixth task named Just suppose challenges 

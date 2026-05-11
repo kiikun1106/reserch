@@ -1,0 +1,51 @@
+34  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Social problem-solving 
+Social problem-solving, or conflict resolution, is the ability to identify and enact solutions 
+to social life situations in an effort to resolve interpersonal problems, conflicts and/or one’s 
+relation to these (Kankaraš and Suarez-Alvarez, 2019[39]). The review did not identify any 
+task-based assessment specifically testing social-problem solving, although the Mayer–
+Salovey–Caruso Emotional Intelligence Test Version 2.0 (MSCEIT) and the Mayer–
+Salovey–Caruso Emotional Intelligence Test–Youth Version, Research Version 
+(MSCEIT-YV) include a task for such skill (see Mixed batteries). 
+Trust and Co-operation 
+Trust can be defined as “a psychological state comprising the intention to accept 
+vulnerability based upon the positive expectations of the intentions or behavior of another” 
+(Rousseau et al., 1998[85]). Recently, an important distinction has been made between 
+situational Trust (a transient state depending on the context or the task) and dispositional 
+Trust or propensity to Trust (an enduring trait) (Evans and Bond, 2020[86]). In this sense, 
+Trust understood as a skill should be assessed as transient state Trust, so as the ability of a 
+person to trust effectively in certain situations, and not as a natural tendency to trust (more 
+related to a personality trait). This review focused on tasks defining Trust as such. 
+Co-operation can be defined as the act or process of working together to get something 
+done, to achieve a common purpose or mutual benefit, either for an individual being co-
+operative or acting cooperatively (Tyler, 2010[87]). Interestingly, some recent economic 
+studies have used tasks to distinguish active and reactive co-operation (i.e., non-
+exploitation versus non-retaliation) – two aspects of co-operative behaviour associated 
+with different basic personality traits (the traits Honesty-Humility and Agreeableness in the 
+HEXACO6 model, respectively) (Thielmann, Hilbig and Niedtfeld, 2014[88]). 
+Trust and Co-operation, as well as other prosocial behaviours, have been extensively 
+studied in economics and other disciplines using economic games. While the number of 
+existing tasks is enormous, most of them come from a small set of paradigms that have 
+been continuously adapted over the years. Because they change the dynamics of the task, 
+but also the ultimate purpose of the game, these adaptations (sometimes very small 
+changes) have an important impact on the nature of the behaviour and the associated skill 
+that they are designed to assess. Furthermore, these paradigms have been used extensively 
+with groups of participants from all demographic backgrounds, in-game decisions and 
+behaviours have been correlated with real-life behaviours, and these tasks are usually easy 
+to implement both in reality and virtually. However, the often-simplistic efficiency of these 
+tasks is a limitation when it comes to distinguishing between specific prosocial skills such 
+as Trust and Co-operation. This could limit the potential applicability of these tools for in-
+depth assessment of specific skills, unless the design is adapted to specifically differentiate 
+between skills. As most economic games are based on analysing the participant’s decision 
+to collaborate and therefore to trust or not trust the other player(s), they can also be 
+considered as an assessment of Co-operation. Since the task paradigms presented hereafter 
+are paradigms tested and adapted many times in many different contexts, specific 
+information regarding reliability and validity metrics is not applicable. 
+Probably the most famous economic game is the Investment Game, or Trust Game (see 
+(Thielmann et al., 2021[89]), for a review of the methodological aspects of this and other 
+ 
+6 HEXACO is a six-dimensional model of human personality, whose factors include honesty-
+humility (H), emotionality (E), extraversion (X), agreeableness (A), conscientiousness (C), and 
+openness to experience (O) 

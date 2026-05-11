@@ -1,0 +1,48 @@
+46  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+while the American students outperformed their Japanese counterparts in both Empathy 
+and Sociability skills. This difference in social skills’ performance observed through ZooU, 
+reflected documented cultural differences between these countries, further validating this 
+tool as an assessment able to capture cultural variations reinforcing its utility as a 
+measurement tool for comparability. Further validation came from a more recent study 
+associating the performance in SES with social competence outcomes, in terms of 
+children’s behaviours and academic performance in school environments (DeRosier and 
+Thomas, 2018[130]). Researchers show that children with more developed SES, as measured 
+by ZooU, displayed more prosocial behaviours and academic adjustment, “above and 
+beyond demographic influences”, when compared to colleagues who performed poorly in 
+the game. This detailed description, covering both the game mechanisms and some validity 
+metrics, serves as an example of how a game can be designed to specifically target 
+individual skills, correlating the data with external psychometric assessments which attest 
+for the quality of the game-based assessment being employed. 
+4.3.2. Physics Playground – Persistence / Creativity / Co-operation 
+Through very simple design and mechanisms, games like Physics Playground can benefit 
+from a great deal of flexibility in the way they assess SES. Initially oriented towards testing 
+Persistence (Ventura and Shute, 2013[131]), based on a principle of overcoming 
+increasingly difficult tasks, this game has more recently been used to test entirely different 
+skills, such as Creativity (Shute and Rahimi, 2021[132]) and Co-operation (Sun et al., 
+2022[133]). Physics Playground was built around the premise of teaching the basic principles 
+of physics by having players draw different mechanisms, like ramps, levers and pendulums, 
+to move certain objects to certain places, in order to complete puzzles and proceed to the 
+next level (Shute, Ventura and Kim, 2013[134]). As these challenges are increasingly 
+difficult, children must be persistent in their attempts, creating and perfecting different 
+devices while relying on gravity and the laws of physics to do the rest of the work. 
+Researchers have taken advantage of this design to measure Persistence, by collecting the 
+time spent on each unsolved and solved problem by middle school students aged 13 to 15. 
+The performance data extracted from the game correlated well with the results from a 
+different task to measure Persistence, even after controlling for videogame experience and 
+pretest physics knowledge, although it did not meet correlations with self-reported levels 
+of persistence. This discrepancy was interpreted as self-reports on Persistence being 
+inadequate measurements, since students might perceive their skill in a manner which does 
+not necessarily correspond to their real behaviour (Ventura and Shute, 2013[131]). 
+As mentioned, Physics Playground can also be used to measure Creativity skills, when 
+different sets of data are collected (Shute and Rahimi, 2021[132]). For example, researchers 
+can assess how original a mechanical device to solve a puzzle is, by measuring how it 
+differs from the other players’ solutions, and also how flexible it is, measured by the design 
+of multiple and effective physics mechanisms to solve the puzzle, rather than drawing 
+simplistic ones. In order to prompt maximal Creativity, players are, in fact, incentivised to 
+create the “most awesome” solution. The researchers also assessed players on their ability 
+to design their own creative levels from scratch (Figure 4.5). Similarly to what was 
+observed with the Persistence skill, Creativity measurements, as defined by performance 
+in the game, correlated well with these students’ performance in other creative tasks but 
+not with their self-reports.  

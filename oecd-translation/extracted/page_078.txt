@@ -1,0 +1,58 @@
+EDU/WKP(2024)11  77 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Kim, W. and J. Kim (2020), “Individualized AI Tutor Based on Developmental Learning Networks”, 
+IEEE Access, Vol. 8, pp. 27927-27937, https://doi.org/10.1109/ACCESS.2020.2972167. 
+[198] 
+Kim, Y. and D. Ifenthaler (2019), “Game-Based Assessment: The Past Ten Years and Moving Forward”, 
+in Game-Based Assessment Revisited, https://doi.org/10.1007/978-3-030-15569-8_1. 
+[122] 
+Kurdi, B. et al. (2019), “Relationship between the implicit association test and intergroup behavior: A 
+meta-analysis”, American Psychologist, Vol. 74/5, pp. 569-586, https://doi.org/10.1037/amp0000364. 
+[91] 
+Kyllonen, P. and H. Kell (2018), “Ability tests measure personality, personality tests measure ability: 
+Disentangling construct and method in evaluating the relationship between personality and ability”, 
+Journal of Intelligence, Vol. 6/3, pp. 1-26, https://doi.org/10.3390/jintelligence6030032. 
+[16] 
+Lampropoulos, G. et al. (2022), “Augmented Reality and Gamification in Education: A Systematic 
+Literature Review of Research, Applications, and Empirical Studies”, Applied Sciences, Vol. 12/13, 
+https://doi.org/10.3390/app12136809. 
+[179] 
+Lane, R. and R. Smith (2021), “Levels of emotional awareness: Theory and measurement of a socio‐
+emotional skill”, Journal of Intelligence, Vol. 9/3, https://doi.org/10.3390/jintelligence9030042. 
+[107] 
+Larradet, F. et al. (2020), “Toward Emotion Recognition From Physiological Signals in the Wild: 
+Approaching the Methodological Issues in Real-Life Data Collection”, Frontiers in Psychology, 
+Vol. 11, https://doi.org/10.3389/fpsyg.2020.01111. 
+[145] 
+Lea, R. et al. (2023), “Do emotionally intelligent adolescents flourish or flounder under pressure? Linking 
+emotional intelligence to stress regulation mechanisms”, Personality and Individual Differences, 
+Vol. 201, https://doi.org/10.1016/j.paid.2022.111943. 
+[27] 
+Lester, J. et al. (2014), “Designing game-based learning environments for elementary science education: A 
+narrative-centered learning perspective”, Information Sciences, Vol. 264, pp. 4-18, 
+https://doi.org/10.1016/j.ins.2013.09.005. 
+[160] 
+Li, Y. et al. (2022), “Multitask learning for emotion and personality traits detection”, Neurocomputing, 
+Vol. 493, pp. 340-350, https://doi.org/10.1016/j.neucom.2022.04.049. 
+[207] 
+Lobel, A. et al. (2016), Designing and utilizing biofeedback games for emotion regulation: The case of 
+Nevermind, Association for Computing Machinery, https://doi.org/10.1145/2851581.2892521. 
+[152] 
+Luhmann, M. et al. (2015), “Loneliness and social behaviours in a virtual social environment”, Cognition 
+and Emotion, Vol. 29/3, pp. 548-558, https://doi.org/10.1080/02699931.2014.922053. 
+[143] 
+MacCann, C. and R. Roberts (2008), “Supplemental Material for New Paradigms for Assessing Emotional 
+Intelligence: Theory and Data”, Emotion, Vol. 8/4, pp. 540-551, 
+https://doi.org/10.1037/a0012746.supp. 
+[24] 
+Mandryk, R. and M. Birk (2019), “The Potential of Game-Based Digital Biomarkers for Modeling Mental 
+Health”, JMIR Mental Health, Vol. 6/4, p. e13485, https://doi.org/10.2196/13485. 
+[209] 
+Marín-Morales, J. et al. (2018), “Affective computing in virtual reality: emotion recognition from brain 
+and heartbeat dynamics using wearable sensors”, Scientific Reports, Vol. 8/1, 
+https://doi.org/10.1038/s41598-018-32063-4. 
+[186] 
+Marín-Morales, J. et al. (2020), “Emotion recognition in immersive virtual reality: From statistics to 
+affective computing”, Sensors, Vol. 20/18, pp. 1-26, https://doi.org/10.3390/s20185163. 
+[184] 

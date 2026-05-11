@@ -1,0 +1,51 @@
+EDU/WKP(2024)11  13 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+positive outcome, which corresponds to Social problem-solving skills (MacCann and 
+Roberts, 2008[24]). In this test, the 44 items also cover different workplace and personal-life 
+contexts, while focusing only on three different and socially tense emotions, anger, sadness 
+and fear. An example is: “Lee’s workmate fails to deliver an important piece of information 
+on time, causing Lee to fall behind schedule also. What action would be the most effective 
+for Lee? (a) Work harder to compensate, (b) Get angry with the workmate, (c) Explain the 
+urgency of the situation to the workmate, (d) Never rely on that workmate again”, with C 
+being established as the most prosocial course of action. Both these tests have been 
+extensively validated in adult and adolescent populations, in various countries, with 
+acceptable to good internal consistency metrics, as well as solid convergent validity with 
+other psychological measurements on similar constructs, and consequential validity given 
+by the correlation with higher levels of self-reported psychological well-being and life 
+satisfaction, as well as higher academic achievement (MacCann and Roberts, 2008[24]; da 
+Motta et al., 2021[25]; Dirzyte et al., 2021[26]; Lea et al., 2023[27]). 
+Another SJT is the Social Relationship Competence–Ability Measure (SRC-AM), which 
+looks at friendship contexts, presenting participants with several dilemmas, where a 
+hypothetical friend has done a certain act that could be negatively impactful for the 
+relationship (Persich, Krishnakumar and Robinson, 2020[28]). For each scenario, 
+participants are presented with four different courses of action, which can lead to positive 
+or negative outcomes, and each possible action to address the conflict must be rated 
+according to its perceived effectiveness. The scenarios presented cover multiple 
+interpersonal dimensions that inhabit real-life friendships, such as the ability to form and 
+maintain high-quality and long-lasting friendships, to express concern and provide explicit 
+social support, and to respond to tension and conflict in constructive ways. For all this, the 
+social relationship competence targeted in this test covers the skills Empathy and Social 
+problem-solving. As an example, one scenario is: “Randy notices that his friend seems to 
+be ignoring him. Rate the effectiveness of the following ways that Randy could deal with 
+the situation: a) Confront the friend, b) Ask his friend why he is being ignored, c) Ignore 
+the friend in return and d) Convince himself that the friend is not ignoring him on purpose”.  
+The test shows acceptable levels of internal consistency as compared to other SJTs (for 10 
+scenarios requiring 40 ratings, Cronbach’s alpha coefficient = 0.7), and researchers have 
+found that the performance in the test positively correlated with self-reports on commitment 
+to friendships, perception of mutual care and support, and quality and intimacy level of said 
+relationships (Persich, Krishnakumar and Robinson, 2020[28]). The test also correlated with 
+measures of conflict-resolution inclination, with high-performance individuals being better 
+at suppressing negative impulses and being more direct and open when approaching friends 
+to overcome tensions (Robinson, Persich and Irvin, 2022[29]). Additional validation was 
+obtained from reports by informants, close friends of those being tested, which found 
+correlations between participants’ real-life behaviours and attitudes towards the respective 
+friendships and their performance in the SCR-AM (Persich, Krishnakumar and Robinson, 
+2020[28]). Moreover, those who did well in the test were also found to benefit from better 
+psychological well-being and higher levels of positive emotion and life satisfaction, and to 
+manifest widespread prosocial behaviours, beyond relationship contexts (Robinson, 
+Persich and Irvin, 2022[29]). 
+3. Review of direct assessment tools and innovative approaches 
+This section presents the methodology used to review the literature and search for existing 
+innovative direct assessment tools and technological approaches to measure SES. This 
+section also details the criteria used to describe and review each tool. The comprehensive 

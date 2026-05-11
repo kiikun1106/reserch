@@ -1,0 +1,52 @@
+EDU/WKP(2024)11  33 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+geometric shapes enacting a social drama (like a domestic fight between two larger 
+triangles representing the parents and a smaller triangle representing the child, for 
+example). It reduces verbal and cognitive demands (and to a certain extent, culturally 
+dependent environmental information) and presents multiple-choice questions about the 
+actions and emotional intents depicted in the animation. The Video-Social-Emotional 
+Information Processing (V-SEIP) (Coccaro et al., 2017[81]) is a clinical psychology task 
+that uses clips of socially ambiguous situations featuring aversive actions, either overt or 
+relational aggression, to test participants’ ability to read the situation and correctly assess 
+the intentions of the depicted characters (in the general population and in patients with 
+identified violent behaviour5). Participants rate the actions of a character with whom they 
+identify. They summarise the clips and then answer questions assessing hostile, benevolent 
+and instrumental attributions and their own emotional reactions. They also rate their 
+agreement with different response strategies shown in subsequent videos, which can be 
+considered a measure of Social problem-solving (see Social problem-solving). 
+Finally, some task-based assessments focus on Affective empathy. The Facial Emotion 
+Recognition and Empathy Test (FERET) (Coskun, 2019[82]) and the Multifaceted 
+Empathy Test (MET) (Dziobek et al., 2008[83]) are two computerised tasks that assess both 
+Cognitive and Affective empathy in response to a series of emotionally charged facial 
+expressions. The design of both tests is quite similar. Participants are presented with a series 
+of pictures and tested on their ability to (1) identify the emotion depicted (Emotion 
+recognition), (2) display an appropriate empathic response by sharing the same feeling 
+(Affective empathy). However, while the FERET assumes that facial Emotion 
+recognition/Cognitive empathy is a precursor to Affective empathy, this is not the case for 
+the MET (which originally allowed for the differentiation of deficits in Cognitive empathy 
+from typically functioning Affective empathy in children with autism spectrum disorders). 
+In the FERET, participants first identify an emotion in a picture (coloured drawing of a 
+face), then imagine how they would feel if a classmate displayed that emotion, and finally 
+choose one of three emotional response options provided (coloured drawings of faces). This 
+assessment has been tested for internal consistency, but not for construct or criterion 
+validity, on 7–10-year-old children. The MET and the MET-J were originally designed to 
+differentiate empathy components in adolescents aged 10-17 years with autism spectrum 
+disorder or conduct disorder (Poustka et al., 2008[84]). The items consist of photographs 
+depicting individuals of different genders and ages in emotionally charged situations with 
+rich contexts (e.g., a hospital room, a bicycle race) in which other individuals are also seen. 
+Participants are asked to identify the emotion presented (Cognitive empathy), but also to 
+rate their level of emotional arousal in response to each stimulus using a Likert scale 
+(implicit measure of Affective Empathy). The MET has been tested for reliability and 
+construct and criterion validity (to measure of social behaviour and social engagement), 
+but the validity correlations were weak and internal consistency estimates were low. While 
+the MET and MET-J are mostly used with clinical populations, they use photorealistic 
+pictures in ecologically rich contexts compared to the FERET. These tests are more 
+ecologically valid (especially the MET and MET-J, as they use realistic stimuli, including 
+complex emotions and contexts) and mitigate potential social desirability biases carried by 
+self-report measures of empathy, as they do not rely as heavily on the level of insight an 
+individual has into their own emotions (Drimalla et al., 2019[67]). 
+ 
+5 These constructs fit into a theory of aggression that posits that cognitive processes such as 
+attribution of others’ intentions and response evaluation of possible response options influence 
+whether an individual will behave aggressively in a given situation (Coccaro et al., 2017[81]). 

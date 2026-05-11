@@ -1,0 +1,56 @@
+16  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+these tools in the context of the development of an international large-scale assessment of 
+SES, they can also be used to better understand the current state of the assessment field for 
+the techniques and for the skills reviewed. 
+These criteria are intended to help illustrate the strengths and limitations of the assessment 
+tools reviewed. They are not intended to be a formal comparison of tools or an endorsement 
+of any tool. The ratings for the criteria are qualitative in nature, not quantitative. They were 
+created relatively to the initial purpose of this review (that is, to select the most promising 
+tools for the creation of a large-scale international direct assessment of SES). The criteria 
+and the ratings are defined in more detail hereunder, along with the full list of descriptors, 
+available in the online table (Behavioural Assessment Tools for SES). The online table 
+allows for the filtering and ranking of the tools based on different characteristics reflecting 
+different priorities, be it age coverage, quality of validation process or type of skills 
+covered, for example. We encourage readers to prioritise which criteria are most important 
+for use in their particular context. 
+3.2.1. Descriptors 
+On top of the criteria used to compare the tools, available descriptors in the online table 
+include:  
+• 
+Name of the tool; 
+• 
+Brief description of the tool and variables used; 
+• 
+Source(s); 
+• 
+Type of assessment tool (task, task paradigm, game, mixed battery); 
+• 
+OECD skill equivalent (Based on the definition of the skill(s) given in the 
+publication, each tool is associated with one or several OECD skill equivalents 
+from the list of skills reviewed - see Annex A: Search terms for SES). 
+• 
+Original skill(s) and respective definition(s); 
+• 
+Target age range information (as the content of the measure must be 
+developmentally appropriate, it is important that emotional/social stimulus material 
+is properly validated on the target population (Mehlsen et al., 2019[33]). Therefore, 
+the target age group for each tool is indicated as: Children (6-12); Adolescents (12-
+18); Adults (>18). Finer age information is provided when available); 
+• 
+Countries and languages (in which tools have been tested). 
+3.2.2. Ecological validity 
+Ecological validity is understood as a measure of the representativeness of the instrument; 
+in other words, the correspondence between the form and context of the assessment and the 
+situations in natural contexts (Burguess et al., 2006[34]). It is particularly important in the 
+context of this review of very heterogenous tools, for which there are strong differences in 
+the presentation of content. The ecological validity of each tool is rated according to several 
+sub-criteria: 
+• 
+Openness of action: Restricted freedom of exploration, with pre-determined order 
+of activities / Possible exploration of different activities (0/1) 
+• 
+Type of response: Fixed choice (e.g., based on multiple choices, or pressing button 
+quickly) / Open-ended (includes writing full answers) OR free choice (e.g., choose 
+whether to move an avatar, choose to switch between tasks) (0/1) 

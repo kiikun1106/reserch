@@ -1,0 +1,52 @@
+62  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+et al., 2023[195]; Mehta et al., 2020[193]). Even though these machine learning models are 
+currently applied to personality traits, there are explorations of these models to detect SES, 
+such as Emotion recognition (Dai and Ke, 2022[196]; Terhürne et al., 2022[197]).  
+AI tools developed from research in affective computing and social signal processing are 
+being applied in various contexts. For instance, in educational settings, AI has been utilised 
+to analyse learning analytics. The interactions of students with learning platforms and the 
+resulting trace data have been used to infer the Big Five personality traits of students (Mehta 
+et al., 2020[193]). This data-driven approach also helps to identify individual learning 
+strategies, enhancing personalised learning experiences (Kim and Kim, 2020[198]). The 
+application of AI in education could foster the continuous monitoring of SES and other 
+competencies, including motivation, emotion, and social interaction skills, offering a 
+holistic view of student development (Tuomi, 2022[19]). Other examples of AI application 
+to infer SES outside of educational contexts include automated assessments in profession 
+recruitment processes, namely by using interactive scenarios. Many tools have been 
+developed to automatically assess communication skills and behavioural aspects 
+effectively, offering insights into personality, dominance, and leadership under various 
+contexts (Rasipuram and Jayagopi, 2020[199]). These applications underscore AI's ability to 
+process large-scale behavioural data, a task traditionally challenging for human annotation 
+abilities due to its time-consuming and expensive nature.  
+Although automatic skill and personality prediction have been extensively studied in 
+various scenarios, there are still several open research questions that need to be addressed 
+(Rasipuram and Jayagopi, 2020[199]), starting with the question of whether these new AI 
+applications measure skills, traits, or both. Further research should also explore the 
+connections between personality, communication and social skills, dominance, or 
+leadership in different contexts, test the most effective scenarios for predicting individual 
+personality traits or SES, and identify the independent factors that explain good 
+performance in different skill sets. Do models developed in laboratory situations can be 
+generalised to the real world, where there is diversity in terms of people, culture, sensing, 
+and computing platforms? These unanswered questions have significant implications for 
+the use of these tools on a larger scale, particularly in sensitive contexts such as education. 
+5.3.2. Challenges, limitations and ethical considerations 
+The deployment of AI in SES assessment is not without its challenges. Indeed, despite its 
+potential, the AI-driven assessment of SES faces challenges concerning accuracy, 
+reliability, cultural sensitivity, and privacy. The effectiveness of automatic analysis hinges 
+on data quality, data annotation for model training, and the integration of information from 
+multiple modalities (Rasipuram and Jayagopi, 2020[199]). It also strongly depends on the 
+quality and diversity of the data used for the training of the AI model (Chen, 2023[200]). 
+This has several implications. 
+First, AI's interpretation of emotional and social cues can vary widely, raising questions 
+about the consistency and reliability of such assessments. For example, reported prediction 
+accuracy rates of tools for automatic emotion recognition in children range from 65% in 
+some publications to over 80% in others (Dai and Ke, 2022[196]), which can be considered 
+both high and very low accuracy, depending on the stakes of the assessment and the use of 
+the data. Cultural and contextual variations pose additional complexities, requiring AI 
+systems to be adaptable and nuanced in their analysis. Ethnicity (Corrigan et al., 2023[201]), 
+gender (Gross, 2023[202]), socioeconomic status and other sociodemographic-related biases 
+in recognition and performance predictions (Khan, 2023[203]), due to biases in training data 
+pools among others, have been repeatedly flagged in tools used in various contexts, from 
+human resources and recruitment (Chen, 2023[200]) to healthcare (Timmons et al., 2023[204]) 
