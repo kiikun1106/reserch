@@ -1,0 +1,658 @@
+{
+  "metadata": {
+    "source_document": "OECD Education Working Papers No. 316 (eed9bb04-en)",
+    "title": "Innovative tools for the direct assessment of social and emotional skills",
+    "extraction_policy": "3回以上出現する専門用語のみ収載。CLAUDE.mdの標準訳に既に含まれる用語（PISA、equity等）は除外。",
+    "note": "OECD既訳としては『社会情動的スキル研究』(OECD/明石書店、2018) および国立教育政策研究所のSES関連訳語慣行に準拠を試みた。"
+  },
+  "terms": [
+    {
+      "term": "social and emotional skills (SES)",
+      "proposed_ja": "社会情動的スキル（SES）",
+      "frequency": 103,
+      "context_sample": "Social and emotional skills (SES) play a critical role in education and society.",
+      "confidence": "high",
+      "notes": "OECDの社会情動的スキル研究プロジェクトで定着している訳語。明石書店刊『社会情動的スキル：学びに向かう力』に準拠。初出時に略語SESを併記。"
+    },
+    {
+      "term": "social and emotional learning (SEL)",
+      "proposed_ja": "社会性と情動の学習（SEL）",
+      "frequency": 10,
+      "context_sample": "many social and emotional learning (SEL) programmes and interventions are implemented without any associated robust assessment methods.",
+      "confidence": "high",
+      "notes": "CASEL文脈の定訳。「社会的・情動的学習」表記もあるが「社会性と情動の学習」が国内研究者間で最も普及。"
+    },
+    {
+      "term": "direct assessment / direct measurement",
+      "proposed_ja": "直接的測定／直接アセスメント",
+      "frequency": 30,
+      "context_sample": "there is an urgent need for more direct measurement approaches of SES.",
+      "confidence": "high",
+      "notes": "「assessment」を「測定」と訳すか「評価」とするかは文脈依存。本稿ではテスト・課題による定量化を指すため「測定」「アセスメント」を主に採用。"
+    },
+    {
+      "term": "self-report / self-reports",
+      "proposed_ja": "自己報告（式）",
+      "frequency": 30,
+      "context_sample": "currently relies heavily on the use of self-reported questionnaires.",
+      "confidence": "high",
+      "notes": "心理測定の定訳。「self-reported questionnaire」は「自己報告式質問紙」。"
+    },
+    {
+      "term": "behavioural assessment",
+      "proposed_ja": "行動アセスメント",
+      "frequency": 14,
+      "context_sample": "Annex B: Full list of identified behavioural assessment tools.",
+      "confidence": "medium",
+      "notes": "「行動評価」とも訳されるが、心理測定文脈ではアセスメントが定着。"
+    },
+    {
+      "term": "behaviour-based assessment",
+      "proposed_ja": "行動ベースのアセスメント",
+      "frequency": 4,
+      "context_sample": "The review focuses extensively on Behaviour-based [assessment].",
+      "confidence": "medium",
+      "notes": "task-based / game-based と並列されるため「ベース」を維持。"
+    },
+    {
+      "term": "task-based",
+      "proposed_ja": "課題ベース／タスクベース",
+      "frequency": 23,
+      "context_sample": "the contrasts between game-based and task-based behavioural assessments are extensively discussed.",
+      "confidence": "medium",
+      "notes": "心理学では「課題」、IT寄り文脈では「タスク」。本稿の心理測定課題は「課題ベース」推奨。"
+    },
+    {
+      "term": "game-based assessment",
+      "proposed_ja": "ゲームベース・アセスメント",
+      "frequency": 44,
+      "context_sample": "the contrasts between game-based and task-based behavioural assessments.",
+      "confidence": "high",
+      "notes": "教育測定領域での定着訳。"
+    },
+    {
+      "term": "situational judgement test (SJT)",
+      "proposed_ja": "状況判断テスト（SJT）",
+      "frequency": 15,
+      "context_sample": "Section 2 ... discusses Situational Judgement Tests (SJTs) as a step towards more direct measurement approaches.",
+      "confidence": "high",
+      "notes": "産業・組織心理学および人事測定の定訳。略語SJTを併用。"
+    },
+    {
+      "term": "maximal behaviour / maximal capabilities",
+      "proposed_ja": "最大行動／最大能力",
+      "frequency": 6,
+      "context_sample": "characteristics that manifest in maximal behaviours rather than typical ones.",
+      "confidence": "medium",
+      "notes": "Cronbachの「maximum performance」概念に対応。OECD SES文脈では「最大行動」が用いられる。"
+    },
+    {
+      "term": "typical behaviour",
+      "proposed_ja": "典型行動",
+      "frequency": 4,
+      "context_sample": "manifested in maximal behaviour ... more than typical behaviour.",
+      "confidence": "medium",
+      "notes": "maximal behaviourとの対比。"
+    },
+    {
+      "term": "construct validity",
+      "proposed_ja": "構成概念妥当性",
+      "frequency": 10,
+      "context_sample": "Each tool was screened for reliability ... construct validity (generalisability and convergent validity).",
+      "confidence": "high",
+      "notes": "心理測定学の定訳。"
+    },
+    {
+      "term": "ecological validity",
+      "proposed_ja": "生態学的妥当性",
+      "frequency": 20,
+      "context_sample": "their reliability, construct and ecological validity, and feasibility.",
+      "confidence": "high",
+      "notes": "現実場面への汎化可能性を指す心理測定用語。定訳。"
+    },
+    {
+      "term": "convergent validity",
+      "proposed_ja": "収束的妥当性",
+      "frequency": 8,
+      "context_sample": "construct validity (generalisability and convergent validity).",
+      "confidence": "high",
+      "notes": "心理測定の定訳。「弁別的妥当性（discriminant validity）」の対概念。"
+    },
+    {
+      "term": "test-retest reliability",
+      "proposed_ja": "再検査信頼性",
+      "frequency": 8,
+      "context_sample": "reliability (internal consistency and test-retest reliability).",
+      "confidence": "high",
+      "notes": "心理測定の定訳。"
+    },
+    {
+      "term": "internal consistency",
+      "proposed_ja": "内的整合性",
+      "frequency": 3,
+      "context_sample": "reliability (internal consistency and test-retest reliability).",
+      "confidence": "high",
+      "notes": "Cronbachのαに代表される指標。定訳。"
+    },
+    {
+      "term": "psychometric",
+      "proposed_ja": "心理測定学的（な）",
+      "frequency": 11,
+      "context_sample": "psychometric properties.",
+      "confidence": "high",
+      "notes": "形容詞用法では「心理測定学的」、名詞「psychometrics」は「心理測定学」。"
+    },
+    {
+      "term": "construct",
+      "proposed_ja": "構成概念",
+      "frequency": 30,
+      "context_sample": "compared with at least one other established measurement for the same construct.",
+      "confidence": "high",
+      "notes": "心理測定の定訳。「概念」だけでは曖昧になるため「構成概念」を推奨。"
+    },
+    {
+      "term": "executive function(s)",
+      "proposed_ja": "実行機能",
+      "frequency": 3,
+      "context_sample": "Inhibitory control is an executive function described as the ability to control our behaviour.",
+      "confidence": "high",
+      "notes": "認知神経科学の定訳。"
+    },
+    {
+      "term": "inhibitory control",
+      "proposed_ja": "抑制制御",
+      "frequency": 12,
+      "context_sample": "Inhibitory control is an executive function described as the ability to control our behaviour.",
+      "confidence": "high",
+      "notes": "認知心理学の定訳。「抑制機能」と訳されることもある。"
+    },
+    {
+      "term": "self-control",
+      "proposed_ja": "自己制御",
+      "frequency": 32,
+      "context_sample": "Self-control, defined as the ability to avoid distractions and sudden impulses.",
+      "confidence": "high",
+      "notes": "OECD SES BSE枠組みの主要スキル。「セルフコントロール」のカタカナ表記もあり得るが、本稿の学術文脈では「自己制御」推奨。"
+    },
+    {
+      "term": "self-efficacy",
+      "proposed_ja": "自己効力感",
+      "frequency": 13,
+      "context_sample": "skills that are less dependent on interactions with others, such as Self-awareness, Self-efficacy or Curiosity.",
+      "confidence": "high",
+      "notes": "Bandura由来の定訳。"
+    },
+    {
+      "term": "self-awareness",
+      "proposed_ja": "自己認識",
+      "frequency": 4,
+      "context_sample": "Self-awareness, Self-efficacy or Curiosity.",
+      "confidence": "medium",
+      "notes": "「自己理解」「自己認知」とも訳される。OECD SES文脈では「自己認識」が比較的多い。"
+    },
+    {
+      "term": "perspective-taking",
+      "proposed_ja": "視点取得",
+      "frequency": 26,
+      "context_sample": "tackle the skills Perspective-taking and Social problem-solving.",
+      "confidence": "high",
+      "notes": "発達心理学の定訳。「他者視点取得」と訳されることもあるが、単独表記が一般的。"
+    },
+    {
+      "term": "empathy",
+      "proposed_ja": "共感（性）",
+      "frequency": 64,
+      "context_sample": "Co-operation, Assertiveness or Empathy, among others.",
+      "confidence": "high",
+      "notes": "心理学の定訳。"
+    },
+    {
+      "term": "social problem-solving",
+      "proposed_ja": "社会的問題解決",
+      "frequency": 13,
+      "context_sample": "tackle the skills Perspective-taking and Social problem-solving.",
+      "confidence": "high",
+      "notes": "OECD SES枠組みの定訳。"
+    },
+    {
+      "term": "co-operation / cooperation",
+      "proposed_ja": "協調性",
+      "frequency": 29,
+      "context_sample": "Creativity, Social problem-solving, Co-operation, Assertiveness or Empathy.",
+      "confidence": "high",
+      "notes": "OECD Big Five由来のSES枠組みでは「協調性」。組織内協力の文脈では「協力」も可。"
+    },
+    {
+      "term": "trust",
+      "proposed_ja": "信頼",
+      "frequency": 25,
+      "context_sample": "Trust and Co-operation. Trust can be defined as a psychological state comprising the intention to accept vulnerability.",
+      "confidence": "high",
+      "notes": "SESスキルとして章で議論される。"
+    },
+    {
+      "term": "assertiveness",
+      "proposed_ja": "自己主張",
+      "frequency": 6,
+      "context_sample": "Co-operation, Assertiveness or Empathy.",
+      "confidence": "high",
+      "notes": "OECD SES枠組みの定訳。"
+    },
+    {
+      "term": "sociability",
+      "proposed_ja": "社交性",
+      "frequency": 8,
+      "context_sample": "Sociability.",
+      "confidence": "high",
+      "notes": "OECD SES枠組みの定訳。"
+    },
+    {
+      "term": "curiosity",
+      "proposed_ja": "好奇心",
+      "frequency": 30,
+      "context_sample": "Self-awareness, Self-efficacy or Curiosity.",
+      "confidence": "high",
+      "notes": "OECD SES枠組みの定訳。"
+    },
+    {
+      "term": "creativity",
+      "proposed_ja": "創造性",
+      "frequency": 53,
+      "context_sample": "Creativity, Social problem-solving, Co-operation.",
+      "confidence": "high",
+      "notes": "定訳。"
+    },
+    {
+      "term": "divergent thinking",
+      "proposed_ja": "拡散的思考",
+      "frequency": 20,
+      "context_sample": "Sometimes known as divergent thinking tests, most of them ask participants to generate different ideas.",
+      "confidence": "high",
+      "notes": "Guilford由来の定訳。"
+    },
+    {
+      "term": "grit",
+      "proposed_ja": "グリット（やり抜く力）",
+      "frequency": 32,
+      "context_sample": "Persistence, Achievement motivation, and Grit.",
+      "confidence": "medium",
+      "notes": "Duckworth (2007)由来。OECD既訳では「グリット」のカタカナ表記が一般的。初出時に「やり抜く力」を併記。"
+    },
+    {
+      "term": "persistence",
+      "proposed_ja": "粘り強さ",
+      "frequency": 32,
+      "context_sample": "Persistence, Achievement motivation, and Grit.",
+      "confidence": "high",
+      "notes": "OECD SES文脈の定訳。"
+    },
+    {
+      "term": "achievement motivation",
+      "proposed_ja": "達成動機",
+      "frequency": 3,
+      "context_sample": "Persistence, Achievement motivation, and Grit.",
+      "confidence": "high",
+      "notes": "動機づけ心理学の定訳。"
+    },
+    {
+      "term": "optimism",
+      "proposed_ja": "楽観性",
+      "frequency": 10,
+      "context_sample": "Optimism.",
+      "confidence": "high",
+      "notes": "OECD SES枠組みの定訳。"
+    },
+    {
+      "term": "metacognition",
+      "proposed_ja": "メタ認知",
+      "frequency": 16,
+      "context_sample": "the widening debate about what Metacognition actually is and how it should be assessed.",
+      "confidence": "high",
+      "notes": "認知心理学の定訳。"
+    },
+    {
+      "term": "emotional intelligence (EI)",
+      "proposed_ja": "情動知能（EI）",
+      "frequency": 13,
+      "context_sample": "Mayer-Salovey-Caruso Emotional Intelligence Test.",
+      "confidence": "high",
+      "notes": "「感情知能」とも訳されるが、Mayer-Saloveyモデルの文脈では「情動知能」が主流。Goleman流の文脈では「EQ」「心の知能指数」表記もあり。本稿は学術的なため「情動知能」推奨。"
+    },
+    {
+      "term": "theory of mind (ToM)",
+      "proposed_ja": "心の理論（ToM）",
+      "frequency": 8,
+      "context_sample": "ToM – Theory of Mind.",
+      "confidence": "high",
+      "notes": "発達心理学の定訳。"
+    },
+    {
+      "term": "emotion recognition",
+      "proposed_ja": "情動認識",
+      "frequency": 32,
+      "context_sample": "FERET – Facial Emotion Recognition and Empathy Test.",
+      "confidence": "high",
+      "notes": "「感情認識」「情動認知」とも訳されるが、神経科学・心理測定文脈では「情動認識」が一般的。"
+    },
+    {
+      "term": "facial emotion",
+      "proposed_ja": "表情情動",
+      "frequency": 8,
+      "context_sample": "FERET – Facial Emotion Recognition and Empathy Test.",
+      "confidence": "low",
+      "notes": "「顔面表情」「表情からの情動」など揺れあり。文脈に応じて「表情に表れる情動」と意訳することも検討。"
+    },
+    {
+      "term": "facial expression",
+      "proposed_ja": "表情",
+      "frequency": 3,
+      "context_sample": "facial expression of emotion.",
+      "confidence": "high",
+      "notes": "定訳。"
+    },
+    {
+      "term": "affective",
+      "proposed_ja": "情動的／感情的",
+      "frequency": 34,
+      "context_sample": "Extrinsic Affective Simon Task.",
+      "confidence": "medium",
+      "notes": "心理学では「情動的」、一般文脈では「感情的」。本稿は心理測定文脈のため「情動的」を主に推奨。テスト名（Affective Simon Task等）は原語維持。"
+    },
+    {
+      "term": "stimulus / stimuli",
+      "proposed_ja": "刺激",
+      "frequency": 56,
+      "context_sample": "The contextualised social and emotional stimuli these tools allow.",
+      "confidence": "high",
+      "notes": "心理実験の定訳。"
+    },
+    {
+      "term": "valence",
+      "proposed_ja": "感情価／情動価",
+      "frequency": 3,
+      "context_sample": "valence and arousal.",
+      "confidence": "medium",
+      "notes": "感情心理学では「感情価」が一般的。"
+    },
+    {
+      "term": "arousal",
+      "proposed_ja": "覚醒度",
+      "frequency": 3,
+      "context_sample": "valence and arousal.",
+      "confidence": "high",
+      "notes": "心理生理学の定訳。"
+    },
+    {
+      "term": "social desirability bias",
+      "proposed_ja": "社会的望ましさバイアス",
+      "frequency": 3,
+      "context_sample": "Social desirability bias occurs when children provide answers they consider to be socially desirable.",
+      "confidence": "high",
+      "notes": "調査方法論の定訳。"
+    },
+    {
+      "term": "reference bias",
+      "proposed_ja": "参照バイアス",
+      "frequency": 4,
+      "context_sample": "the reference bias, regarded as the different implicit standards of comparison.",
+      "confidence": "medium",
+      "notes": "West et al. (2016)由来の比較的新しい概念で定訳未確立。「参照基準バイアス」「比較基準バイアス」も考えられる。"
+    },
+    {
+      "term": "acquiescence bias",
+      "proposed_ja": "黙従バイアス",
+      "frequency": 3,
+      "context_sample": "the acquiescence bias is the tendency of some individuals to consistently respond in either a positive or negative way.",
+      "confidence": "high",
+      "notes": "調査方法論の定訳。「同意バイアス」とも訳される。"
+    },
+    {
+      "term": "immediacy bias",
+      "proposed_ja": "直近バイアス",
+      "frequency": 3,
+      "context_sample": "The immediacy bias refers to children having an appreciation of their behaviour based on recent events.",
+      "confidence": "low",
+      "notes": "定訳未確立。「直近性バイアス」「即時性バイアス」も考えられる。"
+    },
+    {
+      "term": "memory bias",
+      "proposed_ja": "記憶バイアス",
+      "frequency": 3,
+      "context_sample": "memory bias.",
+      "confidence": "high",
+      "notes": "認知心理学の定訳。"
+    },
+    {
+      "term": "implicit association",
+      "proposed_ja": "潜在的連合",
+      "frequency": 5,
+      "context_sample": "IAT – Implicit Association Test.",
+      "confidence": "high",
+      "notes": "Greenwald由来。Implicit Association Test (IAT) は「潜在連合テスト」が定訳。"
+    },
+    {
+      "term": "personality trait(s)",
+      "proposed_ja": "パーソナリティ特性",
+      "frequency": 17,
+      "context_sample": "distinct from personality traits.",
+      "confidence": "high",
+      "notes": "性格心理学の定訳。「人格特性」と訳されることもあるが、現在は「パーソナリティ特性」が主流。"
+    },
+    {
+      "term": "biophysiological measures",
+      "proposed_ja": "生体生理指標",
+      "frequency": 23,
+      "context_sample": "Section 5.1. Biophysiological measures.",
+      "confidence": "medium",
+      "notes": "「生理学的測定」「生体生理学的指標」など揺れあり。本稿のEEG, HRV, fMRI, fNIRSを包含する用語として「生体生理指標」採用。"
+    },
+    {
+      "term": "heart rate variability (HRV)",
+      "proposed_ja": "心拍変動（HRV）",
+      "frequency": 5,
+      "context_sample": "HRV – Heart Rate Variability.",
+      "confidence": "high",
+      "notes": "生理学の定訳。"
+    },
+    {
+      "term": "electroencephalography (EEG)",
+      "proposed_ja": "脳波（EEG）",
+      "frequency": 3,
+      "context_sample": "EEG – Electroencephalography.",
+      "confidence": "high",
+      "notes": "神経科学の定訳。"
+    },
+    {
+      "term": "virtual reality (VR)",
+      "proposed_ja": "バーチャルリアリティ（VR）",
+      "frequency": 20,
+      "context_sample": "virtual reality (VR) and augmented reality (AR) technologies.",
+      "confidence": "high",
+      "notes": "「仮想現実」も用いられるが、本稿の技術応用文脈ではカタカナのVRが主流。"
+    },
+    {
+      "term": "augmented reality (AR)",
+      "proposed_ja": "拡張現実（AR）",
+      "frequency": 8,
+      "context_sample": "virtual reality (VR) and augmented reality (AR) technologies.",
+      "confidence": "high",
+      "notes": "定訳。"
+    },
+    {
+      "term": "artificial intelligence (AI)",
+      "proposed_ja": "人工知能（AI）",
+      "frequency": 17,
+      "context_sample": "more advanced artificial intelligent (AI) applications.",
+      "confidence": "high",
+      "notes": "定訳。"
+    },
+    {
+      "term": "machine learning",
+      "proposed_ja": "機械学習",
+      "frequency": 5,
+      "context_sample": "machine learning algorithms.",
+      "confidence": "high",
+      "notes": "定訳。"
+    },
+    {
+      "term": "digital footprints",
+      "proposed_ja": "デジタルフットプリント",
+      "frequency": 11,
+      "context_sample": "Digital footprints and behavioural measures from videogames.",
+      "confidence": "medium",
+      "notes": "カタカナ表記が一般的。「デジタル痕跡」と訳されることもある。"
+    },
+    {
+      "term": "non-playable character (NPC)",
+      "proposed_ja": "ノンプレイヤーキャラクター（NPC）",
+      "frequency": 3,
+      "context_sample": "NPC – Non-Playable Character.",
+      "confidence": "high",
+      "notes": "ゲーム業界の定訳カタカナ表記。"
+    },
+    {
+      "term": "digital game(s)",
+      "proposed_ja": "デジタルゲーム",
+      "frequency": 17,
+      "context_sample": "almost 60 different behavioural assessments, between tasks and digital games.",
+      "confidence": "high",
+      "notes": "定訳。"
+    },
+    {
+      "term": "battery / batteries",
+      "proposed_ja": "バッテリー（検査群）",
+      "frequency": 28,
+      "context_sample": "Mixed batteries.",
+      "confidence": "high",
+      "notes": "心理測定の定訳カタカナ。「複数検査群」「テストバッテリー」とも。"
+    },
+    {
+      "term": "large-scale assessment",
+      "proposed_ja": "大規模アセスメント",
+      "frequency": 4,
+      "context_sample": "develop a large-scale assessment of SES.",
+      "confidence": "high",
+      "notes": "PISA等の文脈で定訳。"
+    },
+    {
+      "term": "life outcomes",
+      "proposed_ja": "人生の成果",
+      "frequency": 5,
+      "context_sample": "SES are predictive of a wide range of key life outcomes.",
+      "confidence": "medium",
+      "notes": "OECD SES文脈の慣用訳。「ライフアウトカム」のカタカナ表記もあり。"
+    },
+    {
+      "term": "academic achievement",
+      "proposed_ja": "学業達成",
+      "frequency": 4,
+      "context_sample": "such as academic achievement and mental health.",
+      "confidence": "high",
+      "notes": "教育心理学の定訳。「学業成績」とも訳されるが「達成」がより包括的。"
+    },
+    {
+      "term": "civic engagement",
+      "proposed_ja": "市民参加",
+      "frequency": 3,
+      "context_sample": "such as academic achievement and mental health, but also job performance and civic engagement.",
+      "confidence": "high",
+      "notes": "OECD既訳の定訳。「市民的関与」とも訳される。"
+    },
+    {
+      "term": "mental health",
+      "proposed_ja": "メンタルヘルス",
+      "frequency": 8,
+      "context_sample": "such as academic achievement and mental health.",
+      "confidence": "high",
+      "notes": "カタカナが主流。学術文脈では「精神的健康」も可。"
+    },
+    {
+      "term": "job performance",
+      "proposed_ja": "職務遂行能力",
+      "frequency": 3,
+      "context_sample": "job performance and civic engagement.",
+      "confidence": "medium",
+      "notes": "産業心理学では「職務遂行（パフォーマンス）」が定訳。"
+    },
+    {
+      "term": "adolescent(s)",
+      "proposed_ja": "青年／青少年",
+      "frequency": 23,
+      "context_sample": "The assessment of these skills in children and adolescents.",
+      "confidence": "medium",
+      "notes": "発達心理学では「青年」、政策文書では「青少年」が一般的。文脈に応じて使い分け。"
+    },
+    {
+      "term": "kindergarten",
+      "proposed_ja": "幼稚園",
+      "frequency": 3,
+      "context_sample": "from kindergarten through the end of secondary school.",
+      "confidence": "high",
+      "notes": "日本の制度との対応では注意が必要だが、国際比較文脈では「幼稚園」相当でよい。"
+    },
+    {
+      "term": "framework",
+      "proposed_ja": "枠組み",
+      "frequency": 19,
+      "context_sample": "The OECD framework and supplementary skills reviewed.",
+      "confidence": "high",
+      "notes": "「フレームワーク」表記もあるが、政策文書では「枠組み」が一般的。"
+    },
+    {
+      "term": "stroop task",
+      "proposed_ja": "ストループ課題",
+      "frequency": 7,
+      "context_sample": "Emotional Stroop Task.",
+      "confidence": "high",
+      "notes": "認知心理学の定訳。"
+    },
+    {
+      "term": "go/no-go task",
+      "proposed_ja": "Go/No-Go課題",
+      "frequency": 4,
+      "context_sample": "go/no-go task.",
+      "confidence": "high",
+      "notes": "原語表記＋「課題」が定着。"
+    },
+    {
+      "term": "trust game",
+      "proposed_ja": "信頼ゲーム",
+      "frequency": 4,
+      "context_sample": "Trust game.",
+      "confidence": "high",
+      "notes": "行動経済学・神経経済学の定訳。"
+    },
+    {
+      "term": "cognitive load",
+      "proposed_ja": "認知負荷",
+      "frequency": 3,
+      "context_sample": "cognitive load.",
+      "confidence": "high",
+      "notes": "認知心理学の定訳。"
+    },
+    {
+      "term": "Programme for International Student Assessment (PISA)",
+      "proposed_ja": "OECD生徒の学習到達度調査（PISA）",
+      "frequency": 8,
+      "context_sample": "PISA – Programme for International Student Assessment.",
+      "confidence": "high",
+      "notes": "文科省・国立教育政策研究所の公式日本語名称。"
+    },
+    {
+      "term": "Directorate for Education and Skills",
+      "proposed_ja": "教育・スキル局",
+      "frequency": 4,
+      "context_sample": "Directorate for Education and Skills, OECD.",
+      "confidence": "high",
+      "notes": "OECD公式日本語名称。"
+    },
+    {
+      "term": "Centre for Educational Research and Innovation (CERI)",
+      "proposed_ja": "教育研究革新センター（CERI）",
+      "frequency": 3,
+      "context_sample": "the OECD's Centre for Educational Research and Innovation (CERI) Governing Board.",
+      "confidence": "high",
+      "notes": "OECD公式日本語名称。"
+    }
+  ]
+}
