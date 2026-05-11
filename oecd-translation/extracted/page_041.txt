@@ -1,0 +1,32 @@
+40  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Figure 4.4. Screenshot from CREA 
+ 
+Note: An example of crea.tiles, from CREA. B) In the Divergent Thinking mode, participants are asked to 
+produce different original shapes of dogs from a limited number of tiles. C) In the Convergent Thinking mode, 
+participants are asked to select, from the four options, the shape which will require less moves to be transformed 
+into the target shape on the right. 
+Source: Adapted from (Rafner et al., 2023[99]), “Towards Game-Based Assessment of Creative Thinking”, 
+Creativity Research Journal, Vol. 35/4, pp. 763-782,  http://dx.doi.org/10.1080/10400419.2023.2198845    
+Finally, in Crea.ideas, participants are asked to come up with as many creative uses as 
+possible for three common objects (a tyre, a brick and a paper clip). The instruction is for 
+participants to be 'creative' in their thinking. Participants have two minutes to complete 
+each prompt (Rafner et al., 2023[99]). 
+In terms of reliability and validity of these tools, Divergent thinking measures in 
+Crea.ideas and in Crea.tiles correlate, supporting convergent validity. No correlation was 
+found with self-reported measures of Creativity. However, this discrepancy between self-
+report and direct measurements of Creativity have been reported by other tools as well. 
+While Crea.tiles and Crea.blender are very innovative and promising approaches to 
+creativity measurement, data is still lacking regarding their reliability, criterion validity 
+and applicability to various populations. However, these tools are still being developed. 
+Finally, it worth mentioning that the famous videogame Minecraft has been used to assess 
+Creativity (Shaw, 2022[98]). Participants were asked to create original and functional houses 
+in the 3D environment of the game. The creations were then rated independently by a jury 
+of experts for novelty and usefulness. Correlations were found between self-report scores 
+of Creativity and novelty scores based on in-game creations, and novelty and usefulness 
+scores had different significant relationships with the Big Five personality traits. 
+Critical thinking 
+No task-based assessments of Critical thinking were found, defined as ability to question, 
+to analyse and evaluate information as a basis for beliefs and actions (Kankaraš and Suarez-
+Alvarez, 2019[39]). 

@@ -1,0 +1,41 @@
+EDU/WKP(2024)11  23 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+4.1. Tasks 
+Task-based assessments measure specific SES using all sorts of quantitative and qualitative 
+behavioural data, ranging from nature of choices to number of responses to reaction times. 
+But unlike game-based assessments, task-based assessments present individuals with direct 
+instructions that are not contextually embedded in interactive storytelling. 
+The use of task-based assessments to measure SES has the clear advantage of providing 
+observable, quantifiable behaviours that reflect an individual's ability to perform in specific 
+situations. These tasks are designed to elicit meaningful differences in behaviour under 
+controlled conditions, thus providing a direct measure of an individual's ability in a 
+particular domain without relying on their subjective judgements, thus avoiding the 
+challenge of accurately self-reporting complex internal states. Task-based assessments are 
+also advantageous because they limit common pitfalls of self-report measures, such as 
+social desirability bias and reference bias. Finally, task-based assessments can be more 
+sensitive to subtle changes over time compared to self-reports, making them valuable for 
+tracking progress and assessing the impact of SEL interventions (Abrahams et al., 2019[7]; 
+Duckworth and Yeager, 2015[38]). 
+On the other hand, task-based assessments also have significant limitations (Abrahams 
+et al., 2019[7]; Duckworth and Yeager, 2015[38]). Compared with paper-and-pencil 
+questionnaires, they can be logistically difficult to administer and require carefully 
+controlled conditions that may not reflect a student's typical environment. This artificiality 
+may limit the generalisability of results to real-world settings, where students may use 
+strategies to avoid or cope with challenging situations that are not available in a test setting. 
+Furthermore, tasks may suffer from 'task impurity', where the behaviour observed is 
+influenced by factors irrelevant to the construct being measured, such as a student's physical 
+coordination, familiarity with the test format (e.g., digital literacy for computer-based 
+assessments), or more general cognitive functioning. In addition, these tasks are susceptible 
+to practice effects, where repeated exposure to the task affects performance independently 
+of the trait being assessed. Finally, reliance on a single or small set of tasks to represent 
+complex and multifaceted constructs can lead to oversimplification, overlooking the 
+variability and richness of students' SES as manifested in different contexts and situations. 
+For the sake of clarity, due to the large number of tasks reviewed, this section is organised 
+by presenting the available assessment tools according to the five OECD domains of SES 
+(Kankaraš and Suarez-Alvarez, 2019[39]), and then per skill (see Figure 4.1). Skills for 
+which strong similarities in assessment tools were found are discussed together. A sixth 
+category of skills, referred to as 'Self-reflection', includes self-reflective skills that were 
+(see Annex A: Search terms for SES) for the description of the domains and the full list of 
+skills and keywords reviewed). Importantly, this organisation should not be considered a 
+proposed taxonomy for SES, which falls outside the scope of this work. 

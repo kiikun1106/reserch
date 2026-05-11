@@ -1,0 +1,54 @@
+32  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Task-based assessments of Empathy and related skills can be organised based on the 
+number of aspects of Empathy they focus on. Some tests simply assess the ability to 
+recognise an emotion presented in simple stimuli, such as a picture of a facial expression 
+or a brief written description (Emotion recognition), some tests assess the ability to infer 
+emotions of some characters based on more complex social or non-social situations 
+(Cognitive empathy), and some tests also add questions on the subjective feeling of the 
+participant regarding the situation described (Affective empathy). 
+Many task-based assessments of Perspective-taking and Cognitive empathy (including 
+Emotion recognition) exist. Here only a few are described, selected based on their diversity 
+and on the quality of their validity/reliability metrics. Assessments of Emotion recognition 
+include very minimalistic tests such as the Reading the Mind in the Eyes Test - Child 
+Version (conceptually derived from the adult version) (Rosso and Riolfo, 2020[71]; 
+Vogindroukas, Chelas and Petridis, 2014[72]), that requires children to interpret mental 
+states from photographs of adult eyes, and select between one of four descriptive words. 
+Some computer-administered tests use multimodal stimuli to evaluate Emotion 
+recognition. This can be done either separately, such as the Emotion Recognition Index 
+(Scherer and Scherer, 2011[73]) that has two subscales for facial and vocal emotion 
+recognition, or together as the Geneva Emotion Recognition Test (GERT) (Schlegel, 
+Grandjean and Scherer, 2014[74]) and its short version (GERT-S) (Schlegel and Scherer, 
+2016[75]), which assess the recognition of a range of emotions from short video clips with 
+sound (in which facial, vocal, and bodily cues are presented simultaneously). In 
+consequence, the GERT has arguably better content validity than existing tests that largely 
+focus on static facial expressions and basic emotions. 
+By increasing the complexity of the stimuli presented (particularly by introducing 
+contextual and/or social elements), other assessments are better equipped to test 
+Perspective-taking/Cognitive empathy abilities. Some tests evaluate how individuals 
+interpret and analyse social scenarios presented in text. The Assessment of Social 
+Perspective-taking Performance (Kim et al., 2018[76]) measures both simple (articulating 
+how actors think, feel, or are inclined to behave) and complex (contextualising the position 
+actors take, with consideration of their roles, circumstances, experiences, and motivations) 
+Perspective-taking abilities. Participants give written responses to open-ended questions 
+based on hypothetical school-related dilemmas (such as discovering a friend having 
+cheated on an exam). The Combined Stories Test (Achim et al., 2012[77]) evaluates a wide 
+range of mental states such as beliefs, intentions, and emotions. Participants analyse 
+interactions between characters, focusing particularly on second-order ToM, which 
+involves understanding a character's mental state about another's mental state (e.g., a 
+character's intention or false belief about another character's action or belief), as opposed 
+to first-order ToM that deals with perceiving mental states about physical world conditions. 
+Similarly, the Faux Pas Recognition Test focuses on more advance ToM capabilities, by 
+testing whether children and adolescents are able to identify socially inappropriate 
+comments from one character about another, in written vignettes (Baron-Cohen et al., 
+1999[78]; Hayward and Homer, 2017[79]). Test-takers are expected to understand both states 
+of mind, that the person committing the faux pas does not have malicious intent, yet says 
+something which makes the other person feel confused or uncomfortable. While the 
+Emotional Literacy Test with Hypothetical Scenarios (Watanabe, Motomura and Saeki, 
+2022[61]) currently lacks extended validation for reliability and validity, this test uses open-
+ended questions to assess the ability not only to identify and explain the rationale for 
+characters' emotions, but also to assign intensity to these emotions. 
+Finally, some assessments use audiovideo film stimuli instead of written or illustrated 
+narrative vignettes. For example, the Social Attribution Task - Multiple Choice (SAT-MC) 
+(Johannesen et al., 2013[80]), assesses implicit social attribution using an animation of 

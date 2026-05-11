@@ -1,0 +1,52 @@
+EDU/WKP(2024)11  55 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Assuming the obvious need for adjustments so that content is appropriate for children and 
+adolescents, without such disturbing stimuli, future game-based assessments could adapt 
+this biofeedback principle to induce ethically acceptable levels of frustration or stress. The 
+ability of children to exert control over these negative states, and thus influence the game, 
+could then be used to measure skills such as Emotional control, yes, but also Self-control 
+in less emotionally charged settings, or Stress resistance in time-pressured challenges, for 
+example. 
+5.1.2. Eye tracking 
+Eye movements and fixations can be considered indicators of cognitive and emotional 
+processes underlying spatial and visual analysis, attention allocation, engagement, as well 
+as metacognition or emotional states, such as anxiety or fear. In more detail, eye tracking 
+strategies involve collecting data on different dimensions of gaze, such as eye position and 
+eye movement, which correspond, respectively, to measures on fixation and saccade. As 
+suggested by the name, fixations represent very brief pauses in eye movement, allowing 
+for the eye to properly percept a certain object. A practical example of its use includes 
+associating variations in fixation duration of participants with their focus on more relevant 
+visual information and, with that, better performance in a certain laboratory task. Saccades, 
+on the other hand, refer to rapid eye movements between different fixation points. For 
+example, eye tracking headsets which can detect eye movement and fixation points during 
+certain tasks can be used to infer information about processing difficulty or attention, which 
+can, in turn, be a proxy for motivation and engagement. These eye tracking technologies 
+have been also applied to children to understand cognitive abilities and learning processes 
+and have proved able to capture subtle changes in gaze occurring over the course of a brief 
+training session. An advantage of this method is that eye tracking can be simultaneously 
+informative about what is being observed and when, with a high level of spatial and 
+temporal accuracy. Even though these devices have become increasingly portable, data 
+synchronisation still limits their application outside laboratory-controlled conditions. It is 
+worth mentioning that eye tracking technologies have been also applied to children to 
+understand cognitive abilities and learning processes and have shown this technology 
+captures subtle changes in gaze which happens over the course of a brief training session       
+(Dahlstrom-Hakki, Asbell-Clarke and Rowe, 2019[144]; Fletcher-Watson and Hampton, 
+2018[153]; Rappa et al., 2022[154]). 
+Interesting experiments with eye tracking have included a study exposing participants to 
+affective image and video stimuli and using their gaze behavioural responses to infer and 
+predict personality traits, by using machine learning algorithms (Berkovsky et al., 
+2019[155]). Eye activity included multiple sub-indicators, such as the aforementioned 
+number of eye blinks, saccades and fixations, but also pupillary dilation measures. With 
+the important limitation of a small sample size, researchers reported that using these ocular 
+physiological responses to affective visual stimuli alone all personality traits were predicted 
+with an accuracy between 80% and 90%. These personality traits include those present in 
+the Big Five and the HEXACO models of personality, namely Agreeableness, 
+Conscientiousness, Extraversion, Honesty, Resiliency and Openness  (Berkovsky et al., 
+2019[155]).  
+Eye tracking has also employed to assess SES. It should be mentioned that a great number 
+of studies using eye tracking to predict SES focus on Emotion Recognition, and do so by 
+focusing on populations suffering from neuropsychiatric disorders, such as autism 
+spectrum disorder (Black et al., 2017[156]; Wieckowski and White, 2017[157]). Beyond that, 
+researchers have also found a relation between Curiosity and eye movements, albeit with a 
+very small sample of only women. In this experiment, people who self-reported to be more 

@@ -1,0 +1,53 @@
+EDU/WKP(2024)11  51 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Figure 4.8. Screenshot from VESIP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: In VESIP, players embody the avatar of a student in a school, who engages in several socially challenging 
+situations throughout two virtual school days. Players are asked to interpret the intention of other characters, 
+decide on a course of action to resolve conflicts and state how confident they feel about their own ability to 
+pursue these solutions. Students indicate their responses either through multiple choice or slider-scale response 
+options. Each option plays out as an animated visualization of the option. Each dialogue choice or course of 
+action is associated with different scores for social information processing.  
+Source: Adapted from (Russo-Ponsaran et al., 2021[140]), “Psychometric properties of Virtual Environment for 
+Social Information Processing, a social information processing simulation assessment for children”, Social 
+Development, Vol. 30/3, pp. 615-640, http://dx.doi.org/10.1111/sode.12512  
+For analysis, children’s performance is scored according to their ability to perceive the 
+actions and intentions of others correctly and the preference for prosocial behaviours when 
+faced with challenging situation, providing an overall score for their Social problem-
+solving abilities. Regarding the game’s psychometrics, internal consistency and test-retest 
+reliability were considered good. Moreover, convergent validity was also positively 
+verified by the correlations between the performance in the game and the results from other 
+measurements on Social problem-solving skills, as well as from teacher reports on students’ 
+social behaviours. Additionally, researchers found a positive correlation between Social 
+problem-solving performance in the game and better academic competences, while noting 
+that  estimations from teachers were used to indicate academic competences rather than 
+more objective academic test scores (Russo-Ponsaran et al., 2021[140]). 
+4.3.6. Adaptable games and future directions 
+Some games do not fit the typical paradigm for assessing SES, while they nevertheless 
+offer interesting concepts or mechanics which can be used as inspiration, or even directly 
+adapted, for more applicable purposes. Simoland is such an example. It is a simple 2D 
+game initially designed to assess real-life relationship satisfaction (Schönbrodt and 
+Asendorpf, 2011[141]), but that has been subsequently modified to assess attachment anxiety 
+and attachment avoidance (Schönbrodt and Asendorpf, 2012[142]), as well as feelings of 
+loneliness (Luhmann et al., 2015[143]). Such an expansion of evaluated psychological 
+dimensions is demonstrative of the game’s significant level of adaptability in its design and 
+mechanics. In this game, the player embodies a blob, a very simple organism, and is 
+prompted to interact with a similar creature, who, in the context of the game, represents a 
+romantic partner. Towards this virtual partner, players can select various actions and verbal 
+requests, whenever they desire and how often they desire. These options are not 
+dichotomous, so that players can explore a great variability of behaviours, contributing to 

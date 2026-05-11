@@ -1,0 +1,52 @@
+EDU/WKP(2024)11  45 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+relation to external outcomes, such as mental health or academic performance, due to their 
+recent development. 
+4.3.1. ZooU – Emotional control / Self-control / Empathy / Co-operation / Sociability 
+Although most games are developed with narratives and mechanisms focused on one 
+discrete skill, some have been designed to explore complex social scenarios, so that 
+multiple skills can be exercised, and thus evaluated, while playing the same game. Such is 
+the case of ZooU (DeRosier, Craig and Sanchez, 2012[128]). Published in 2012, ZooU is a 
+game targeted at elementary school students (3rd and 4th graders) that attempts to measure 
+6 different SES, corresponding to 5 of the skills in the OECD framework (Steponavičius, 
+Gress-Wright and Linzarini, 2023[2]): Emotional control; Self-control; Empathy; Co-
+operation; and Sociability. In this game, children embody an avatar of a student in a virtual 
+school where they learn to become zookeepers and must interact with other non-playable 
+characters (NPCs), such as classmates, teachers and animals. With its narratives, the game 
+is designed to create analogous social situations to those lived by children in their daily 
+schooldays, which include engaging in conversations with others, performing fun 
+playground activities, attending to classmates in need or attentively taking care of animals. 
+The choices children make, regarding their actions, the NPCs with whom they interact, 
+their dialogue options, or the time they decide to spend in certain activities, are the core 
+elements for the assessment of each SES. Regarding practical gameplay, children interact 
+with objects and with NPCs by clicking on them, initiating pre-scripted action or dialogue 
+options which can also be heard through actor-recorded audio, an element that helps the 
+game become more immersive. How does ZooU measure different skills? In each 
+individual scene, children encounter a specific social problem that needs to be solved. For 
+example, in a scene assessing Self-control, the child needs to decide whether to feed the 
+animals before going to recess or, specifically considering the dialogue options, the child 
+can also decide whether to ask the teacher questions about the animals’ names or to be 
+immediately allowed to go to recess. The objects present throughout the game also 
+constitute key elements for assessment, as they can offer critical information, such as a 
+clipboard with instructions on how to feed the animals, or they can work as distractors 
+which are not task related. Even though children are given freedom to explore the virtual 
+world, their scores will decrease if they diverge from their main task for a long time. Much 
+like Self-control, all other five skills have their own specificities in terms of the exact type 
+of data that is extracted from the game and used for assessment. As the authors explain, in 
+social scenes tapping into Self-control, Co-operation and Sociability, the scores attributed 
+to children depend largely on their behaviours, such as the objects and people with which 
+they interact and the time spent during, and between, certain behaviours. Alternatively, for 
+skills such as Empathy the key data emerges from the sequence of dialogue choices when 
+interacting with classmates and teachers NPCs. 
+Naturally, it is important that games collect multiple psychometric elements that help 
+validate their findings. One way to achieve that is to compare the results extracted from the 
+behavioural game data with indirect reports on the same skills, assessed either by the 
+students themselves, or their parents, teachers and peers. In the case of ZooU, the 
+researchers reported statistically significant correlations between the data obtained from 
+the game and social skills measurements based on the teachers’ reports on their students 
+(DeRosier, Craig and Sanchez, 2012[128]). Additional validation for this game came from a 
+subsequent study by the same group, validating ZooU with a population of Japanese 
+students, while respecting the necessary language adaptations for appropriate cultural 
+validity (Craig, Derosier and Watanabe, 2015[129]). In this study, Japanese children 
+performed better than American children in Emotional control and Co-operation skills, 

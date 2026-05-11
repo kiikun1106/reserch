@@ -1,0 +1,53 @@
+44  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+4.3. Digital games 
+Game-based assessments are a step forward in the way we assess behaviours, performances 
+and skills, in children and adults. Through the generation of immersive, interactive and 
+adaptive environments, which are engaging and often attempt to reproduce realistic 
+scenarios, with storylines, dialogues and actions that mimic real-life interactions, 
+videogames emerge as the new generation of assessment tools for SES (Kim and Ifenthaler, 
+2019[122]; Oranje et al., 2019[123]; Shute and Ke, 2012[124]). In our review, we collected more 
+than 20 game-based assessments for SES, games which not only vary immensely in their 
+design, narrative and gameplay mechanics, but also in how they extract data for assessing 
+skills. In this paper, we distinguish games from tasks as the former having an imbued 
+narrative, a story arc with character interactions that players must pursue in order to 
+conclude the game. Alternatively, when a narrative is not present, we categorise games as 
+having interactive elements where the player has some freedom to explore the virtual world. 
+Tasks, on the other hand, display simpler interfaces and are absent in narrative, requiring a 
+more direct and explicit set of actions from players, without story or exploratory elements. 
+Unlike in the previous subsection describing task-based assessments, where descriptions 
+and discussions were organised by skill to offer an ample presentation of a large number 
+of tasks, this section will be more focused. Given the greater complexity each game entails, 
+in the following paragraphs we will present only some examples of game-based 
+assessments. This will offer a balance between an overview of the diversity of these 
+immersive assessments and more detailed descriptions of how some of these games work 
+to reach their goal. 
+The game-based assessments benefit from a great variety of narratives and visual designs 
+which contribute to more immersive and engaging experiences for children and 
+adolescents. Also, having the different skills tested in scenarios where tangible social and 
+emotional elements can be incorporated, including with audiovisual elements, often based 
+in human voice recordings, confers extra realism and, thus, increases ecological validity. 
+The rich environments and simulations games can deliver are particularly useful to assess 
+complex “hard-to-measure” skills, like co-operation or creativity, which traditional 
+methods struggle to capture. Narrative-driven games also contribute to the paradigm of 
+stealth assessment, where data is collected on children’s performances and choices without 
+the overt feeling they are being evaluated, which counters self-presentation biases and test 
+anxiety, better assessing authentic behaviours. Beyond these aspects, game-based 
+assessments can usually be easily and independently administered in laptops or tablets, 
+without the need for one-on-one staff guidance and often with automatic scoring of 
+students’ behavioural choices and performances (Buckley et al., 2021[125]; Rafner et al., 
+2022[126]; Ren, 2019[10]). 
+On the negative side, visually and narratively complex games can be costly, due to the 
+diversity of expertise and workload required to develop and polish all its aspects (Buckley 
+et al., 2021[125]; Ren, 2019[10]). Furthermore,  due to the investment in ecological complexity 
+where characters and narratives are built to tell a specific story, these games often require 
+a significant time to be administered while only assessing one individual skill. On the other 
+hand, increased ecological complexity and realism of stimuli might create more noise in 
+the data collected, making it harder to isolate variables and measure specific, clearly 
+defined skills, which can taint the assessment of SES skills (Clauser, Margolis and Clauser, 
+2015[127]). Moreover, compared to more classical and established personality or skill 
+measurements, many of these games are recently developed tools with not yet acceptable 
+reliability, or sufficiently robust construct validity and criterion validity metrics, requiring 
+improvement of some narrative or mechanical elements. Some games have shown partially 
+acceptable psychometrics but are still limited regarding international comparability or 

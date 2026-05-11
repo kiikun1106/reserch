@@ -1,0 +1,52 @@
+EDU/WKP(2024)11  11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+behaviours and skills usually require more time and human resources to be produced, 
+administered and scored. Also, for those assessments requiring a correct course of action, 
+the optimal choice often relies on the establishment of consensus from a group of experts, 
+which can result in cultural biases (Wigelsworth et al., 2010[11]). 
+Direct measurement approaches can rely on different strategies. Behaviour-based 
+assessments constitute one major subset, using SJTs, tasks and games to present test-takers 
+with contextualised social and emotional situations in increasing levels of audiovisual 
+stimulation and ecological validity, to assess their SES in contexts that elicit more authentic 
+behaviours. Rather than asking children whether they consider themselves empathetic, 
+creative or collaborative, these assessments present them with performance tests, 
+hypothetical contexts or real-life situations where they can contextually express their 
+capabilities. In the most complex behavioural approach, assessing students through 
+gamified simulation-based experiences allows them to enact actions, choices and 
+behaviours in an immersive way that is engaging and motivating, potentially alleviating the 
+burden of test anxiety. However, assessing children with stimuli and contexts that are very 
+specific, without presenting a variety of situations,  might limit our ability to extrapolate 
+date and generalise conclusions regarding children’s behaviours and SES (De Klerk, 
+Veldkamp and Eggen, 2015[15]; Kyllonen and Kell, 2018[16]). 
+Other direct measurement approaches involve collecting biophysiological measures, which 
+can derive from a variety of sources, such as heart activity, saliva or blood, eye movements 
+and attention, skin conductance as well as multiple manifestations of brain activity, ranging 
+from simple to cutting-edge technology. Biophysiological measurements reflect 
+spontaneous actions which are less prone to conscious alterations than self-reports, and 
+have evolved to show somewhat valid correlations with some psychological measurements 
+(Abrahams et al., 2019[7]). However, biodata is also subject to many variables, so there are 
+still issues regarding how direct and linear extrapolations about psychological states and 
+SES can be made. Similarly, rather than asking people how they feel and think, it becomes 
+possible to analyse their speech, facial expressions, and gestures with unprecedent 
+sophistication, detecting subtle differences which are informative of their internal states 
+(Beyan et al., 2021[17]) (Westera et al., 2019[18]). Various AI applications are now capable 
+of collecting subtle and humanely undecipherable information on individuals, enriching 
+our portfolio of direct data for analysis, surpassing many biases of self-reports. With all the 
+foreseeable progress, there are, of course, many other biases and ethical concerns that arise 
+and that are the centre of societies’ current debates and decisions (Tuomi, 2022[19]). 
+These direct measurement approaches for SES illustrate that the scientific progress aligned 
+with recent technological advances has resulted in the development of more sophisticated 
+and ecologically valid tools to capture more authentic behaviours. These approaches and 
+tools counter many of the biases self-reports carry, albeit bringing new issues and 
+challenges that will require rigorous efforts to be overcome (Abrahams et al., 2019[7]). 
+Nevertheless, there are new paradigms for assessment which diversify the current portfolio 
+and future improvements and technologies will certainly help consolidate their potential. 
+Direct measurements offer, thus, complementary benefits to those of self-reports, allowing 
+these two broad assessment approaches to collectively shed light on the same reality, 
+human behaviour. 
+2.2. Situational judgement tests 
+Self-reports ask participants to report on their feelings and intentions, whereas behavioural 
+assessments directly look into people’s behaviours, actions and choices and, from those, 
+infer the appropriate SES. SJTs can be considered a self-report as they explicitly ask 
+participants to report on feelings, intentions and decisions, rather than having their practical 

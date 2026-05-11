@@ -1,0 +1,55 @@
+EDU/WKP(2024)11  17 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+• 
+Richness of stimuli: Only written content with no audiovisual stimuli / Inclusion of 
+either visual (e.g., illustrations, facial pictures) or audio (e.g., vocalisations of 
+emotions, voice recording for characters in the story) stimuli / Inclusion of 
+multisensory stimuli, audio and visual (0/1/2) 
+• 
+Adaptivity: The assessment has a fixed script / The assessment script changes 
+according to the player’s actions or choices (0/1) 
+3.2.3. Reliability and validity 
+Reliability refers to whether an instrument measures the skill in a consistent way across 
+respondents, over time, or across raters. Validity refers to whether an instrument measures 
+what it is intended to measure, and whether the inferences drawn from an instrument are 
+appropriate (Cox, Foster and Bamat, 2019[35]). Each tool was screened for reliability 
+(internal consistency and test-retest reliability), construct validity (generalisability and 
+convergent validity), criterion validity (concurrent or predictive validity), and fairness 
+(Socioeconomic, ethnic, and/or cross-cultural group comparisons). 
+As a limitation of this review, we acknowledge that information on the reliability, validity 
+and fairness measures of each tool is limited and should be taken with caution. The ratings 
+are given for information only, to give an overall qualitative view of each tool. Due to the 
+mapping purpose of this review, a thorough analysis of these estimates is beyond the scope 
+of this work. In addition, the wide range of approaches and paradigms reviewed makes 
+direct quantitative comparison of estimates difficult. For example, some measures of 
+reliability and validity estimates may not be applicable to certain paradigm designs. And 
+even when these measures are used, there are no absolute thresholds for reliability and 
+validity estimates, so acceptable levels may vary depending on the type of assessment 
+paradigm. 
+• 
+Internal consistency – the degree to which different test items that probe the same 
+construct produce similar results: The tool has not been tested for internal 
+consistency or no sufficiently solid internal consistency found / The tool has been 
+tested for internal consistency (but low estimates of internal consistency are 
+flagged)2 (0/1). 
+• 
+Test-retest reliability – whether the results of two consecutive administrations of 
+the same test to a group of individuals are highly correlated: The tool has not been 
+tested for test-retest reliability / The tool has been tested for test-retest reliability 
+(but low estimates of test-retest reliability are flagged) (0/1). 
+• 
+Construct validity – whether the score from the instrument correlates with scores 
+from different modes of measurement (e.g., self-reports) of the same skill 
+(generalizability) or with scores from other similar instruments measuring similar 
+skills (convergent validity) (Cox, Foster and Bamat, 2019[35]). Due to the lack of a 
+gold standard, there is no clear consensus in the literature as to whether or not the 
+validity of behavioural or biophysiological measures should be estimated in relation 
+to self-report measures or measures from other assessment approaches (Degner and 
+Wentura, 2008[36]; Mehlsen et al., 2019[33]): The assessment tool has not been 
+ 
+2 By convention, a Cronbach alpha (α) of .65–.80 is often considered “adequate” 
+for a scale used in human dimensions research (Vaske, Beaman and Sponarski, 
+2016[218]). Other internal consistency measurements include for example split-half 
+methods. 
+ 

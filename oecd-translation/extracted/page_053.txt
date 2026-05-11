@@ -1,0 +1,50 @@
+52  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+a more realistic and spontaneous setting, as the partner character also reacts accordingly to 
+each action. Other modifications of the game have introduced more complex narrative 
+elements, such as separation scenes, where the partner leaves for an indefinite amount of 
+time, or conflict scenes, where the partner accuses the player of infidelity. All this to test 
+how the players modify their behaviours and interactions with the partner character, 
+therefore testing anxiety and loneliness feelings and attachment patterns. In fact, 
+researchers have found positive correlations between psychological traits and in-game 
+behaviours, for example, by observing that self-reported anxious individuals displayed 
+more negative emotional behaviours when interacting with their virtual partners in the 
+different socially tense scenarios (Schönbrodt and Asendorpf, 2012[142]).  
+As with other games, Simoland is not an operational assessment tool for children in its 
+current design since the narrative presentation is targeted at people in current real-life 
+relationships. However, as the modifications briefly described above show, due to its 
+simple design and customisable dialogue and action options, the game can be easily adapted 
+to younger populations, using appropriate narratives. For example, by presenting the other 
+creature as a friend or a new colleague in the school, and not as a partner, the skill 
+Sociability can be assessed by observing whether the child initiates social contact and how 
+it chooses to proceed with the conversation. One can also create specific narratives where 
+the other character is in need of help, to assess Empathy, or create certain visual or 
+behavioural modifications in the other character so that Tolerance can be measured. 
+The several digital games presented in this section provide a representative overview of the 
+inventiveness and diversity of conceptual designs and gameplay mechanics that are 
+currently available to assess SES. Collectively, they offer an immersive, contextualised, 
+interactive and engaging experience through which more authentic behaviours manifest. 
+As some of these games are new and experimental, research efforts must continue to 
+consolidate them as valid and reliable assessment tools. Nonetheless, this review shows the 
+last decade of research has undoubtedly harnessed the potential of digital technologies to 
+develop the next generation of innovative assessment tools.  
+5. New technological approaches for assessment 
+5.1. Biophysiological measures 
+Data on human behaviours and abilities can also be obtained through other technology-
+based methods, which measure biological and physiological information. Such 
+biophysiological measures include data on heart rate activity, cortisol levels in the saliva 
+and in the hair, eye movements, skin conductance, brain activity, which can be collected to 
+inform of variations in the internal psychological and emotional states of individuals. This 
+biophysiological data can then be used as a complementary method for more directly 
+assessing individuals’ behaviours and skills, as this information is spontaneous and derives 
+from implicit processes people cannot easily control, thus also limiting social desirability 
+biases for example (Abrahams et al., 2019[7]). 
+The use of assessment tools based on these measurement technologies has expanded and 
+diversified as they have become more affordable and portable. However, even though 
+accessibility has increased, the complexity and required expertise associated with the setup, 
+calibration and synchronisation of these instruments have remained, challenging their 
+implementation at large scale. Another challenge lies with the ecological validity of these 
+instruments or, in other words, the application of these technologies in authentic settings 
+where imponderable variables abound, distant from the tightly controlled laboratory 
+settings, where most of these technologies have been developed and applied. Other authors 

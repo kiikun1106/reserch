@@ -1,0 +1,79 @@
+68  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Table 6.2. Strengths and challenges of transversal technological approaches 
+ 
+Strengths 
+Challenges 
+Biophysiological 
+measures 
+• Several techniques can be easily adapted and 
+integrated into existing tasks and games  
+• Data is spontaneous, less subject to conscious 
+alteration  
+• Offers more fine-grained information about 
+internal states than externalised behaviours 
+• Biodata is complex and correlation with specific 
+emotions and SES is not linear 
+• Strongly affected by multiple factors such as stress 
+levels, sleep, food intake or innate circadian rhythms 
+• Requires specialized staff and equipment for data 
+collection and analysis of results 
+• Usually used to assess skills related to stress and 
+attention, restraining their potential as a 
+comprehensive method for assessing SES 
+VR and AR 
+• Offer greater levels of immersiveness, with 
+contextualised social information and richer 
+audiovisual stimuli, when compared to tasks or 
+games in 2D screens 
+• Participants report strong levels of engagement 
+and a high sense of presence 
+• Current use of VR and AR is targeted at learning 
+purposes much more than at assessment 
+• Research is yet to conclusively show that VR and AR 
+provide measurable and definite construct validity 
+gains when compared to 2D screen experiences 
+• Equipment costs limit feasibility of these technologies 
+for large-scale assessment 
+AI applications 
+and digital 
+footprints 
+• Generative AI can improve assessment design 
+while reducing costs and time with development 
+• AI can quickly and accurately analyse large 
+amounts of data from text, gaze, facial 
+expressions, gestures or speech 
+• Processing of participants’ behaviours and 
+choices, when playing games and tasks, 
+potentially allows the identification of patterns 
+and the profiling of their SES 
+• Applications are still being developed and clear 
+validation studies are not yet available 
+• AI development mostly comes from private industry, 
+resulting in limited published data and compromised 
+peer-reviewed validation standards 
+• Ethical concerns, due to the still limited regulatory 
+constraints, on the use of AI to process data and on its 
+algorithm designs 
+• Unresolved biases related to culture, ethnicity, gender, 
+socioeconomic status and other sociodemographic 
+characteristics 
+7. Conclusion 
+An evaluation of all direct assessment tools and approaches, their pros and cons and their 
+current state of development, allows the conclusion that behavioural assessments, namely 
+task- and game-based assessments, currently offer the highest potential for SES assessment. 
+However, from the mapping of around 60 different tools, it is not possible to single out one 
+instrument which alone offers robust ecological, construct and criterion validity to assess 
+SES, while tested on a sufficiently representative sample, and thus recommendable for 
+international large-scale assessment. Nonetheless, collectively various high-quality tasks 
+and games can inspire the development of a more comprehensive and scientifically 
+validated assessment tool, which can assess multiple SES.  
+Given all the distinct benefits of tasks and games and the uneven assessment coverage of 
+the different skills, what assessment strategy could be designed to effectively assess 
+multiple SES simultaneously? How can objective and comparable data be obtained to 
+measure SES and attest the quality of SEL interventions? Beyond presenting children with 
+various disconnected tasks, not harmonised in their interface or narrative, a solution might 
+be to attempt a unified experience, where the advantages of both tasks and games are 
+combined (Allen et al., 2023[217]). A game anchored in a social narrative, with scenarios, 
+characters and storytelling, while populated with brief tasks, but still contextualised in the 

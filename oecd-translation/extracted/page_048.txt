@@ -1,0 +1,37 @@
+EDU/WKP(2024)11  47 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Figure 4.5. Screenshots from Physics Playground (Creativity)  
+ 
+Note: In this version of Physics Playground, participants are prompted to use a level editor to generate their 
+own creative designs. The creativity of these designs is assessed by their relevance, originality, aesthetics, 
+humour/surprise, and elaboration. Solving the puzzles requires that the green ball hits the red balloon, by 
+interacting with drawn structures and obeying the laws of physics. The participants enjoy complete freedom 
+when choosing the themes and the titles of each of their designs. Images A-C were considered, by expert raters, 
+as creative designs, whereas image D was considered not creative.  
+Source: Adapted from (Shute and Rahimi, 2021[132]), “Stealth assessment of creativity in a physics video game”, 
+Computers in Human Behavior, Vol. 116, http://dx.doi.org/110.1016/j.chb.2020.106647 
+Co-operation is another skill that the flexibility of Physics Playground design has allowed 
+to be tested (Sun et al., 2022[133]). In this context, teams of three people work together to 
+design effective mechanical solutions and solve the puzzles presented by the game. 
+Working in groups of three, the players collaborate via videoconferencing in order to 
+exchange ideas through spoken language rather than through chatbox messaging. One 
+player is randomly assigned the role of the controller, responsible for the mouse interactions 
+and the actual design, while the other two, the contributors, observe the gameplay live and 
+provide contributions. Then, the role of controller changes so that all players have the 
+opportunity to play the different roles. Since all team members received joint rewards in 
+the game for their progress, there is a clear incentive to effective teamwork and 
+collaborative behaviour, based on interdependence. In fact, under the umbrella of Co-
+operation, multiple behavioural dimensions are being tapped, from maintaining active and 
+constructive communication throughout the gameplay and understanding other’s 
+perspectives, to encouraging others, solving possible conflicts, and negotiating solutions. 
+In the case of this experiment, researchers observed convergent validity between the 
+collective self-reported co-operative behaviour of the team members and the co-operative 
+behaviour displayed while playing the game, which translated in better performance. 
+Overall, Physics Playground is an example of how data from the same game can be flexibly 
+collected to assess different SES, depending on how the gameplay mechanisms are 
+designed and on the exact goal to which children are prompted. 
+A 
+B 
+D 
+C 

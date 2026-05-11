@@ -1,0 +1,54 @@
+EDU/WKP(2024)11  61 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+This is an emerging category, and although a growing number of commercial 
+providers are already offering such services (for example, Beamery, Techwolf, 
+Empath, or Workera), it is still a very early field and may not be mature and 
+developed for SES measurement. 
+However, there are currently many limitations, and the scientific literature appears divided 
+on issues related to the reliability and ethics of these tools. This is reflected in the large 
+number of organisations calling for a comprehensive review of their use in different 
+educational sectors, as well as the increasing number of policies enforced by governments 
+on this issue, especially in education. For example, the European Commission's AI Act 
+(https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai, 
+consulted 
+5 
+February 2024) is the first major step forward at regulating this new era at an 
+intergovernmental scale. This regulatory proposal addresses the risks of AI, by providing 
+AI developers, implementers and users with clear requirements and obligations regarding 
+specific uses of AI. Critically, the regulatory framework defines four levels of risk in AI 
+and identifies as high-risk AI technologies used in education or training that can determine 
+someone's access to education and career progression (e.g., scoring exams). The proposal 
+is part of a broader artificial intelligence package that will ensure the safety and 
+fundamental rights of people and companies in AI.  
+5.3.1. Methodologies and applications 
+Through advanced algorithms, AI systems can sift through vast datasets to identify patterns 
+and correlations that human analysts might overlook. Various strands of research, known 
+collectively as affective computing, have been developed to enable computational systems 
+to recognise, interpret and respond to human emotions (Aranha, Correa and Nunes, 
+2021[192]). The tools developed both for assessment analytics and skills inferencing, include 
+a wide range of technologies, such as emotion recognition techniques, facial expression 
+analysis, gesture recognition, voice recognition or text analysis. They are used to interpret 
+facial expressions, body language, voice frequency and intensity, or written content and 
+style, which are essential indicators of an individual's emotional states (Westera et al., 
+2019[18]). These technologies are also used for social signal processing. Social Signal 
+Processing focuses on the automatic detection and interpretation of social signals, which 
+are non-verbal cues that can convey socially relevant information (e.g., gestures, eye gaze, 
+posture, vocal characteristics, interpersonal distances, facial expressions) (Beyan et al., 
+2021[17]). For example, from a social AI perspective, the contraction of a series of facial 
+muscles producing a smile can be coded as evidence with a certain probability that a person 
+is likely to be experiencing the emotion of happiness or displaying a friendly attitude. These 
+approaches enhance the processing of socially and emotionally relevant information, 
+potentially improving the assessment of SES.  
+Additionally, machine learning models are increasingly employed for personality detection 
+(Mehta et al., 2020[193]). Automatic personality detection is a rising field (in terms of 
+academic publications) given the large number of industrial applications. As for emotions 
+and social interactions, methods for automatic detection of personality include text 
+processing, visual processing such as analysis of facial features, audio processing, and 
+multimodal processing – which combines inputs from several modalities. Other recent and 
+more exotic approaches include, for instance, the use of AI to analyse colour features of 
+photos posted on social media to predict personality traits (Khorrami, Khorrami and 
+Farhangi, 2022[194]). Visual processing is the most common method and is considered the 
+most accurate unimodal prediction. Audio processing is mostly used in combination with 
+the visual method. While bimodal predictions remain the most popular, multimodal 
+methods have been shown to be so far the most accurate in predicting personality (Mawalim 

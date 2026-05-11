@@ -1,0 +1,51 @@
+18  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+compared with at least one other established measurement for the same construct / 
+The assessment tool has been compared with at least one other established 
+measurement for the same construct (but non-significant correlations are flagged) 
+(0/1). 
+As a limitation, it should be noted that the review of construct validity did not 
+include divergent/discriminant validity. 
+• 
+Criterion validity – whether the score from the instrument predicts current 
+(concurrent validity) or future (predictive validity) real-life performance or other 
+external outcomes of interest (e.g., academic success, reported prosocial/aggressive 
+behaviours, subjective well-being three years later): Behavioural results from the 
+assessment tool have not been correlated with external outcomes / Behavioural 
+results from the assessment tool correlate with external outcomes (0/1) 
+• 
+Fairness – whether an instrument is not biased against specific socioeconomic or 
+cultural or ethnical subgroups of individuals. Information that could support this 
+component of validity includes statistical tests showing that scores from the 
+measure function similarly across all subgroups (Cox, Foster and Bamat, 2019[35]): 
+The assessment tool has not been tested for differences between diverse 
+socioeconomic or cultural or ethnical subgroups / The assessment tool has been 
+tested for differences between diverse socioeconomic or cultural or ethnical 
+subgroups, at a country or international level (0/1). 
+As a limitation, it should be noted that Fairness did not include a review of 
+measurement invariance analyses, nor gender differences. 
+3.2.4. Feasibility, costs, and licence 
+This criterion encompasses information on practical aspects of the tool, related to: 
+• 
+Duration – mean time to perform the assessment: More than 30 minutes per skill / 
+Less than 30 minutes per skill (0/1) 
+• 
+Administration: Staff is required to administer the assessment / Staff is not required 
+to administer the assessment (0/1) 
+• 
+Grading: Grading of participants’ responses is not automatic and requires an 
+evaluator / Automatic grading of responses (0/1) 
+Information on availability is reported when available (including equipment needed, such 
+as headset for VR, or license). Since the vast majority of the tools included are digital, the 
+review assumes minimal requirements: hardware devices; internet connection. 
+4. Behaviour-based assessment tools 
+As an alternative to asking a student or teacher to report on behaviour, it is possible to 
+observe behaviour through various tasks and games, where students make choices and 
+actions from which we can infer aspects of their behaviour and, by extension, their SES. A 
+behavioural task is essentially a situation that has been designed to elicit meaningful 
+differences in behaviour of a certain kind. Observing students in the identical contrived 
+situation eliminates the possible confound of variation in the base rates of certain types of 
+situations (Galla and Duckworth, 2015[37]). 
+Behaviour-based assessments include tasks as well as digital games, with different levels 
+of complexity, richness of audiovisual stimuli, immersiveness, interactivity, and, 

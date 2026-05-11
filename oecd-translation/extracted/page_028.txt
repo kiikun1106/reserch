@@ -1,0 +1,54 @@
+EDU/WKP(2024)11  27 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Incentive motivation, a facet of Motivation and reward. Incentive motivation tests measure 
+how much effort an individual is prepared to exert to gain reward. The monetary incentive 
+reward task assesses effort to avoid punishment and gain reward, and the progressive ratio 
+task identifies the maximum effort that a participant will expend in order to receive a reward 
+(Bland et al., 2016[42]). In terms of reliability and validity, these two neuropsychological 
+tasks are initially destined to assess clinical conditions of patients with neuropsychiatric 
+disorders. The tasks of the EMOTICOM battery (Bland et al., 2016[42]) were also tested on 
+volunteers with no self-reported previous or current psychiatric disorders, but as a control 
+condition. There is the need to assess the discriminant power of such tasks in the broader 
+population. Preliminary data presented in the publication showed low test/retest reliability 
+of the monetary incentive task. 
+A third highly related concept is Grit. In the literature, Grit is defined as “perseverance and 
+passion for long-term goals [and] not just resilience in the face of failure, but also having 
+deep commitments that [one] remain[s] loyal to over many years” (Duckworth et al., 
+2007[47]). In contrast to Self-control, Grit is distinguished by its emphasis on effort and 
+interest sustained over months and years rather than minutes and hours (Galla et al., 
+2014[48]). Grit is commonly defined as a complex trait that encompasses two key 
+components: “Perseverance of effort” and “Consistency of interest” (Credé, Tynan and 
+Harms, 2017[49]). While “Perseverance of effort” seems to relate to the Persistence skill of 
+the OECD framework, “Consistency of interest” seems to be aligned with the Achievement 
+motivation skill of the OECD framework (Steponavičius, Gress-Wright and Linzarini, 
+2023[2]). This two-dimensional structure of Grit is evident in the design of one of the main 
+self-assessment tools used to evaluate it: the Grit Scale (Duckworth et al., 2007[47]) and the 
+Short Grit Scale (Duckworth and Quinn, 2009[50]). These aspects are also present in 
+assessments using compound measures for evaluating Grit. Sutter and colleagues (Sutter, 
+Untertrifaller and Zoller, 2022[51]), for example, combine three different choices of children 
+on (i) perseverance as an ability to work hard, (ii) the willingness to challenge oneself by 
+choosing voluntarily a more difficult task when given the choice, and (iii) the likelihood to 
+follow through with that task until completion. 
+However, the literature is divided regarding the usefulness of conceptualising Grit as a 
+higher-order construct characterised by two lower-order facets. Some research 
+underscores: a lack of strong methodological evidence for a higher-order factor structure 
+in Grit; a general loss in predictive power when combining perseverance and consistency 
+scores; Grit's modest correlation with academic performance, which is weaker compared 
+to established predictors like cognitive ability or study habits; and finally, Grit's strong 
+overlap with Conscientiousness and Self-control. This suggests that Grit might merely be 
+a rebranding of existing constructs rather than a unique predictor of performance (Credé, 
+Tynan and Harms, 2017[49]). A recent systematic review (Fernández-Martín, Arco-Tirado 
+and Hervás-Torres, 2020[52]) indicates that research on Grit needs more systematic and 
+rigorous methodologies, and although there is evidence supporting Grit as a predictor of 
+success in education, profession, and personal life (Lechner, Danner and Rammstedt, 
+2019[53]), the limited number and/or quality of studies hinder definitive causal conclusions. 
+The review suggests the need for stronger, more comparable evidence in the field of Grit 
+research. 
+The Academic Diligence Task was created to assess Academic diligence defined as 
+“working assiduously on academic tasks which are beneficial in the long-run but tedious 
+in the moment, especially in comparison to more enjoyable, less effortful diversions” (Galla 
+et al., 2014[48]). The authors of the task relate this construct to Grit and Self-control. The 
+Academic Diligence Task is a behavioural measure designed to assess the allocation of time 
+and effort between a beneficial yet monotonous math skill-building activity and engaging 
+distractions such as video games or YouTube clips (e.g., music videos, movie trailers). This 

@@ -1,0 +1,51 @@
+EDU/WKP(2024)11  35 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Economic games). The Trust Game is a sequential game involving two players, a trustor 
+and a trustee, each initially endowed with an equal number of tokens. The trustor decides 
+how many tokens to transfer to the trustee, which are then multiplied and added to the 
+trustee's endowment. The trustee then decides how many tokens to return to the trustor. 
+The Trust Game simplifies real-life situations of unilateral dependence, like online 
+transactions, and has been used to understand the dynamics of trust and co-operative 
+behaviour in different contexts. In a one-shot game, the trustor should theoretically send 
+nothing, anticipating that the trustee has no incentive to return anything. It allows for the 
+expression of beliefs about prosociality and motives like altruism, fairness, or greed. While 
+the game’s simplicity is sometimes valued as a way to measure Trust in a purely abstract 
+way, it has been widely adapted and implemented with elements such as communication, 
+acquaintance, and repeated interaction to more closely approximate corresponding real-life 
+situations (Thielmann et al., 2021[89]). 
+Other economic games used to assess Trust and Co-operation include social dilemmas 
+such as the Prisoner’s dilemma and the Public Goods Game. Social dilemmas are 
+characterised by conflicts between immediate self-interest and long-term collective goals 
+and are critical in understanding co-operation development. The Prisoner’s dilemma 
+presents a scenario where two individuals, acting independently, must each decide whether 
+to cooperate with the other or to act selfishly (defect) (Thielmann et al., 2021[89]). The 
+dilemma arises because the optimal outcome for each individual (defecting while the other 
+cooperates) leads to a worse collective outcome than if both had cooperated. If both 
+cooperate, they receive a moderate reward; if one defects and the other cooperates, the 
+defector gets a high reward while the cooperator gets a low or no reward; if both defect, 
+they both get a low reward. This setup illustrates the conflicts between individual interests 
+and collective well-being. Various adaptions exist, such as the Intergroup Prisoner’s 
+Dilemma which looks at co-operative behaviours across groups (Thielmann et al., 
+2021[89]). Here, each group decides whether to cooperate with or defect against the other. 
+Mutual co-operation leads to moderate benefits for both, mutual defection results in worse 
+outcomes, and one group defecting while the other cooperates gives the defecting group a 
+high benefit but disadvantages the co-operative group. This paradigm is used to study group 
+dynamics and intergroup relations, highlighting how collective interests and biases (toward 
+the other group) impact decision-making and often make intergroup Co-operation more 
+challenging. In that sense, this variation can be used to assess aspects of Open-mindedness 
+such as Tolerance, on top of Trust and Co-operation (see Open-mindedness and Tolerance 
+in the following section).  
+In Public Goods Game paradigms, players decide how much of their initial endowment to 
+keep or contribute to a public good, which is then multiplied and equally redistributed, with 
+individual outcomes depending on both their and others' contributions (Keil et al., 2017[90]). 
+Pizzagame (Keil et al., 2017[90]) is an example of Public Goods Game. This computer task 
+developed for children and adolescents simulates playing with peers online, though 
+interactions are with computer-generated players. The participants face three conditions 
+based on the other virtual players’ strategies: co-operative strategy, selfish strategy, and 
+divergent co-operative–selfish strategies. The task can thus measure the change in strategy 
+of the participant based on the other’s strategies (conditional Co-operation).  
+4.1.5. Open-mindedness 
+Tolerance 
+Tolerance is defined as the ability to be open to different points of view, to value diversity, 
+and to be appreciative of foreign people and culture (OECD, 2021[66]). 

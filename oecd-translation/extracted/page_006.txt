@@ -1,0 +1,35 @@
+EDU/WKP(2024)11  5 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+Acronyms 
+AI – Artificial Intelligence 
+AR – Augmented Reality 
+EEG – Electroencephalography 
+EI – Emotional Intelligence 
+fMRI – functional Magnetic Resonance Imaging  
+fNIRS – functional Near-Infrared Spectroscopy 
+HRV – Heart Rate Variability  
+NPC – Non-Playable Character 
+PISA – Programme for International Student Assessment 
+SEL – Social and Emotional Learning 
+SES – Social and Emotional Skills 
+SJT – Situational Judgement Test 
+ToM – Theory of Mind 
+VR – Virtual Reality   
+ 
+Assessment Tools’ acronyms: 
+FERET – Facial Emotion Recognition and Empathy Test 
+GERT – Geneva Emotion Recognition Test 
+GERT-S – Geneva Emotion Recognition Test Short version 
+IAT – Implicit Association Test 
+LEAS – Levels of Emotional Awareness Scale  
+LEAS-C – Levels of Emotional Awareness Scale - Children 
+MET – Multifaceted Empathy Test 
+MSCEIT – Mayer–Salovey–Caruso Emotional Intelligence Test Version 2.0 
+MSCEIT-YV – Mayer–Salovey–Caruso Emotional Intelligence Test–Youth Version, 
+Research Version 
+PERC (Task) – Persistence, Effort, Resilience, and Challenge-Seeking Task 
+SAT-MC – Social Attribution Task - Multiple Choice 
+TTCT – Torrance Test for Creative Thinking 
+V-SEIP – Video-Social-Emotional Information Processing 
+VESIP – Virtual Environment for Social Information Processing 

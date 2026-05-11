@@ -1,0 +1,50 @@
+EDU/WKP(2024)11  9 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+data. With a wider portfolio of validated direct assessments, it will be possible to identify 
+the most promising ones and, from those, develop a large-scale assessment of SES. Such a 
+tool will be instrumental to assess SEL interventions and compare their efficacy across 
+different cultural contexts, or to understand the most important skills to target in various 
+countries. 
+The purpose of this paper is to identify and review the existing innovative assessment tools 
+and technological approaches focused on direct measurements of SES. Such assessments 
+and approaches tap on the manifestation of these skills on behaviour, including actions, 
+choices and performances, rather than relying on subjective judgements from students 
+themselves, teachers, parents or peers (Abrahams et al., 2019[7]). Thus, direct measurement 
+tools include behavioural assessments, which comprise tasks and digital games. 
+Additionally, technological approaches that can transversally improve the quality and 
+scope of different assessments tools are also discussed. These include virtual reality (VR) 
+and augmented reality (AR) technologies, biophysiological measures, digital footprints and 
+more advanced artificial intelligent (AI) applications. 
+Although this paper covers all these instruments and techniques, the limitations and 
+practical constraints of some of them led us to focus our analysis on behavioural 
+assessments, which are presently more promising. We conducted a comprehensive review, 
+mapping almost 60 different behavioural assessments, between tasks and digital games, for 
+which we present descriptive information as well as a comparative analysis based on 
+several validity criteria. Collectively, these innovative assessment tools tend to offer higher 
+levels of immersiveness and engagement, in a variety of interface and gameplay designs 
+(Emihovich, Arrington and Xu, 2019[8]; Fulya Eyupoglu and Nietfeld, 2019[9]). The 
+contextualised social and emotional stimuli these tools allow results in a manifestation of 
+more spontaneous and authentic behaviours in children, beyond what classical reports can 
+offer (Ren, 2019[10]). Such benefits result in increased ecological validity and objectivity of 
+SES assessment and expands the portfolio of current assessment approaches. 
+The paper is structured in the following way. Section 2 discusses the contrast between the 
+benefits and disadvantages of self-reports and direct measurements for assessing SES and 
+discusses Situational Judgement Tests (SJTs) as a step towards more direct measurement 
+approaches. Section 3 introduces the methodology used to conduct the thorough mapping 
+of the existent behavioural assessment tools and the technological approaches for direct 
+assessment, including the presentation of various criteria used to analyse the different tools. 
+Then, Section 4 presents an ample coverage of innovative behavioural assessment tools, 
+mapping the existent tasks and digital games used to assess SES. Section 5, on the other 
+hand, focuses on technological approaches that can transversally apply to different tasks 
+and games to improve assessment, including biophysiological measures, VR and AR, AI 
+applications, as well as digital footprints and behavioural data from videogames. Finally, 
+Section 6 summarises and discusses the reviewed assessment tools and transversal 
+technological approaches, promoting a dialogue between different types of tools, as to 
+identify the strengths and challenges associated with each of them. In particular, the 
+contrasts between game-based and task-based behavioural assessments are extensively 
+discussed. 
+2. Expanding beyond indirect assessment 
+2.1. Comparison between Self-reports and Direct measurements 
+Self-reported questionnaires offer a wide range of available measurements regarding the 
+breath and specificity of the skills assessed, which results from the easy adaptability of the 

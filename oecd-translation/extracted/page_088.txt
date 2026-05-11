@@ -1,0 +1,100 @@
+EDU/WKP(2024)11  87 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+25) Intergroup Prisoner's dilemma 
+Thielmann et al. (2021): https://doi.org/10.1525/collabra.19004 
+26) Interpersonal Perception Task (IPT-15) 
+Iizuka, Patterson & Matchen (2022): 
+https://link.springer.com/article/10.1023/A:1020761332372 
+27) 
+Laboratory 
+coping 
+and 
+emotion 
+regulation task 
+Bettis et al. (2019): https://doi.org/10.1080/15374416.2018.1466306 
+28) Levels of Emotional Awareness Scale 
+(LEAS) & Levels of Emotional Awareness 
+Scale - Children (LEAS-C) 
+Lane & Smith (2021): https://doi.org/10.3390/jintelligence9030042 
+Siegling, Saklofske & Petrides (2015): https://doi.org/10.1016/B978-0-12-386915-9.00014-
+0 
+Bajgar et al. (2005): https://doi.org/10.1348/026151005X35417 
+Veirman, Fontaine & Van Ryckeghem (2016): https://doi.org/10.1037/pas0000261 
+29) 
+Mayer–Salovey–Caruso 
+Emotional 
+Intelligence Test-Youth Version (MSCEIT-
+YV) 
+Peters, Kranzler & Rossen (2009): https://doi.org/10.1177/0829573508329822 
+Rivers et al. (2012): https://doi.org/10.1177/0734282912449443 
+30) Minecraft Task 
+Shaw (2023): https://psycnet.apa.org/doi/10.1037/aca0000456 
+31) Mirror Tracing Frustration Task (MTFT) 
+Meindl et al. (2019): https://psycnet.apa.org/doi/10.1037/emo0000492 
+Zamarro et al. (2020): https://doi.org/10.1371/journal.pone.0235396 
+32) Multifaceted Empathy Test 
+Drimalla et al. (2019): https://doi.org/10.1080/02699931.2019.1596068 
+Foell et al. (2018): https://psycnet.apa.org/doi/10.1007/s10862-018-9664-8 
+Grainger et al. (2023): https://doi.org/10.1177/10731911221127902 
+33) Noah Kingdom 
+Wang, Liu & Hau (2022): https://doi.org/10.1007/s10639-021-10777-9 
+34) Persistence, Effort, Resilience, and 
+Challenge-Seeking Task (PERC Task) 
+Porter et al. (2020): http://dx.doi.org/10.18608/jla.2020.71.2 
+Porter et al. (2020b): https://doi.org/10.1177/1948550620909738 
+Selmeczy et al. (2021): https://doi.org/10.1016/j.cogdev.2021.101062 
+35) Physics Playground (Creativity) 
+Shute & Rahimi (2021): https://doi.org/10.1016/j.chb.2020.106647 
+36) Physics Playground (Persistence) 
+Ventura & Shute (2013): http://dx.doi.org/10.1016/j.chb.2013.06.033 
+37) Physics Playground (Co-operation) 
+Sun et al. (2022): https://doi.org/10.1016/j.chb.2021.107120 
+Andrews-Todd et al. (2023): https://doi.org/10.1016/j.compedu.2023.104928 
+38) Pizzagame 
+Keil et al. (2017): https://link.springer.com/article/10.3758/s13428-016-0799-9 
+39) Posterlet 
+Cutumisu, Chin & Schwartz (2019): https://doi.org/10.1111/bjet.12796 
+Cutumisu & Schwartz (2021): https://doi.org/10.1016/j.compedu.2021.104215 
+40) Prisoner's dilemma 
+Mengel (2017): https://doi.org/10.1111/ecoj.12548 
+Thielmann et al. (2021): https://doi.org/10.1525/collabra.19004 
+41) Public Goods Game 
+Thielmann et al. (2021): https://doi.org/10.1525/collabra.19004 
+van Dijk & De Dreu (2021): https://doi.org/10.1146/annurev-psych-081420-110718 
+42) Questions Worlds 
+Tor & Gordon (2020): https://doi.org/10.18178/ijiet.2020.10.8.1433 
+43) Reading the Mind in the Eyes Test - Child 
+Version (RMET-C) 
+Rosso & Riolfo (2020): https://doi.org/10.3389/fpsyg.2020.586065 
+Hayward & Homer (2017): https://doi.org/10.1111/bjdp.12186 
+44) Rumble’s Quest 
+Day et al. (2019): https://doi.org/10.1007/s10567-019-00282-4 
+Allen et al. (2023): https://doi.org/10.1002/ajs4.258 
+Freiberg et al. (2023): https://doi.org/10.1080/10888691.2023.2208753 
+45) Seaball 
+Song & Sparks (2017): https://doi.org/10.1177/0735633117740605 
+46) SELweb EE (early elementary) 
+McKown (2019): https://doi.org/10.1177/0734282917749682 
+McKown et al. (2023): https://doi.org/10.1177/10731911211046044 
+47) SELweb LE (late elementary) 
+McKown, Russo-Ponsaran & Karls (2022): https://doi.org/10.1111/sode.12641 
+48) Short version of the Geneva Emotion 
+Recognition Test (GERT-S) 
+Schlegel & Scherer (2016): https://link.springer.com/article/10.3758/s13428-015-0646-4 
+Leutner et al. (2021): https://doi.org/10.1108/JMP-01-2020-0023 
+49) Simoland 
+Schönbrodt & Asendorpf (2011): https://psycnet.apa.org/record/2011-01588-001 
+Schönbrodt & Asendorpf (2012): https://doi.org/10.1111/j.1467-6494.2011.00736.x 
+Luhmann et al. (2015): https://doi.org/10.1080/02699931.2014.922053 
+50) Simulation game 
+Kleitman et al. (2022): https://doi.org/10.3389/fpsyg.2021.717568 
+51) Social Attribution Task-Multiple Choice 
+(SAT-MC) 
+Johannesen et al. (2013): http://dx.doi.org/10.1155/2013/830825 
+García-Guerrero et al. (2021): https://actaspsiquiatria.es/index.php/actas/article/view/166 
+Lee & Choi (2022): https://doi.org/10.3389/fpsyt.2022.883212 
+52) Torrance Test of Creative Thinking 
+(TTCT) 
+Perry & Karpova (2017): http://dx.doi.org/10.1016/j.tsc.2017.02.017 
+Yoon (2017): http://dx.doi.org/10.1016/j.tsc.2017.05.004 

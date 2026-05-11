@@ -1,0 +1,50 @@
+EDU/WKP(2024)11  57 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+biological marker for different internal skills such as stress resilience or emotional control. 
+In fact, ineffective regulation of cortisol responses to stress or emotional pressure shows 
+correlations with lower levels of emotional well-being (de Vries, van de Weijer and Bartels, 
+2022[165]; James et al., 2023[166]; Walker et al., 2017[167]). Additionally, it has been 
+suggested cortisol can indeed be used as biomarker for psychiatric disorders such as anxiety 
+or depression, including in young populations (Špiljak et al., 2022[168]). Although cortisol 
+runs in the blood, a major advantage of this method is that its collection can be made using 
+non-invasive sampling, with the resort to salivary cortisol, which correlates well with the 
+correspondent blood levels (Hellhammer, Wüst and Kudielka, 2009[169]). However, it 
+should be pointed out that, even though higher levels of salivary cortisol are usually 
+associated with poorer emotional and behavioural responses, there is not a linear correlation 
+between these two variables and the associations are far more complex. As such, other 
+relevant indicators include awakening cortisol levels and daily slopes, which allow a better 
+mapping of the correlations with the physiological state of the individuals. It is important 
+to note that cortisol levels are also subject to secretion cycles dependant on internal and 
+individual circadian patterns7, unrelated to the impact of stressors, which can confound 
+conclusions regarding the effect of stressful stimuli. Additionally, individual variations are 
+also affected by age and sex, as well as eating, sleep and physical activity factors, all of 
+which must be considered when planning the most reliable and harmonised periods for 
+sample collection, in order to guarantee consistency across individuals (Golub et al., 
+2019[170]; Keil, 2012[171]). 
+Some research groups have also looked at the comparison between salivary cortisol and 
+cortisol levels in hair follicles, that in turn reflect accumulated cortisol over periods of 
+weeks or months, and found correlations between these two indicators to be inconsistent. 
+Although hair follicle cortisol offers the advantage of giving a larger picture of cortisol 
+secretion profiles of individuals and how they manage stress over time, it does not allow to 
+test stress responses to acute stress-inducing events or stimuli like salivary cortisol does       
+(Golub et al., 2019[170]; Joseph, Jiang and Zilioli, 2021[172]; Zhang et al., 2018[173]). 
+Constituting a rather simple collecting procedure while allowing for multiple and 
+consecutive sample collections, salivary cortisol has been widely used in both adult and 
+child research to understand patterns of cortisol secretion in response to stress-inducing 
+laboratory experiments but also in non-clinical environments. Stress-inducing stimuli 
+usually activate the neuroendocrine system to secrete cortisol, with its peak levels arising 
+15 to 30 minutes after the initial activation, a time dimension which should be considered 
+when collecting samples for analysis. Another positive aspect for its feasibility is that 
+salivary cortisol samples remain stable and reliable after collection for up to 7 days of 
+storage, with no need for freezing (Katz et al., 2016[174]; Keil, 2012[171]). 
+Together, the different biophysiological measurement techniques presented in this section, 
+that can be incorporated into tasks and games, offer multiple avenues for innovation and 
+for enriching the data associated with SES assessment. However, they also pose new 
+challenges, regarding the limited scope of skills they currently assess, the costs associated 
+with some of the equipment, the complexity inherent to biodata for SES inferencing, and 
+the limited applicability of these technologies for large-scale implementation. 
+ 
+7 Circadian rhythms are any periodic variation in physiological or behavioural activity that repeats 
+at approximately 24-hour intervals (Source: American Psychological Association, Dictionary of 
+Psychology) 

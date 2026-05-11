@@ -1,0 +1,51 @@
+EDU/WKP(2024)11  41 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+4.1.6. Self-reflection 
+Metacognition 
+Despite the widening debate about what Metacognition actually is and how it should be 
+assessed, it is generally understood as a multifaceted ensemble of processes related to 
+awareness, knowledge and understanding of inner processes and subjective experiences, 
+such as thoughts and feelings (Gascoine, Higgins and Wall, 2017[106]). Understood as a 
+skill, Metacognition is the ability to reflect on, articulate and deliberately control such 
+experiences (Steponavičius, Gress-Wright and Linzarini, 2023[2]). Metacognition has been 
+approached by many disciplines and is conceptually related to several concepts such as 
+executive function, Self-control and Emotional control (Gascoine, Higgins and Wall, 
+2017[106]), or Perspective taking and Cognitive empathy. While the debate around the exact 
+nature of Metacognition goes beyond the scope of this work, it is important to acknowledge 
+that many of its facets are generally associated with foundational cognitive processes. 
+Various approaches exist for assessing these cognitive processes; however, the focus of 
+this research was to identify tools that assess aspects of Metacognition with an emotional 
+feature. 
+The Levels of Emotional Awareness Scale (LEAS) (Lane and Smith, 2021[107]) and the 
+Levels of Emotional Awareness Scale – Children (LEAS-C) (Bajgar et al., 2005[108]) are 
+two tasks designed to assess adults’ and children’s ability to recognise and describe their 
+own emotions (Emotional awareness, Metacognition), and the emotions of others 
+(Perspective-taking, Empathy). Developed over thirty years ago, the LEAS has been 
+extensively tested for validity and reliability (for a review see for example (Siegling, 
+Saklofske and Petrides, 2015[109]) and adapted into a digitalised tool. The scale's 
+effectiveness and reliability have been supported by extensive research across healthy and 
+clinical populations, demonstrating its significance in understanding emotional self-
+regulation, social adaptation, and overall mental and physical health. This assessment 
+involves presenting individuals with a series of hypothetical but relatable scenarios 
+covering a range of emotional contexts, such as social interactions, achievements, losses, 
+and ethical dilemmas (Lane and Smith, 2021[107]). Each scenario is a brief description of a 
+situation that involves interpersonal interactions or personal experiences likely to generate 
+emotions. The key aspect of the LEAS is that it does not directly ask respondents to identify 
+or choose emotions from a given list. Instead, it requires them to describe in their own 
+words what they would feel in the situation described, as well as what any other person 
+involved in the scenario might feel. The open-ended responses are then scored based on the 
+level of emotional awareness they reflect, according to a specific scoring system. The 
+scoring focuses on the structure and differentiation of the emotion words used rather than 
+their content or appropriateness. The total LEAS score is calculated by summing the scores 
+across all scenarios, providing a measure of the individual’s overall level of emotional 
+awareness. Higher scores indicate greater Emotional awareness, including the ability to 
+recognise and describe complex and nuanced emotional states in oneself and others. A large 
+amount of research using this tool exists, making it a well-validated tool. LEAS shows good 
+estimates of internal consistency and test-retest reliability. Scores in the assessment have 
+been correlated with scores from other tools measuring similar constructs, as well as with 
+various outcomes (criterion validity). 
+Self-efficacy and Self-esteem 
+Self-efficacy is defined as “the strength of individuals’ beliefs in their ability to execute 
+tasks and achieve goals” (Kankaraš and Suarez-Alvarez, 2019[39]). The literature search 
+pointed out to a related concept, namely Self-esteem, defined as “the perception of oneself 

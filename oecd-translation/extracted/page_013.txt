@@ -1,0 +1,53 @@
+12  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+behaviour effectively assessed. Nonetheless, SJTs can also be framed as an evolution from 
+traditional self-reports, composed of simple statements and Likert scales, towards a more 
+direct assessment of SES, as they present hypothetical, contextualised, complex and, thus, 
+more realistic social situations. Moreover, in these scenarios, participants are often 
+expected to analyse the behaviours of others and select courses of action other social agents 
+should follow to achieve certain outcomes (Zhuang et al., 2008[20]; Patterson et al., 
+2012[21]). Therefore, SJTs are presented in this paper as an incremental step towards more 
+direct measurement approaches. 
+These behavioural tests are widely used in professional settings, namely for recruitment 
+purposes, and, as mentioned above, allow the assessment of more subtle and complex 
+judgement processes than typical self-reported questionnaires  (Zhuang et al., 2008[20]; 
+Patterson et al., 2012[21]). Test-takers are usually asked to select the most appropriate choice 
+from a pre-determined pool of options, regarding the correct interpretation of the situation 
+and the most prosocial course of action to overcome a certain problem. Alternative response 
+modalities include ordering the options according to their effectiveness or individually 
+ranking their effectiveness on Likert‐type scales (Corstjens, Lievens and Krumm, 2017[22]). 
+Such a description bears similarities with tasks and games (discussed in Section 4 ) which 
+tackle the skills Perspective-taking and Social problem-solving. However, the judgment of 
+social situations in the more innovative assessment tools either allows for open-ended 
+responses or is integrated into digitalised audiovisual tasks, or even gamified into narrative-
+driven immersive experiences. As such, the SJTs described and discussed in this section 
+cover more classical, analogic and paper-based assessment tools, where the social scenarios 
+are presented in written vignettes without any audiovisual stimuli. For this reason, and since 
+the aim of this paper is to focus on more innovative assessment tools with higher ecological 
+validity, namely tasks and digital games, only three SJTs are presented in this subsection, 
+to give readers a flavour of their different contents and designs. 
+These classical SJTs carry an advantage since they have been extensively used and, thus, 
+their reliability and validity metrics are more consolidated, when compared to newly 
+developed innovative tasks and games (Corstjens, Lievens and Krumm, 2017[22]). A clear 
+downside is a certain compromise of ecological validity since the social situations 
+presented are all descriptive, lacking nuances related to speech and tone and even social 
+perception of non-verbal communication, such as facial and body expressions, which other 
+immersive tools can offer. However, it should be noted that recent efforts have attempted 
+to incorporate multimedia elements to SJTs, including 3D animations and motion-capture 
+techniques. These provide increments to the realism and the fidelity of stimuli of the social 
+situations being presented, in a greater alignment with the task- and game-based 
+assessments described later in this paper (Weekley et al., 2015[23]). 
+The Situational Test of Emotional Understanding (STEU) describes social and emotional 
+situations, occurring in specific personal life and workplace contexts or presented in a more 
+abstract and context-reduced setting, that can occur to any individual (MacCann and 
+Roberts, 2008[24]). For each scenario, it offers test-takers five possible emotional words 
+asking which the most probable emotion felt in such circumstances. Overall, the 42 
+different scenarios in STEU cover 17 different discrete emotions, which can be considered 
+a measurement for Perspective-taking skills. One example of such scenario is: "An 
+unwanted situation becomes less likely or stops altogether. The person involved is most 
+likely to feel: (a) regret, (b) hope, (c) joy, (d) sadness, (e) relief", with the last option being 
+considered the correct answer.  
+The paired Situational Test of Emotional Management (STEM), on the other hand, 
+presents brief social and emotional situations and participants are asked which of four 
+options could best manage the emotions of the people in the scenario, leading to a more 

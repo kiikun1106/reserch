@@ -1,0 +1,52 @@
+28  EDU/WKP(2024)11 
+INNOVATIVE TOOLS FOR THE DIRECT ASSESSMENT OF SOCIAL AND EMOTIONAL SKILLS 
+Unclassified 
+20-minute task, aimed at mirroring real-world conflicts between academic work and digital 
+distractions, presents participants with a split-screen interface. They can choose to solve 
+single-digit subtraction problems, enhancing math skills, or divert to leisure activities like 
+watching short YouTube videos or playing Tetris. Although participants can switch 
+between tasks, they are limited to one activity at a time. The task emphasises the utility of 
+practicing basic math for improving problem-solving skills, while also allowing the 
+freedom to engage in entertainment, thereby presenting a realistic scenario of academic 
+diligence versus digital distractions. It is very similar to the Mirror Tracing Frustration 
+Task, except the difficult task is here presented as more constructive and beneficial, rather 
+than a pure challenge (Meindl et al., 2019[45]). The Academic Diligence Task has been 
+tested for sufficient internal consistency, for construct validity with other self-control and 
+grit measures (although the strength of the correlations with the task’s performance scores 
+were small), for criterion validity and for fairness (Galla et al., 2014[48]). 
+The Persistence, Effort, Resilience, and Challenge-Seeking (PERC) Task was developed 
+to assess Mastery behaviours in primary, middle and secondary school children (Porter 
+et al., 2020[54]). Mastery behaviour is defined as: “Seeking out challenging tasks and 
+continuing to work on them despite difficulties” (Dweck and Leggett, 1988, p. 256[55]). 
+Based on work from developmental psychology, four key components of mastery 
+behaviours are identified in children and adolescents: Challenge-seeking (choosing 
+difficult tasks), Effort (commitment to learning), Persistence (ongoing engagement with 
+tough tasks), and Resilience (recovering from failure). Collectively, these components are 
+very similar to the common definitions of Grit. However, as they are tested through a very 
+short-term task, they also appear strongly related to individual skills like Persistence, Self-
+control, and Achievement motivation. In the PERC Task, participants are presented with 
+four series of Raven's matrices3. The initial set comprises relatively easy puzzles (80-90% 
+accuracy) to facilitate success without reliance on pre-set feedback, enabling the evaluation 
+of Challenge-seeking through subsequent choices between easier and harder puzzles. The 
+second series provides a measure of Effort by featuring medium-difficulty puzzles (40-50% 
+accuracy) and including feedback and optional tips. The third series assesses Persistence 
+based on the duration of engagement with challenging puzzles (15-25% accuracy). The 
+final series, mirroring the difficulty of the first, measures Resilience through performance 
+after experiencing failure. This task has been tested for internal consistency but not for test-
+retest reliability, convergent, divergent (although it has not been controlled for correlation 
+with general IQ) and criterion validity, and on different populations (in the USA and in 
+South Africa) (Porter et al., 2020[54]; Porter et al., 2020[56]; Porter et al., 2020[57]). 
+Interestingly, all of these assessment approaches use very short-term tasks. It remains to be 
+seen whether skills like Grit or Achievement motivation, which are characterised by the 
+intention to exert effort over a long period of time based on long-term goals, in contrast to 
+shorter-term and task-oriented skills such as Self-control and Persistence, can be assessed 
+by individual tasks of this kind. 
+4.1.2. Emotion regulation 
+Emotion regulation is measured using two main methods: self-report questionnaires, 
+which focus on typical Emotion regulation but may not accurately reflect one's actual 
+ 
+3 Raven's matrices are multiple choice items that involve pattern recognition and are designed to 
+measure a person's ability to form perceptual relations and to reason by analogy independent of 
+language and formal schooling. In each item, the task is to complete the missing part of a pattern in 
+a matrix of geometric designs. The patterns increase in complexity and difficulty, challenging the 
+test-taker's problem-solving abilities and cognitive processing. 
