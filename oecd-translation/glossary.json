@@ -3,7 +3,8 @@
     "source_document": "OECD Education Working Papers No. 316 (eed9bb04-en)",
     "title": "Innovative tools for the direct assessment of social and emotional skills",
     "extraction_policy": "3回以上出現する専門用語のみ収載。CLAUDE.mdの標準訳に既に含まれる用語（PISA、equity等）は除外。",
-    "note": "OECD既訳としては『社会情動的スキル研究』(OECD/明石書店、2018) および国立教育政策研究所のSES関連訳語慣行に準拠を試みた。"
+    "note": "OECD既訳としては『社会情動的スキル研究』(OECD/明石書店、2018) および国立教育政策研究所のSES関連訳語慣行に準拠を試みた。",
+    "last_update": "post-chapter-3"
   },
   "terms": [
     {
@@ -653,6 +654,150 @@
       "context_sample": "the OECD's Centre for Educational Research and Innovation (CERI) Governing Board.",
       "confidence": "high",
       "notes": "OECD公式日本語名称。"
+    },
+    {
+      "term": "Likert scale",
+      "proposed_ja": "リッカート尺度",
+      "frequency": 0,
+      "context_sample": "composed of simple statements and Likert scales",
+      "confidence": "high",
+      "notes": "心理測定の定訳。「リッカート式尺度」表記もあり。 [added in ch2]"
+    },
+    {
+      "term": "prosocial",
+      "proposed_ja": "向社会的",
+      "frequency": 0,
+      "context_sample": "the most prosocial course of action",
+      "confidence": "high",
+      "notes": "発達心理学の定訳。「親社会的」と訳されることもあるが「向社会的」が主流。 [added in ch2]"
+    },
+    {
+      "term": "well-being",
+      "proposed_ja": "ウェルビーイング",
+      "frequency": 0,
+      "context_sample": "self-reported psychological well-being and life satisfaction",
+      "confidence": "high",
+      "notes": "CLAUDE.mdの標準訳に既収載。確認のため再掲。 [added in ch2]"
+    },
+    {
+      "term": "life satisfaction",
+      "proposed_ja": "人生満足度",
+      "frequency": 0,
+      "context_sample": "psychological well-being and life satisfaction",
+      "confidence": "high",
+      "notes": "ポジティブ心理学の定訳。「生活満足度」も用いられる。 [added in ch2]"
+    },
+    {
+      "term": "Cronbach's alpha",
+      "proposed_ja": "クロンバックのα（係数）",
+      "frequency": 0,
+      "context_sample": "Cronbach's alpha coefficient = 0.7",
+      "confidence": "high",
+      "notes": "心理測定の定訳。 [added in ch2]"
+    },
+    {
+      "term": "consequential validity",
+      "proposed_ja": "結果的妥当性",
+      "frequency": 0,
+      "context_sample": "consequential validity given by the correlation with higher levels of self-reported psychological well-being",
+      "confidence": "medium",
+      "notes": "Messick (1989) 由来。「結果的妥当性」が主流だが「結果妥当性」も用いられる。 [added in ch2]"
+    },
+    {
+      "term": "criterion validity",
+      "proposed_ja": "基準関連妥当性",
+      "frequency": 0,
+      "context_sample": "criterion validity (concurrent or predictive validity)",
+      "confidence": "high",
+      "notes": "心理測定の定訳。「基準連関妥当性」とも書かれるが「基準関連妥当性」が現代的。 [added in ch3]"
+    },
+    {
+      "term": "concurrent validity",
+      "proposed_ja": "同時的妥当性",
+      "frequency": 0,
+      "context_sample": "concurrent or predictive validity",
+      "confidence": "high",
+      "notes": "心理測定の定訳。 [added in ch3]"
+    },
+    {
+      "term": "predictive validity",
+      "proposed_ja": "予測的妥当性",
+      "frequency": 0,
+      "context_sample": "concurrent or predictive validity",
+      "confidence": "high",
+      "notes": "心理測定の定訳。 [added in ch3]"
+    },
+    {
+      "term": "discriminant/divergent validity",
+      "proposed_ja": "弁別的妥当性",
+      "frequency": 0,
+      "context_sample": "the review of construct validity did not include divergent/discriminant validity",
+      "confidence": "high",
+      "notes": "心理測定の定訳。「弁別妥当性」表記もあり。 [added in ch3]"
+    },
+    {
+      "term": "measurement invariance",
+      "proposed_ja": "測定不変性",
+      "frequency": 0,
+      "context_sample": "Fairness did not include a review of measurement invariance analyses",
+      "confidence": "high",
+      "notes": "心理測定の定訳。 [added in ch3]"
+    },
+    {
+      "term": "snowballing approach",
+      "proposed_ja": "スノーボール式アプローチ",
+      "frequency": 0,
+      "context_sample": "additional behaviour-based assessments were identified ... using a snowballing approach",
+      "confidence": "high",
+      "notes": "文献渉猟法の定訳。「雪だるま式」「snowball法」とも。 [added in ch3]"
+    },
+    {
+      "term": "neurodivergent",
+      "proposed_ja": "神経発達症的／ニューロダイバージェント",
+      "frequency": 0,
+      "context_sample": "targeting neurodivergent populations",
+      "confidence": "medium",
+      "notes": "近年導入された語で定訳発展途上。本訳では「神経発達症的」を採用したがカタカナ表記も増加中。 [added in ch3]"
+    },
+    {
+      "term": "neurotypical",
+      "proposed_ja": "定型発達",
+      "frequency": 0,
+      "context_sample": "validated on a neurotypical control population",
+      "confidence": "high",
+      "notes": "発達心理学・自閉症研究の定訳。 [added in ch3]"
+    },
+    {
+      "term": "preschooler(s)",
+      "proposed_ja": "就学前児",
+      "frequency": 0,
+      "context_sample": "assessment tools only applicable to preschoolers (< 6 years old)",
+      "confidence": "high",
+      "notes": "発達心理学の定訳。 [added in ch3]"
+    },
+    {
+      "term": "gold standard",
+      "proposed_ja": "ゴールド・スタンダード",
+      "frequency": 0,
+      "context_sample": "Due to the lack of a gold standard",
+      "confidence": "high",
+      "notes": "「黄金基準」表記もあるが、本稿の心理測定文脈ではカタカナが一般的。 [added in ch3]"
+    },
+    {
+      "term": "fairness",
+      "proposed_ja": "公正性",
+      "frequency": 0,
+      "context_sample": "Fairness – whether an instrument is not biased against specific socioeconomic or cultural or ethnical subgroups",
+      "confidence": "high",
+      "notes": "CLAUDE.mdの equity の「公正性」と一貫。心理測定の fairness は「公正性」が定訳。 [added in ch3]"
+    },
+    {
+      "term": "split-half method",
+      "proposed_ja": "折半法",
+      "frequency": 0,
+      "context_sample": "Other internal consistency measurements include for example split-half methods",
+      "confidence": "high",
+      "notes": "心理測定の定訳。 [added in ch3]"
     }
   ]
 }
